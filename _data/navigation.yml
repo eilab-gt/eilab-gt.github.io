@@ -1,0 +1,8 @@
+main:
+  - title: "Mark Riedl"
+    url: riedl.html
+  - title: "Students"
+    url: students.html
+  - title: "Publications"
+    url: publications.html
+
