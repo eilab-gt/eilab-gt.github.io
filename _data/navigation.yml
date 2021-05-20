@@ -1,8 +1,8 @@
 main:
   - title: "Mark Riedl"
     url: riedl.html
-  - title: "Students"
-    url: students.html
+  - title: "Members"
+    url: members.html
   - title: "Publications"
     url: publications.html
   - title: "Theses"
