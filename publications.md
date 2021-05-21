@@ -18,6 +18,9 @@ title: Publications
 	    <em>{{ x.JOURNAL }}{{ x.BOOKTITLE }} 
 	    {{ x.VOLUME }} 
 	    ({{ x.YEAR }})</em>.
+	    {% if x.URL %}<br>
+	    	<a href="{{x.URL}}">{% if x.URL contains "arxiv" %}ARXIV{% else %}PDF{% endif %}</a>
+	    {% endif %}
 	  </li>
   {% endif %}
 {% endfor %}

@@ -15,6 +15,7 @@ bibs:
     PAGES: 91-94
     PUBLISHER: AAAI Press
     TITLE: Incorporating Authorial Intent into Generative Narrative Systems
+    URL: http://www.cc.gatech.edu/~riedl/pubs/riedl-aaai-ss09.pdf
     YEAR: '2009'
   - bib: "1"
     ADDRESS: Madrid, Spain
@@ -29,6 +30,7 @@ bibs:
       - name: "null"
     MONTH: September
     TITLE: 'Vignette-Based Story Planning: Creativity Through Exploration and Retrieval'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/riedl-ijwcc08.pdf
     VENUE: CC
     YEAR: '2008'
   - bib: "2"
@@ -130,12 +132,13 @@ bibs:
     MONTH: January
     PAGES: 137-144
     TITLE: A Computational Model and Classification Framework for Social Navigation
+    URL: http://www.cc.gatech.edu/~riedl/pubs/riedl-iui01.pdf
     YEAR: '2001'
   - bib: "10"
     ADDRESS: San Francisco, California
     AUTHOR:
       - name: "Mark O. Riedl"
-      - name: "Robert St. Amant"
+      - name: "Robert St.~Amant"
     BIBTEXKEY: riedl:iui2002
     BOOKTITLE: Proceedings of the 7th International Conference on Intelligent User Interfaces
       (IUI)
@@ -145,12 +148,13 @@ bibs:
     MONTH: January
     PAGES: 135-142
     TITLE: Towards Automated Exploration of Interactive Systems
+    URL: http://www.cc.gatech.edu/~riedl/pubs/iui02.pdf
     YEAR: '2002'
   - bib: "11"
     ADDRESS: Edinburgh, Scotland
     AUTHOR:
       - name: "Mark O. Riedl"
-      - name: "R. Michael Young"
+      - name: "R.~Michael Young"
     BIBTEXKEY: riedl:cc2005
     BOOKTITLE: Proceedings of the 19th International Joint Conference on Artificial
       Intelligence (IJCAI) Workshop on Computational Creativity
@@ -166,7 +170,7 @@ bibs:
     ADDRESS: New York City, New York
     AUTHOR:
       - name: "Mark O. Riedl"
-      - name: "R. Michael Young"
+      - name: "R.~Michael Young"
     BIBTEXKEY: riedl:aamas2004
     BOOKTITLE: Proceedings of the 3rd International Conference on Autonomous Agents
       and Multi-Agent Systems
@@ -176,11 +180,12 @@ bibs:
     MONTH: July
     PAGES: 186-193
     TITLE: An Intent-Driven Planner for Multi-Agent Story Generation
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aamas04.pdf
     YEAR: '2004'
   - bib: "13"
     AUTHOR:
       - name: "Mark O. Riedl"
-      - name: "R. Michael Young"
+      - name: "R.~Michael Young"
     BIBTEXKEY: riedl:nile2004
     BOOKTITLE: Proceedings of the 3rd International Conference on Narrative and Interactive
       Learning Environments (NILE)
@@ -193,7 +198,7 @@ bibs:
     ADDRESS: Toulouse, France
     AUTHOR:
       - name: "Mark O. Riedl"
-      - name: "R. Michael Young"
+      - name: "R.~Michael Young"
     BIBTEXKEY: riedl:icvs2003
     BOOKTITLE: Proceedings of the 2nd International Conference on Virtual Storytelling
       (ICVS)
@@ -203,12 +208,13 @@ bibs:
     MONTH: November
     PAGES: 47-56
     TITLE: Character-Focused Narrative Planning for Execution in Virtual Worlds
+    URL: http://www.cc.gatech.edu/~riedl/pubs/icvs03.pdf
     YEAR: '2003'
   - bib: "15"
     ADDRESS: Melbourne, Australia
     AUTHOR:
       - name: "Mark O. Riedl"
-      - name: "Robert St. Amant"
+      - name: "Robert St.~Amant"
     BIBTEXKEY: riedl:stamant:aamas2003
     BOOKTITLE: Proceedings of the 2nd International Conference on Autonomous Agents
       and Multi-Agent Systems (AAMAS)
@@ -218,6 +224,7 @@ bibs:
     MONTH: July
     PAGES: 361-368
     TITLE: 'Social Navigation: Modeling, Simulation, and Experimentation'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/riedl-stamant-aamas03.pdf
     YEAR: '2003'
   - bib: "16"
     ADDRESS: Washington, D.C.
@@ -237,6 +244,7 @@ bibs:
     PAGES: 64-73
     TITLE: 'Graphical Social Scenarios: Toward Intervention and Authoring for Adolescents
       with High Functioning Autism'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aaai-fs09.pdf
     YEAR: '2009'
   - bib: "17"
     ADDRESS: Pasadena, California
@@ -257,12 +265,13 @@ bibs:
     MONTH: July
     TITLE: Toward Assisted Authoring of Social Skill Scenarios for Young Adults with
       High Functioning Autism
+    URL: http://www.cc.gatech.edu/~riedl/pubs/ijcai-ac09.pdf
     YEAR: '2009'
   - bib: "18"
     ADDRESS: Amsterdam, Netherlands
     AUTHOR:
       - name: "Mark O. Riedl"
-      - name: "H. Chad Lane"
+      - name: "H.~Chad Lane"
       - name: "Randall Hill"
       - name: "William Swartout"
     BIBTEXKEY: riedl:nle2005
@@ -273,6 +282,7 @@ bibs:
       - name: "null"
     MONTH: July
     TITLE: 'Automated Story Direction and Intelligent Tutoring: Towards a Unifying Architecture'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/nle05.pdf
     YEAR: '2005'
   - bib: "19"
     ADDRESS: Playa del Carmen, Mexico
@@ -302,13 +312,14 @@ bibs:
     MONTH: April
     TITLE: 'Computer as Audience: A Strategy for Artificial Intelligence Support of
       Human Creativity'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/chi-ccs09.pdf
     YEAR: '2009'
   - bib: "21"
     ADDRESS: Playa del Carmen, Mexico
     AUTHOR:
       - name: "Mark O. Riedl"
-      - name: "Jonathan P. Rowe"
-      - name: "David K. Elson"
+      - name: "Jonathan~P. Rowe"
+      - name: "David~K. Elson"
     BIBTEXKEY: riedl:intetain2008
     BOOKTITLE: Proceedings of the 2nd International Conference on Intelligent Technologies
       for Interactive Entertainment (INTETAIN)
@@ -320,13 +331,14 @@ bibs:
     MONTH: January
     TITLE: 'Toward Intelligent Support of Authoring Machinima Media Content: Story and
       Visualization'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/intetain08.pdf
     YEAR: '2008'
   - bib: "22"
     ADDRESS: Melbourne, Australia
     AUTHOR:
       - name: "Mark O. Riedl"
       - name: "C.J. Saretto"
-      - name: "R. Michael Young"
+      - name: "R.~Michael Young"
     BIBTEXKEY: riedl:saretto:aamas2003
     BOOKTITLE: Proceedings of the 2nd International Conference on Autonomous Agents
       and Multi-Agent Systems
@@ -337,6 +349,7 @@ bibs:
     PAGES: 741-748
     TITLE: Managing Interaction between Users and Agents in a Multi-Agent Storytelling
       Environment
+    URL: http://www.cc.gatech.edu/~riedl/pubs/riedl-young-aamas03.pdf
     YEAR: '2003'
   - bib: "23"
     AUTHOR:
@@ -351,6 +364,7 @@ bibs:
       - name: "null"
     TITLE: Believable Agents and Intelligent Scenario Direction for Social and Cultural
       Leadership Training
+    URL: http://www.cc.gatech.edu/~riedl/pubs/brims06.pdf
     YEAR: '2006'
   - bib: "24"
     ADDRESS: Darmstadt, Germany
@@ -367,6 +381,7 @@ bibs:
     MONTH: December
     PAGES: 1-12
     TITLE: Believable Agents and Intelligent Story Adaptation for Interactive Storytelling
+    URL: http://www.cc.gatech.edu/~riedl/pubs/tidse06a.pdf
     YEAR: '2006'
   - bib: "25"
     ADDRESS: Darmstadt, Germany
@@ -383,6 +398,7 @@ bibs:
     PAGES: 195-206
     TITLE: 'Failing Believably: Toward Strong Autonomy and Strong Story in Interactive
       Narratives'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/tidse06b.pdf
     YEAR: '2006'
   - bib: "26"
     ADDRESS: Marina Del Rey, California
@@ -415,6 +431,7 @@ bibs:
     PAGES: 168-179
     TITLE: 'Story Planning with Vignettes: Toward Overcoming the Content Production
       Bottleneck'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/riedl-icids08.pdf
     VENUE: IS
     YEAR: '2008'
   - bib: "28"
@@ -428,12 +445,13 @@ bibs:
     JOURNAL: Journal of Artificial Intelligence Research
     PAGES: 217-268
     TITLE: 'Narrative Planning: Balancing Plot and Character'
+    URL: https://arxiv.org/abs/1401.3841
     VOLUME: '39'
     YEAR: '2010'
   - bib: "29"
     AUTHOR:
       - name: "Mark O. Riedl"
-      - name: "R. Michael Young"
+      - name: "R.~Michael Young"
     BIBTEXKEY: riedl:cga2006
     CATEGORY: ARTICLE
     CVNOTE: A shorter version was presented at the Conference on AI and Interactive
@@ -450,7 +468,7 @@ bibs:
   - bib: "30"
     AUTHOR:
       - name: "Mark O. Riedl"
-      - name: "R. Michael Young"
+      - name: "R.~Michael Young"
     BIBTEXKEY: riedl:ngc2006
     CATEGORY: ARTICLE
     CVNOTE: A shorter version was presented at the Workshop on Computational Creativity
@@ -462,6 +480,7 @@ bibs:
     PAGES: 303--323
     TITLE: 'Story Planning as Exploratory Creativity: Techniques for Expanding the Narrative
       Search Space'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/cc05.pdf
     VENUE: NGC
     VOLUME: '24'
     YEAR: '2006'
@@ -513,11 +532,12 @@ bibs:
     PAGES: 278-291
     TITLE: An Objective Character Believability Evaluation Procedure for Multi-Agent
       Story Generation Systems
+    URL: http://www.cc.gatech.edu/~riedl/pubs/iva05.pdf
     YEAR: '2005'
   - bib: "34"
     ADDRESS: Valencia, Spain
     AUTHOR:
-      - name: "R. Michael Young"
+      - name: "R.~Michael Young"
       - name: "Mark O. Riedl"
     BIBTEXKEY: young:ace2005
     BOOKTITLE: Proceedings of the 2nd International Conference on Advances in Computer
@@ -531,7 +551,7 @@ bibs:
   - bib: "35"
     ADDRESS: Las Vegas, Nevada
     AUTHOR:
-      - name: "Robert St. Amant"
+      - name: "Robert St.~Amant"
       - name: "Mark O. Riedl"
     BIBTEXKEY: stamant:hcii2005
     BOOKTITLE: Proceedings of the 11th International Conference on Human-Computer Interaction
@@ -544,7 +564,7 @@ bibs:
     YEAR: '2005'
   - bib: "36"
     AUTHOR:
-      - name: "Robert St. Amant"
+      - name: "Robert St.~Amant"
       - name: "Mark O. Riedl"
     BIBTEXKEY: stamant:ijhcs2000
     CATEGORY: ARTICLE
@@ -561,7 +581,7 @@ bibs:
     AUTHOR:
       - name: "Prithviraj Ammanabrolu"
       - name: "Mark O. Riedl"
-    BIBTEXKEY: ammanabrolu:naacl2019
+    BIBTEXKEY: Ammanabrolu2019
     BOOKTITLE: Proceedings of the 2019 Conference of the North American Association
       for Computational Linguistics
     CATEGORY: INPROCEEDINGS
@@ -570,6 +590,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2019.03.01
     TITLE: Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning
+    URL: https://arxiv.org/abs/1812.01628
     YEAR: '2019'
   - bib: "38"
     AUTHOR:
@@ -618,6 +639,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2016.06.08
     TITLE: Procedural Level Generation for Mixed Reality Games
+    URL: http://www.cc.gatech.edu/~riedl/pubs/azad-aiide16.pdf
     YEAR: '2016'
   - bib: "41"
     AUTHOR:
@@ -634,6 +656,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2016.07.09
     TITLE: Mixed Reality and Procedural Content Generation in Video Games
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aiide-exag16.pdf
     YEAR: '2016'
   - bib: "42"
     ADDRESS: Palo Alto, California
@@ -641,7 +664,7 @@ bibs:
       - name: "Chinmay Barve"
       - name: "Sanjeet Hajarnis"
       - name: "Sanjeet Karnik"
-      - name: "Mark O. Riedl"
+      - name: "Mark~O. Riedl"
     BIBTEXKEY: barve:aiide2010
     BOOKTITLE: Proceedings of the 6th Annual Conference on Artificial Intelligence for
       Interactive Digital Entertainment Conference
@@ -654,6 +677,7 @@ bibs:
     TIMESTAMP: 2010.06.29
     TITLE: 'WeQuest: A Mobile Alternate Reality Gaming Platform and Intelligent End-User
       Authoring Tools'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/barve-aiide10.pdf
     YEAR: '2010'
   - bib: "43"
     ADDRESS: San Diego, California
@@ -690,6 +714,7 @@ bibs:
     TIMESTAMP: 2011.02.19
     TITLE: 'REACT: Intelligent Authoring of Social Skills Instructional Modules for
       Adolescents with High-Functioning Autism'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/sigaccess11.pdf
     VOLUME: '99'
     YEAR: '2011'
   - bib: "45"
@@ -733,9 +758,9 @@ bibs:
   - bib: "47"
     ADDRESS: Palo Alto, California
     AUTHOR:
-      - name: "David B. Christian"
+      - name: "David~B. Christian"
       - name: "Mark O. Riedl"
-      - name: "R. Michael Young"
+      - name: "R.~Michael Young"
     BIBTEXKEY: christian:aaai-ss2002
     BOOKTITLE: 'Artificial Intelligence and Interactive Entertainment: Papers from the
       2002 Spring Symposium (Technical Report SS-02-01)'
@@ -747,6 +772,7 @@ bibs:
     PUBLISHER: AAAI Press
     TITLE: 'Conversation Starters: Using Spatial Context to Initiate Dialogue in First
       Person Perspective Games'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aaai-ss02.pdf
     YEAR: '2002'
   - bib: "48"
     AUTHOR:
@@ -762,6 +788,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2014.11.20
     TITLE: Examining Game World Topology Personalization
+    URL: http://www.cc.gatech.edu/~riedl/pubs/chi15.pdf
     YEAR: '2015'
   - bib: "49"
     ADDRESS: Atlanta, Georgia
@@ -782,6 +809,7 @@ bibs:
     PAGES: 207-216
     TIMESTAMP: 2011.04.29
     TITLE: Distributed Creative Cognition in Digital Filmmaking
+    URL: http://www.cc.gatech.edu/~riedl/pubs/davis-cc11.pdf
     YEAR: '2011'
   - bib: "50"
     ADDRESS: Paris, France
@@ -821,6 +849,7 @@ bibs:
     PAGES: 651-660
     TIMESTAMP: 2012.10.18
     TITLE: Creativity Support for Novice Digital Filmmaking
+    URL: http://www.cc.gatech.edu/~riedl/pubs/chi13.pdf
     YEAR: '2013'
   - bib: "52"
     AUTHOR:
@@ -839,6 +868,7 @@ bibs:
     TIMESTAMP: 2019.01.11
     TITLE: 'Automated Rationale Generation: A Technique for Explainable AI and its Effects
       on Human Perceptions'
+    URL: https://arxiv.org/abs/1901.03729
     YEAR: '2019'
   - bib: "53"
     AUTHOR:
@@ -871,9 +901,10 @@ bibs:
     MONTH: October
     PAGES: 8-13
     TITLE: A Lightweight Intelligent Virtual Cinematography System for Machinima Production
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aiide07.pdf
     YEAR: '2007'
   - bib: "55"
-    ADDRESS: Guimar\ aes, Portugal
+    ADDRESS: Guimar\~aes, Portugal
     AUTHOR:
       - name: "Adam Fitzgerald"
       - name: "Gurlal Kahlon"
@@ -888,6 +919,7 @@ bibs:
     MONTH: December
     PAGES: 312-315
     TITLE: A Computational Model of Emotional Response to Stories
+    URL: http://www.cc.gatech.edu/~riedl/pubs/icids09.pdf
     YEAR: '2009'
   - bib: "56"
     AUTHOR:
@@ -902,6 +934,7 @@ bibs:
     TIMESTAMP: 2014.01.11
     TITLE: Toward Using Games and Artificial Intelligence to Proactively Sense the Real
       World
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aisb14.pdf
     YEAR: '2014'
   - bib: "57"
     AUTHOR:
@@ -916,6 +949,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2014.07.23
     TITLE: Persistent and Pervasive Real-World Sensing using Games
+    URL: http://www.cc.gatech.edu/~riedl/pubs/hcomp14.pdf
     YEAR: '2014'
   - bib: "58"
     ADDRESS: Chicago, Illinois
@@ -964,6 +998,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2017.07.13
     TITLE: A General Level Design Editor for Co-creative Level Design
+    URL: http://www.cc.gatech.edu/~riedl/pubs/exag17.pdf
     YEAR: '2017'
   - bib: "61"
     AUTHOR:
@@ -980,6 +1015,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2015.02.23
     TITLE: Crowdsourcing Open Interactive Narrative
+    URL: http://www.cc.gatech.edu/~riedl/pubs/guzdial-fdg15.pdf
     YEAR: '2015'
   - bib: "62"
     AUTHOR:
@@ -1001,6 +1037,7 @@ bibs:
     TIMESTAMP: 2019.01.11
     TITLE: 'Friend, Collaborator, Student, Manager: How Designof an AI-Driven Game Level
       Editor Affects Creators'
+    URL: https://arxiv.org/abs/1901.06417
     YEAR: '2019'
   - bib: "63"
     AUTHOR:
@@ -1015,6 +1052,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2018.11.12
     TITLE: Co-Creative Level Design via Machine Learning
+    URL: https://arxiv.org/abs/1809.09420
     YEAR: '2018'
   - bib: "64"
     AUTHOR:
@@ -1030,6 +1068,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2018.05.17
     TITLE: Creative Invention Benchmark
+    URL: https://arxiv.org/abs/1805.03720
     YEAR: '2018'
   - bib: "65"
     AUTHOR:
@@ -1060,6 +1099,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2016.04.25
     TITLE: Learning to Blend Computer Game Levels
+    URL: https://arxiv.org/abs/1603.02738
     YEAR: '2016'
   - bib: "67"
     AUTHOR:
@@ -1073,6 +1113,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2017.11.29
     TITLE: Combinatorial Creativity for Procedural Content Generation via Machine Learning
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aaai-keg17.pdf
     YEAR: '2018'
   - bib: "68"
     AUTHOR:
@@ -1087,6 +1128,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2018.07.19
     TITLE: Automated Game Design via Conceptual Expansion
+    URL: https://arxiv.org/abs/1809.02232
     YEAR: '2018'
   - bib: "69"
     AUTHOR:
@@ -1100,6 +1142,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2017.02.26
     TITLE: Game Engine Learning from Video
+    URL: http://www.cc.gatech.edu/~riedl/pubs/ijcai17.pdf
     YEAR: '2017'
   - bib: "70"
     AUTHOR:
@@ -1114,6 +1157,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2017.11.29
     TITLE: Combinatorial Meta Search
+    URL: http://www.cc.gatech.edu/~riedl/pubs/guzdial-nips-mlcd17.pdf
     YEAR: '2017'
   - bib: "71"
     AUTHOR:
@@ -1128,6 +1172,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2016.06.08
     TITLE: Game Level Generation from Gameplay Videos
+    URL: http://www.cc.gatech.edu/~riedl/pubs/guzdial-aiide16.pdf
     YEAR: '2016'
   - bib: "72"
     AUTHOR:
@@ -1156,6 +1201,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2015.04.27
     TITLE: Toward Game Level Generation from Gameplay Videos
+    URL: https://arxiv.org/abs/1602.07721
     YEAR: '2015'
   - bib: "74"
     AUTHOR:
@@ -1170,6 +1216,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2018.11.12
     TITLE: "Towards Automated Let\uFFFDs Play Commentary"
+    URL: https://arxiv.org/abs/1909.02195
     YEAR: '2018'
   - bib: "75"
     ADDRESS: Palm Beach, Florida
@@ -1189,6 +1236,7 @@ bibs:
     TIMESTAMP: 2010.11.20
     TITLE: Supporting End-User Authoring of Alternate Reality Games with Cross-Location
       Compatibility
+    URL: http://www.cc.gatech.edu/~riedl/pubs/hajarnis-flairs11.pdf
     YEAR: '2011'
   - bib: "76"
     ADDRESS: Vancouver, Canada
@@ -1209,6 +1257,7 @@ bibs:
     PAGES: 278-283
     TIMESTAMP: 2011.07.07
     TITLE: Scaling Mobile Alternate Reality Games with Geo-Location Translation
+    URL: http://www.cc.gatech.edu/~riedl/pubs/icids11.pdf
     YEAR: '2011'
   - bib: "77"
     ADDRESS: Greenwich, London, England
@@ -1229,6 +1278,7 @@ bibs:
     PAGES: 452-466
     TIMESTAMP: 2011.05.17
     TITLE: A Case Base Planning Approach for Dialogue Generation in Digital Movie Design
+    URL: http://www.cc.gatech.edu/~riedl/pubs/iccbr11.pdf
     YEAR: '2011'
   - bib: "78"
     AUTHOR:
@@ -1243,6 +1293,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2015.11.21
     TITLE: 'Learning from Stories: Using Natural Communication to Train Believable Agents'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/ijcai-iml16.pdf
     YEAR: '2016'
   - bib: "79"
     AUTHOR:
@@ -1258,6 +1309,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2017.09.12
     TITLE: Guiding Reinforcement Learning Exploration Using Natural Language
+    URL: https://arxiv.org/abs/1707.08616
     YEAR: '2018'
   - bib: "80"
     AUTHOR:
@@ -1273,6 +1325,7 @@ bibs:
     TIMESTAMP: 2017.02.26
     TITLE: 'Rationalization: A Neural Machine Translation Approach to Generating Natural
       Language Explanations'
+    URL: https://arxiv.org/abs/1702.07826
     YEAR: '2017'
   - bib: "81"
     AUTHOR:
@@ -1288,6 +1341,7 @@ bibs:
     TIMESTAMP: 2017.09.12
     TITLE: Toward Automated Story Generation with Markov Chain Monte Carlo Methods and
       Deep Neural Networks.
+    URL: http://www.cc.gatech.edu/~riedl/pubs/int17.pdf
     YEAR: '2017'
   - bib: "82"
     AUTHOR:
@@ -1301,6 +1355,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2015.10.23
     TITLE: 'Towards Learning From Stories: An Approach for Interactive Machine Learning'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aaai-symbiotic16.pdf
     YEAR: '2016'
   - bib: "83"
     AUTHOR:
@@ -1315,6 +1370,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2016.06.08
     TITLE: 'Learning From Stories: Using Crowdsourced Narratives to Train Virtual Agents'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/harrison-aiide16.pdf
     YEAR: '2016'
   - bib: "84"
     ADDRESS: Seoul, South Korea
@@ -1352,6 +1408,7 @@ bibs:
     TIMESTAMP: 2014.07.15
     TITLE: Toward Generating 3D Games with the Help of Commonsense Knowledge and the
       Crowd
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aiide-exag14.pdf
     YEAR: '2014'
   - bib: "86"
     AUTHOR:
@@ -1369,6 +1426,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2017.02.03
     TITLE: Learning from Explanations using Sentiment and Advice in RL
+    URL: http://www.cc.gatech.edu/~riedl/pubs/tcds16.pdf
     YEAR: '2017'
   - bib: "87"
     ADDRESS: Maria Del Rey, California
@@ -1400,6 +1458,7 @@ bibs:
     SCHOOL: Georgia Institute of Technology
     TIMESTAMP: 2015.09.29
     TITLE: Learning Knowledge to Support Domain-Independent Narrative Intelligence
+    URL: http://www.cc.gatech.edu/~riedl/pubs/li-thesis.pdf
     YEAR: '2014'
   - bib: "89"
     AUTHOR:
@@ -1431,6 +1490,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2012.04.02
     TITLE: Learning Sociocultural Knowledge via Crowdsourced Examples
+    URL: http://www.cc.gatech.edu/~riedl/pubs/hcomp12.pdf
     YEAR: '2012'
   - bib: "91"
     AUTHOR:
@@ -1446,6 +1506,7 @@ bibs:
     MONTH: December
     PAGES: 25--42
     TITLE: Crowdsourcing Narrative Intelligence
+    URL: http://www.cc.gatech.edu/~riedl/pubs/acs12.pdf
     VOLUME: '2'
     YEAR: '2012'
   - bib: "92"
@@ -1464,6 +1525,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2012.02.24
     TITLE: Automatically Learning to Tell Stories about Social Situations from the Crowd
+    URL: http://www.cc.gatech.edu/~riedl/pubs/cmn12.pdf
     YEAR: '2012'
   - bib: "93"
     ADDRESS: Bellevue, Washington
@@ -1482,6 +1544,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2013.01.23
     TITLE: Story Generation with Crowdsourced Plot Graphs
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aaai13.pdf
     YEAR: '2013'
   - bib: "94"
     ADDRESS: Chania, Crete, Greece
@@ -1499,6 +1562,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2013.03.07
     TITLE: Crowdsourcing Interactive Fiction Games
+    URL: http://www.cc.gatech.edu/~riedl/pubs/li-fdg13.pdf
     YEAR: '2013'
   - bib: "95"
     ADDRESS: Palo Alto, California
@@ -1516,6 +1580,7 @@ bibs:
     PAGES: 20-25
     TIMESTAMP: 2012.07.11
     TITLE: Toward Autonomous Crowd-Powered Creation of Interactive Narratives
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aiide-int12.pdf
     YEAR: '2012'
   - bib: "96"
     AUTHOR:
@@ -1544,6 +1609,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2014.11.20
     TITLE: 'Scheherazade: Crowd-Powered Interactive Narrative Generation'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aaai15.pdf
     YEAR: '2015'
   - bib: "98"
     ADDRESS: Palo Alto, California
@@ -1561,6 +1627,7 @@ bibs:
     TIMESTAMP: 2011.08.07
     TITLE: 'A Phone That Cures Your Flu: Generating Imaginary Gadgets in Fictions with
       Planning and Analogies'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aiide-int11.pdf
     YEAR: '2011'
   - bib: "99"
     ADDRESS: Atlanta, Georgia
@@ -1595,6 +1662,7 @@ bibs:
     MONTH: October
     PAGES: 45-50
     TITLE: An Offline Planning Approach to Game Plotline Adaptation
+    URL: http://www.cc.gatech.edu/~riedl/pubs/li-aiide10.pdf
     YEAR: '2010'
   - bib: "101"
     ADDRESS: Toronto, Canada
@@ -1610,6 +1678,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2010.02.28
     TITLE: Planning for Individualized Experiences with Quest-Centric Game Adaptation
+    URL: http://www.cc.gatech.edu/~riedl/pubs/icaps-pg10.pdf
     YEAR: '2010'
   - bib: "102"
     AUTHOR:
@@ -1626,6 +1695,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2014.01.27
     TITLE: Data-Driven Alibi Story Telling for Social Believability
+    URL: http://www.cc.gatech.edu/~riedl/pubs/sbg14.pdf
     YEAR: '2014'
   - bib: "103"
     AUTHOR:
@@ -1678,6 +1748,7 @@ bibs:
     PAGES: 9-16
     TIMESTAMP: 2012.02.24
     TITLE: 'Goal-Driven Conceptual Blending: A Computational Approach for Creativity'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/iccc12.pdf
     YEAR: '2012'
   - bib: "106"
     AUTHOR:
@@ -1692,13 +1763,14 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2017.09.12
     TITLE: Deep Convolutional Player Modeling on Log and Level Data
+    URL: https://www.cc.gatech.edu/~riedl/pubs/liao-fdg17.pdf
     YEAR: '2017'
   - bib: "107"
     AUTHOR:
       - name: "Z. Lin"
       - name: "B.' 'Harrison"
       - name: "A.' 'Keech"
-      - name: "M. O.' 'Riedl"
+      - name: "M.~O.' 'Riedl"
     BIBTEXKEY: lin:arxiv2017
     CATEGORY: ARTICLE
     EDITOR:
@@ -1706,6 +1778,7 @@ bibs:
     JOURNAL: ArXiv:1709.03969
     TITLE: 'Explore, Exploit or Listen: Combining Human Feedback and Policy Model to
       Speed up Deep Reinforcement Learning in 3D Worlds'
+    URL: https://arxiv.org/abs/1709.03969
   - bib: "108"
     AUTHOR:
       - name: "Zhiyu Lin"
@@ -1733,6 +1806,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2018.07.19
     TITLE: 'GenerationMania: Learning to Semantically Choreograph'
+    URL: https://arxiv.org/abs/1806.11170
     YEAR: '2018'
   - bib: "110"
     AUTHOR:
@@ -1771,6 +1845,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2011.06.11
     TITLE: 'WeQuest: Scalable Alternate Reality Games Through End-User Content Authoring'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/ace11.pdf
     YEAR: '2011'
   - bib: "112"
     ADDRESS: Bordeaux, France
@@ -1787,6 +1862,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2011.02.05
     TITLE: An Enjoyment Metric for the Evaluation of Alternate Reality Games
+    URL: http://www.cc.gatech.edu/~riedl/pubs/fdg11.pdf
     YEAR: '2011'
   - bib: "113"
     ADDRESS: Vancouver, Canada
@@ -1804,6 +1880,7 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2011.01.18
     TITLE: Evaluating Enjoyment Within Alternate Reality Games
+    URL: http://www.cc.gatech.edu/~riedl/pubs/sandbox11.pdf
     YEAR: '2011'
   - bib: "114"
     ADDRESS: Berkeley, California
@@ -1824,11 +1901,12 @@ bibs:
     MONTH: October
     PAGES: 117-126
     TITLE: An Empirical Study of Cognition and Theatrical Improvisation
+    URL: http://www.cc.gatech.edu/~riedl/pubs/magerko-cc09.pdf
     YEAR: '2009'
   - bib: "115"
     ADDRESS: Madrid, Spain
     AUTHOR:
-      - name: "Brian S. Magerko"
+      - name: "Brian~S. Magerko"
       - name: "Mark O. Riedl"
     BIBTEXKEY: magerko:cc2008
     BOOKTITLE: Proceedings of the 5th International Joint Workshop on Computational
@@ -1839,6 +1917,7 @@ bibs:
     MONTH: September
     TITLE: 'What Happens Next?: Toward an Empirical Investigation of Improvisational
       Theatre'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/magerko-ijwcc08.pdf
     VENUE: CC
     YEAR: '2008'
   - bib: "116"
@@ -1856,6 +1935,7 @@ bibs:
     TIMESTAMP: 2018.11.12
     TITLE: 'Dungeons and DQNs: Toward Reinforcement Learning Agents that Play Tabletop
       Roleplaying Games'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/int18.pdf
     YEAR: '2018'
   - bib: "117"
     AUTHOR:
@@ -1878,23 +1958,6 @@ bibs:
     AUTHOR:
       - name: "Lara J. Martin"
       - name: "Prithviraj Ammanabrolu"
-      - name: "William Hancock"
-      - name: "Shruti Singh"
-      - name: "Brent Harrison"
-      - name: "Mark O. Riedl"
-    BIBTEXKEY: martin:mlcc2017
-    BOOKTITLE: arXiv:1706.01331
-    CATEGORY: INPROCEEDINGS
-    EDITOR:
-      - name: "null"
-    OWNER: riedl
-    TIMESTAMP: 2017.07.05
-    TITLE: Event Representations for Automated Story Generation with Deep Neural Nets
-    YEAR: '2017'
-  - bib: "119"
-    AUTHOR:
-      - name: "Lara J. Martin"
-      - name: "Prithviraj Ammanabrolu"
       - name: "Xinyu Wang"
       - name: "William Hancock"
       - name: "Shruti Singh"
@@ -1909,8 +1972,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2017.09.12
     TITLE: Event Representations for Automated Story Generation with Deep Neural Nets
+    URL: https://arxiv.org/abs/1706.01331
     YEAR: '2018'
-  - bib: "120"
+  - bib: "119"
     AUTHOR:
       - name: "Lara J. Martin"
       - name: "Prithviraj Ammanabrolu"
@@ -1933,8 +1997,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2017.11.29
     TITLE: Improvisational Storytelling Agents
+    URL: http://www.cc.gatech.edu/~riedl/pubs/martin-nips-mlcd17.pdf
     YEAR: '2017'
-  - bib: "121"
+  - bib: "120"
     AUTHOR:
       - name: "Laura J. Martin"
       - name: "Brent Harrison"
@@ -1948,8 +2013,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2016.06.30
     TITLE: Improvisational Computational Storytelling in Open Worlds
+    URL: http://www.cc.gatech.edu/~riedl/pubs/martin-icids16.pdf
     YEAR: '2016'
-  - bib: "122"
+  - bib: "121"
     AUTHOR:
       - name: "Laura J. Martin"
       - name: "Brent Harrison"
@@ -1963,8 +2029,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2016.06.30
     TITLE: Improvisational Computational Storytelling in Open Worlds
+    URL: http://www.cc.gatech.edu/~riedl/pubs/martin-icids16.pdf
     YEAR: '2016'
-  - bib: "123"
+  - bib: "122"
     ADDRESS: Brighton, England
     AUTHOR:
       - name: "James Niehaus"
@@ -1978,8 +2045,9 @@ bibs:
       - name: "null"
     MONTH: July
     TITLE: Toward Scenario Adaptation for Learning
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aied09.pdf
     YEAR: '2009'
-  - bib: "124"
+  - bib: "123"
     ADDRESS: Brighton, England
     AUTHOR:
       - name: "James Niehaus"
@@ -1993,8 +2061,9 @@ bibs:
     MONTH: July
     TITLE: 'Scenario Adaptation: An Approach to Customizing Computer-Based Training
       Games and Simulations'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aied-ieg09.pdf
     YEAR: '2009'
-  - bib: "125"
+  - bib: "124"
     ADDRESS: Palm Beach, Florida
     AUTHOR:
       - name: "James Niehaus"
@@ -2012,8 +2081,9 @@ bibs:
     PAGES: 531-536
     TIMESTAMP: 2010.11.23
     TITLE: Automated Scenario Adaptation in Support of Intelligent Tutoring Systems
+    URL: http://www.cc.gatech.edu/~riedl/pubs/niehaus-flairs11.pdf
     YEAR: '2011'
-  - bib: "126"
+  - bib: "125"
     AUTHOR:
       - name: "Michael Nitsche"
       - name: "Mark Riedl"
@@ -2029,7 +2099,7 @@ bibs:
     TITLE: Creativity, Cognition, and Machinima
     VOLUME: '19'
     YEAR: '2011'
-  - bib: "127"
+  - bib: "126"
     AUTHOR:
       - name: "Brian O'Neill"
     BIBTEXKEY: oneill:dissertation2013
@@ -2041,8 +2111,9 @@ bibs:
     TIMESTAMP: 2014.12.29
     TITLE: A Computational Model of Suspense for the Augmentation of Intelligent Story
       Generation
+    URL: http://www.cc.gatech.edu/~riedl/pubs/oneill-thesis.pdf
     YEAR: '2013'
-  - bib: "128"
+  - bib: "127"
     AUTHOR:
       - name: "Brian O'Neill"
     BIBTEXKEY: oneill:acii-dc2011
@@ -2056,8 +2127,9 @@ bibs:
     TIMESTAMP: 2011.06.01
     TITLE: Toward a Computational Model of Affective Responses to Stories for Augmenting
       Narrative Generation
+    URL: http://www.cc.gatech.edu/~riedl/pubs/acii-dc11.pdf
     YEAR: '2011'
-  - bib: "129"
+  - bib: "128"
     ADDRESS: Berkeley, California
     AUTHOR:
       - name: "Brian O'Neill"
@@ -2069,8 +2141,9 @@ bibs:
       - name: "null"
     MONTH: October
     TITLE: Supporting Human Creative Story Authoring with a Synthetic Audience
+    URL: http://www.cc.gatech.edu/~riedl/pubs/oneill-cc09.pdf
     YEAR: '2009'
-  - bib: "130"
+  - bib: "129"
     ADDRESS: Vancouver, Canada
     AUTHOR:
       - name: "Brian O'Neill"
@@ -2089,7 +2162,7 @@ bibs:
     TITLE: A Knowledge-Based Framework for the Collaborative Improvisation of Scene
       Introductions
     YEAR: '2011'
-  - bib: "131"
+  - bib: "130"
     ADDRESS: Memphis, Tennessee
     AUTHOR:
       - name: "Brian O'Neill"
@@ -2107,8 +2180,9 @@ bibs:
     PAGES: 246-255
     TIMESTAMP: 2011.04.24
     TITLE: Toward a Computational Framework of Suspense and Dramatic Arc
+    URL: http://www.cc.gatech.edu/~riedl/pubs/acii11.pdf
     YEAR: '2011'
-  - bib: "132"
+  - bib: "131"
     ADDRESS: Boston, Massachusetts
     AUTHOR:
       - name: "Brian O'Neill"
@@ -2121,8 +2195,9 @@ bibs:
       - name: "null"
     MONTH: April
     TITLE: Towards Intelligent Authoring Tools for Machinima Creation
+    URL: http://www.cc.gatech.edu/~riedl/pubs/chi-wip09.pdf
     YEAR: '2009'
-  - bib: "133"
+  - bib: "132"
     AUTHOR:
       - name: "Brian O'Neill"
       - name: "Mark O. Riedl"
@@ -2137,7 +2212,7 @@ bibs:
     TIMESTAMP: 2015.03.23
     TITLE: Emotion-Driven Narrative Generation
     YEAR: '2015'
-  - bib: "134"
+  - bib: "133"
     ADDRESS: Mexio City, Mexico
     AUTHOR:
       - name: "Brian O'Neill"
@@ -2153,8 +2228,9 @@ bibs:
     PAGES: 153-158
     TIMESTAMP: 2010.11.23
     TITLE: Simulating the Everyday Creativity of Readers
+    URL: http://www.cc.gatech.edu/~riedl/pubs/oneill-iccc11.pdf
     YEAR: '2011'
-  - bib: "135"
+  - bib: "134"
     AUTHOR:
       - name: "Brian C. O'Neill"
       - name: "Mark O. Riedl"
@@ -2167,8 +2243,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2014.01.30
     TITLE: 'Dramatis: A Computational Model of Suspense'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/oneill-aaai14.pdf
     YEAR: '2014'
-  - bib: "136"
+  - bib: "135"
     AUTHOR:
       - name: "Brian C. O'Neill"
       - name: "Mark O. Riedl"
@@ -2180,11 +2257,12 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2014.04.05
     TITLE: Applying Qualitative Research Methods to Narrative Knowledge Engineering
+    URL: http://www.cc.gatech.edu/~riedl/pubs/cmn14.pdf
     YEAR: '2014'
-  - bib: "137"
+  - bib: "136"
     AUTHOR:
-      - name: "David A. Pegram"
-      - name: "Robert St. Amant"
+      - name: "David~A. Pegram"
+      - name: "Robert St.~Amant"
       - name: "Mark O. Riedl"
     BIBTEXKEY: pegram:mi1999
     BOOKTITLE: Proceedings of the 1999 AAAI Mixed-Initiative Intelligence Workshop
@@ -2192,8 +2270,9 @@ bibs:
     EDITOR:
       - name: "null"
     TITLE: An Approach to Visual Interaction in Mixed-Initiative Planning
+    URL: http://www.cc.gatech.edu/~riedl/pubs/mii99.pdf
     YEAR: '1999'
-  - bib: "138"
+  - bib: "137"
     AUTHOR:
       - name: "Christopher Purdy"
       - name: "Mark O. Riedl"
@@ -2206,22 +2285,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2016.06.30
     TITLE: 'Reading Between the Lines: Using Plot Graphs to Draw Inferences From Stories'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/purdy-icids16.pdf
     YEAR: '2016'
-  - bib: "139"
-    AUTHOR:
-      - name: "Christopher Purdy"
-      - name: "Mark O. Riedl"
-    BIBTEXKEY: Purdy2016
-    BOOKTITLE: Proceedings of the 2016 International Conference on Interactive Digital
-      Storytelling
-    CATEGORY: INPROCEEDINGS
-    EDITOR:
-      - name: "null"
-    OWNER: riedl
-    TIMESTAMP: 2016.06.30
-    TITLE: 'Reading Between the Lines: Using Plot Graphs to Draw Inferences From Stories'
-    YEAR: '2016'
-  - bib: "140"
+  - bib: "138"
     AUTHOR:
       - name: "Christopher Purdy"
       - name: "Xinyu Wang"
@@ -2237,8 +2303,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2018.07.19
     TITLE: Predicting Generated Story Quality with Quantitative Measures
+    URL: http://www.cc.gatech.edu/~riedl/pubs/purdy-aiide18.pdf
     YEAR: '2018'
-  - bib: "141"
+  - bib: "139"
     AUTHOR:
       - name: "Mark Riedl"
     BIBTEXKEY: riedl:cie2010
@@ -2250,9 +2317,10 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2010.09.20
     TITLE: Scalable Personalization of Interactive Experiences through Creative Automation
+    URL: http://www.cc.gatech.edu/~riedl/pubs/cie.pdf
     VOLUME: '8'
     YEAR: '2010'
-  - bib: "142"
+  - bib: "140"
     AUTHOR:
       - name: "Mark Riedl"
       - name: "Brent Harrison"
@@ -2264,14 +2332,15 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2015.10.23
     TITLE: Using Stories to Teach Human Values to Artificial Agents
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aaai-ethics16.pdf
     YEAR: '2016'
-  - bib: "143"
+  - bib: "141"
     AUTHOR:
       - name: "M.O. Riedl"
       - name: "R. Michael Young"
     BIBTEXKEY: riedl:gift2014
     BOOKTITLE: 'Design Recommendations for Adaptive Intelligent Tutoring Systems: Adaptive
-      Instructional'
+      Instructional Strategies'
     CATEGORY: INCOLLECTION
     EDITOR:
       - name: "null"
@@ -2279,22 +2348,24 @@ bibs:
     PUBLISHER: Army Science Lab
     TIMESTAMP: 2014.02.19
     TITLE: The Importance of Narrative as an Affective Instructional Strategy
+    URL: https://www.gifttutoring.org/attachments/627/Design%20Recommendations%20for%20ITSs_Instructional%20Management%20Book%20-%20Volume%202.pdf
     VOLUME: '2'
     YEAR: '2014'
-  - bib: "144"
+  - bib: "142"
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:hbet2019
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
-    JOURNAL: Human Behavior \& Emerging Technologies
+    JOURNAL: Human Behavior and Emerging Technologies
     OWNER: riedl
     TIMESTAMP: 2019.01.11
     TITLE: Human-Centered Artificial Intelligence and Machine Learning
+    URL: https://arxiv.org/abs/1901.11184
     VOLUME: '1'
     YEAR: '2019'
-  - bib: "145"
+  - bib: "143"
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:chi-hcml2016
@@ -2306,8 +2377,9 @@ bibs:
     TIMESTAMP: 2016.01.13
     TITLE: 'Computational Narrative Intelligence: A Human-Centered Goal for Artificial
       Intelligence'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/chi-hcml16.pdf
     YEAR: '2016'
-  - bib: "146"
+  - bib: "144"
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:aaai-turing2015
@@ -2318,8 +2390,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2014.10.22
     TITLE: The Lovelace 2.0 Test of Artificial Creativity and Intelligence
+    URL: https://arxiv.org/abs/1410.6142v3
     YEAR: '2015'
-  - bib: "147"
+  - bib: "145"
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:pit2013
@@ -2331,7 +2404,7 @@ bibs:
     TIMESTAMP: 2013.04.21
     TITLE: 'Intelligent Narrative Generation: Creativity, Engagement, and Cognition'
     YEAR: '2013'
-  - bib: "148"
+  - bib: "146"
     ADDRESS: Toronto, Canada
     AUTHOR:
       - name: "Mark O. Riedl"
@@ -2346,8 +2419,9 @@ bibs:
     TIMESTAMP: 2012.04.18
     TITLE: 'Interactive Narrative: A Novel Application of Artificial Intelligence for
       Computer Games'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aaai12.pdf
     YEAR: '2012'
-  - bib: "149"
+  - bib: "147"
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:catea2011
@@ -2360,7 +2434,7 @@ bibs:
     TITLE: Interactive Social Stories for Young Adults with High-Functioning Autism
       Spectrum Disorders
     YEAR: '2011'
-  - bib: "150"
+  - bib: "148"
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:ecgc2011
@@ -2372,7 +2446,7 @@ bibs:
     TIMESTAMP: 2011.02.25
     TITLE: Just-in-time Procedural Content Generation of Game Plots
     YEAR: '2011'
-  - bib: "151"
+  - bib: "149"
     ADDRESS: Monterey, California
     AUTHOR:
       - name: "Mark O. Riedl"
@@ -2386,8 +2460,9 @@ bibs:
     TIMESTAMP: 2010.02.28
     TITLE: A Comparison of Interactive Narrative System Approaches Using Human Improvisational
       Actors
+    URL: http://www.cc.gatech.edu/~riedl/pubs/fdg-int10.pdf
     YEAR: '2010'
-  - bib: "152"
+  - bib: "150"
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:mm2010
@@ -2400,7 +2475,7 @@ bibs:
       Analogical Transformation'
     VOLUME: '20'
     YEAR: '2010'
-  - bib: "153"
+  - bib: "151"
     ADDRESS: Atlanta, Georgia
     AUTHOR:
       - name: "Mark O. Riedl"
@@ -2412,9 +2487,10 @@ bibs:
       - name: "null"
     MONTH: June
     TITLE: Computationally Creative Search for Stories
+    URL: http://www.cc.gatech.edu/~riedl/pubs/dcc08.pdf
     VENUE: DCC
     YEAR: '2008'
-  - bib: "154"
+  - bib: "152"
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:tcs2008
@@ -2425,9 +2501,9 @@ bibs:
       - name: "null"
     OWNER: riedl
     TIMESTAMP: 2013.04.21
-    TITLE: Intelligent Experience Management for Virtual Worlds.
+    TITLE: Intelligent Experience Management for Virtual Worlds
     YEAR: '2008'
-  - bib: "155"
+  - bib: "153"
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:itsg2006
@@ -2440,7 +2516,7 @@ bibs:
     TIMESTAMP: 2013.04.21
     TITLE: Emergent and Guided Narrative for Training and Education in Virtual Worlds
     YEAR: '2006'
-  - bib: "156"
+  - bib: "154"
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl04
@@ -2450,7 +2526,7 @@ bibs:
     SCHOOL: North Carolina State University
     TITLE: 'Narrative Generation: Balancing Plot and Character'
     YEAR: '2004'
-  - bib: "157"
+  - bib: "155"
     AUTHOR:
       - name: "Mark O. Riedl"
       - name: "Vadim Bulitko"
@@ -2465,21 +2541,23 @@ bibs:
     PAGES: 67-77
     TIMESTAMP: 2012.10.18
     TITLE: 'Interactive Narrative: An Intelligent Systems Approach'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aimag.pdf
     VOLUME: '34'
     YEAR: '2013'
-  - bib: "158"
+  - bib: "156"
     AUTHOR:
-      - name: "Mark O. Riedl"
+      - name: "Mark~O. Riedl"
       - name: "Brent. Harrison"
     BIBTEXKEY: riedl:arxiv:matrix2017
-    CATEGORY: ARTICLE
+    BOOKTITLE: Proceedings of the AAAI 2019 Workshop on SafeAI
+    CATEGORY: INPROCEEDINGS
     EDITOR:
       - name: "null"
-    JOURNAL: ArXiv e-prints 1703.10284
     TITLE: 'Enter the Matrix: A Virtual World Approach to Safely Interruptable Autonomous
       Systems'
+    URL: https://arxiv.org/abs/1703.10284
     YEAR: '2017'
-  - bib: "159"
+  - bib: "157"
     AUTHOR:
       - name: "Mark O. Riedl"
       - name: "Ken Hartsook"
@@ -2498,7 +2576,7 @@ bibs:
     TITLE: 'Game Forge: An Intelligent System that Generates Computer Role Playing
       Games'
     YEAR: '2011'
-  - bib: "160"
+  - bib: "158"
     ADDRESS: Palo Alto, California
     AUTHOR:
       - name: "Mark O. Riedl"
@@ -2511,8 +2589,9 @@ bibs:
       - name: "null"
     MONTH: October
     TITLE: Generating Story Analogues
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aiide09.pdf
     YEAR: '2009'
-  - bib: "161"
+  - bib: "159"
     ADDRESS: Toronto, Canada
     AUTHOR:
       - name: "Mark O. Riedl"
@@ -2527,8 +2606,9 @@ bibs:
     TIMESTAMP: 2010.02.28
     TITLE: 'Creating Customized Virtual Experiences by Leveraging Human Creative Effort:
       A Desideratum'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aamas-chacie10.pdf
     YEAR: '2010'
-  - bib: "162"
+  - bib: "160"
     ADDRESS: Palo Alto, California
     AUTHOR:
       - name: "Mark O. Riedl"
@@ -2545,8 +2625,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2011.05.17
     TITLE: Robust and Authorable Multiplayer Interactive Narrative Experiences
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aiide11.pdf
     YEAR: '2011'
-  - bib: "163"
+  - bib: "161"
     ADDRESS: Lisbon, Portugal
     AUTHOR:
       - name: "Mark O. Riedl"
@@ -2563,12 +2644,12 @@ bibs:
     TITLE: Addressing Scalability Limitations of Mobile Alternate Reality Games through
       End-User Content Authoring
     YEAR: '2011'
-  - bib: "164"
+  - bib: "162"
     AUTHOR:
       - name: "Mark O. Riedl"
       - name: "Andrew Stern"
-      - name: "Don M. Dini"
-      - name: "Jason M. Alderman"
+      - name: "Don~M. Dini"
+      - name: "Jason~M. Alderman"
     BIBTEXKEY: riedl:itssa2008
     CATEGORY: ARTICLE
     CVNOTE: Featured article on journal website for issue. A shorter version was presented
@@ -2580,10 +2661,11 @@ bibs:
     PAGES: 23-42
     TITLE: Dynamic Experience Management in Virtual Worlds for Entertainment, Education,
       and Training
+    URL: http://www.cc.gatech.edu/~riedl/pubs/itssa.pdf
     VENUE: ITSSA
     VOLUME: '3'
     YEAR: '2008'
-  - bib: "165"
+  - bib: "163"
     AUTHOR:
       - name: "Mark O. Riedl"
       - name: "Gita Reese Sukthankar"
@@ -2605,7 +2687,7 @@ bibs:
       Digital Entertainment
     VOLUME: '34'
     YEAR: '2013'
-  - bib: "166"
+  - bib: "164"
     AUTHOR:
       - name: "Mark O. Riedl"
       - name: "David Thue"
@@ -2619,8 +2701,9 @@ bibs:
     PUBLISHER: Springer
     TIMESTAMP: 2010.03.07
     TITLE: Game AI as Storytelling
+    URL: http://www.cc.gatech.edu/~riedl/pubs/riedl-ai4games.pdf
     YEAR: '2010'
-  - bib: "167"
+  - bib: "165"
     ADDRESS: Niagra Falls, Canada
     AUTHOR:
       - name: "Mark O. Riedl"
@@ -2639,7 +2722,7 @@ bibs:
     TIMESTAMP: 2013.05.15
     TITLE: Game AI as Producer
     YEAR: '2013'
-  - bib: "168"
+  - bib: "166"
     ADDRESS: Erfurt, Germany
     AUTHOR:
       - name: "David Roberts"
@@ -2659,12 +2742,12 @@ bibs:
       Virtual Experiences
     VENUE: IS
     YEAR: '2008'
-  - bib: "169"
+  - bib: "167"
     ADDRESS: Whistler, Canada
     AUTHOR:
-      - name: "David L. Roberts"
+      - name: "David~L. Roberts"
       - name: "Mark O. Riedl"
-      - name: "Charles L. Isbell"
+      - name: "Charles~L. Isbell"
     BIBTEXKEY: roberts:malaga2007
     BOOKTITLE: Proceedings of the 21st Annual Conference on Neural Information Processing
       Systems, Workshop on Machine Learning and Games (MALAGA)
@@ -2674,7 +2757,7 @@ bibs:
     MONTH: December
     TITLE: Opportunities for Machine Learning to Impact Interactive Narrative
     YEAR: '2007'
-  - bib: "170"
+  - bib: "168"
     ADDRESS: London, England
     AUTHOR:
       - name: "David L. Roberts"
@@ -2687,8 +2770,9 @@ bibs:
       - name: "null"
     MONTH: September
     TITLE: 'Beyond Adversarial: The Case for Game AI as Storytelling'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/digra09.pdf
     YEAR: '2009'
-  - bib: "171"
+  - bib: "169"
     AUTHOR:
       - name: "Scott Robertson"
       - name: "Rob Solomon"
@@ -2707,7 +2791,7 @@ bibs:
     TITLE: The Visual Design and Implementation of an Embodied Conversation Agent in
       a Shared Decision Context
     YEAR: '2015'
-  - bib: "172"
+  - bib: "170"
     ADDRESS: Palo Alto, California
     AUTHOR:
       - name: "Mei Si"
@@ -2725,8 +2809,9 @@ bibs:
     PUBLISHER: AAAI Press
     TITLE: 'Interactive Drama Authoring with Plot and Character: An Intelligent System
       that Fosters Creativity'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aaai-ss08.pdf
     YEAR: '2008'
-  - bib: "173"
+  - bib: "171"
     ADDRESS: Palo Alto, California
     AUTHOR:
       - name: "Mei Si"
@@ -2743,9 +2828,10 @@ bibs:
     PAGES: 203-208
     TITLE: Integrating Plot-Centric and Character-Centric Processes for Authoring Interactive
       Drama
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aiide08.pdf
     VENUE: AIIDE
     YEAR: '2008'
-  - bib: "174"
+  - bib: "172"
     AUTHOR:
       - name: "Kristin Siu"
       - name: "Matthew Guzdial"
@@ -2759,8 +2845,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2017.02.26
     TITLE: Evaluating Singleplayer and Multiplayer in Human Computation Games
+    URL: http://www.cc.gatech.edu/~riedl/pubs/siu-guzdial-fdg17.pdf
     YEAR: '2017'
-  - bib: "175"
+  - bib: "173"
     AUTHOR:
       - name: "Kristin Siu"
       - name: "Mark Riedl"
@@ -2773,8 +2860,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2016.04.25
     TITLE: Reward Systems in Human Computation Games
+    URL: http://www.cc.gatech.edu/~riedl/pubs/chi-play16.pdf
     YEAR: '2016'
-  - bib: "176"
+  - bib: "174"
     AUTHOR:
       - name: "Kristin Siu"
       - name: "Alexander Zook"
@@ -2790,7 +2878,7 @@ bibs:
     TITLE: The Role of Artificial Intelligence in the Creation of a Science of Game
       Design for Human Computation Games
     YEAR: '2017'
-  - bib: "177"
+  - bib: "175"
     AUTHOR:
       - name: "Kristin Siu"
       - name: "Alexander Zook"
@@ -2806,8 +2894,9 @@ bibs:
     TIMESTAMP: 2013.12.20
     TITLE: 'Collaboration versus Competition: Design and Evaluation of Mechanics for
       Games with a Purpose'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/siu-fdg14.pdf
     YEAR: '2014'
-  - bib: "178"
+  - bib: "176"
     AUTHOR:
       - name: "Siddharth Srinivasan"
       - name: "Richa Arora"
@@ -2820,29 +2909,16 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2018.02.27
     TITLE: A Simple and Effective Approach to the Story Cloze Test
+    URL: https://arxiv.org/abs/1803.05547
     YEAR: '2018'
-  - bib: "179"
-    AUTHOR:
-      - name: "Siddharth Srinivasan"
-      - name: "Richa Arora"
-      - name: "Mark O. Riedl"
-    BIBTEXKEY: Srinivasan2018
-    BOOKTITLE: Proceedings of NAACL 2018
-    CATEGORY: INPROCEEDINGS
-    EDITOR:
-      - name: "null"
-    OWNER: riedl
-    TIMESTAMP: 2018.02.27
-    TITLE: A Simple and Effective Approach to the Story Cloze Test
-    YEAR: '2018'
-  - bib: "180"
+  - bib: "177"
     ADDRESS: Santa Fe, New Mexico
     AUTHOR:
       - name: "Robert St. Amant"
-      - name: "Christopher G. Healey"
+      - name: "Christopher~G. Healey"
       - name: "Mark O. Riedl"
       - name: "Sarat Kocherlakota"
-      - name: "David A. Pegram"
+      - name: "David~A. Pegram"
       - name: "Mika Torhola"
     BIBTEXKEY: stamant:iui2001
     BOOKTITLE: Proceedings of the 6th International Conference on Intelligent User Interfaces
@@ -2852,8 +2928,9 @@ bibs:
     MONTH: January
     PAGES: 153-159
     TITLE: Intelligent Visualization in a Planning Simulation
+    URL: http://www.cc.gatech.edu/~riedl/pubs/stamant-iui01.pdf
     YEAR: '2001'
-  - bib: "181"
+  - bib: "178"
     AUTHOR:
       - name: "Adam Summerville"
       - name: "Matthew Guzdial"
@@ -2870,9 +2947,9 @@ bibs:
     TITLE: 'Learning Player Tailored Content From Observation: Platformer Level Generation
       from Video Traces using LSTMs'
     YEAR: '2016'
-  - bib: "182"
+  - bib: "179"
     AUTHOR:
-      - name: "R. Michael Young"
+      - name: "R.~Michael Young"
       - name: "Mark O. Riedl"
       - name: "Mark Branly"
       - name: "Arnav Jhala"
@@ -2889,7 +2966,7 @@ bibs:
     VENUE: JOGD
     VOLUME: '1'
     YEAR: '2004'
-  - bib: "183"
+  - bib: "180"
     ADDRESS: Miama, Florida
     AUTHOR:
       - name: "R. Michael Young"
@@ -2905,8 +2982,9 @@ bibs:
     TIMESTAMP: 2012.12.28
     TITLE: Towards an Architecture for Intelligent Control of Narrative in Interactive
       Virtual Worlds
+    URL: http://www.cc.gatech.edu/~riedl/pubs/iui03.pdf
     YEAR: '2003'
-  - bib: "184"
+  - bib: "181"
     AUTHOR:
       - name: "Hong Yu"
       - name: "Mark O. Riedl"
@@ -2920,8 +2998,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2015.07.01
     TITLE: Optimizing Players' Expected Enjoyment in Interactive Stories
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aiide15.pdf
     YEAR: '2015'
-  - bib: "185"
+  - bib: "182"
     AUTHOR:
       - name: "Hong Yu"
       - name: "Mark O. Riedl"
@@ -2933,8 +3012,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2015.05.14
     TITLE: Automatic Generation of Game-based CAPTCHAs
+    URL: http://www.cc.gatech.edu/~riedl/pubs/yu-pcg15.pdf
     YEAR: '2015'
-  - bib: "186"
+  - bib: "183"
     AUTHOR:
       - name: "Hong Yu"
       - name: "Mark O. Riedl"
@@ -2949,9 +3029,10 @@ bibs:
     TIMESTAMP: 2012.10.18
     TITLE: Personalized Interactive Narratives via Sequential Recommendation of Plot
       Points
+    URL: http://www.cc.gatech.edu/~riedl/pubs/tciaig14-yu.pdf
     VOLUME: '6'
     YEAR: '2014'
-  - bib: "187"
+  - bib: "184"
     AUTHOR:
       - name: "Hong Yu"
       - name: "Mark O. Riedl"
@@ -2965,9 +3046,10 @@ bibs:
     MONTH: October
     OWNER: riedl
     TIMESTAMP: 2013.05.09
-    TITLE: A Data-Driven Personalized Drama Manager
+    TITLE: Data-Driven Personalized Drama Management
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aiide13.pdf
     YEAR: '2013'
-  - bib: "188"
+  - bib: "185"
     ADDRESS: Chaina, Crete, Greece
     AUTHOR:
       - name: "Hong Yu"
@@ -2982,8 +3064,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2013.03.07
     TITLE: Toward Personalized Guidance in Interactive Narratives
+    URL: http://www.cc.gatech.edu/~riedl/pubs/yu-fdg13.pdf
     YEAR: '2013'
-  - bib: "189"
+  - bib: "186"
     ADDRESS: Valencia, Spain
     AUTHOR:
       - name: "Hong Yu"
@@ -3001,8 +3084,9 @@ bibs:
     PAGES: 71-78
     TIMESTAMP: 2011.10.21
     TITLE: A Sequential Recommendation Approach for Interactive Personalized Story Generation
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aamas12.pdf
     YEAR: '2012'
-  - bib: "190"
+  - bib: "187"
     AUTHOR:
       - name: "Hong Yu"
       - name: "Tyler Trawick"
@@ -3017,7 +3101,7 @@ bibs:
     TITLE: Personalized Procedural Content Generation to Minimize Frustration and Boredom
       based on Ranking Algorithm
     YEAR: '2011'
-  - bib: "191"
+  - bib: "188"
     AUTHOR:
       - name: "Alexander Zook"
       - name: "Eric Fruchter"
@@ -3033,8 +3117,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2013.09.16
     TITLE: Automatic Playtesting for Game Parameter Tuning via Active Learning
+    URL: http://www.cc.gatech.edu/~riedl/pubs/zook-fdg14.pdf
     YEAR: '2014'
-  - bib: "192"
+  - bib: "189"
     AUTHOR:
       - name: "Alexander Zook"
       - name: "Brent Harrison"
@@ -3049,8 +3134,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2015.02.23
     TITLE: Monte-Carlo Tree Search for Simulation-based Play Strategy Analysis
+    URL: http://www.cc.gatech.edu/~riedl/pubs/zook-fdg15.pdf
     YEAR: '2015'
-  - bib: "193"
+  - bib: "190"
     ADDRESS: Raleigh, North Carolina
     AUTHOR:
       - name: "Alexander Zook"
@@ -3067,8 +3153,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2012.03.18
     TITLE: 'Skill-based Mission Generation: A Data-driven Temporal Player Modeling Approach'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/fdg-pcg12.pdf
     YEAR: '2012'
-  - bib: "194"
+  - bib: "191"
     AUTHOR:
       - name: "Alexander Zook"
       - name: "Mark O. Riedl"
@@ -3080,9 +3167,10 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2018.03.12
     TITLE: Learning How Design Choices Impact Gameplay Behavior
+    URL: https://ieeexplore.ieee.org/document/8307175
     VOLUME: forthcoming
     YEAR: '2018'
-  - bib: "195"
+  - bib: "192"
     AUTHOR:
       - name: "Alexander Zook"
       - name: "Mark O. Riedl"
@@ -3095,8 +3183,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2014.01.30
     TITLE: Automatic Game Design via Mechanic Generation
+    URL: http://www.cc.gatech.edu/~riedl/pubs/zook-aaai14.pdf
     YEAR: '2014'
-  - bib: "196"
+  - bib: "193"
     AUTHOR:
       - name: "Alexander Zook"
       - name: "Mark O. Riedl"
@@ -3109,8 +3198,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2014.01.27
     TITLE: Generating and Adapting Game Mechanics
+    URL: http://www.cc.gatech.edu/~riedl/pubs/pcg14.pdf
     YEAR: '2014'
-  - bib: "197"
+  - bib: "194"
     AUTHOR:
       - name: "Alexander Zook"
       - name: "Mark O. Riedl"
@@ -3123,8 +3213,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2013.07.12
     TITLE: Temporal Game Challenge Tailoring
+    URL: http://www.cc.gatech.edu/~riedl/pubs/tciaig14-zook.pdf
     YEAR: '2014'
-  - bib: "198"
+  - bib: "195"
     ADDRESS: Chaina, Crete, Greece
     AUTHOR:
       - name: "Alexander Zook"
@@ -3138,8 +3229,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2013.03.25
     TITLE: Game Conceptualization and Development Processes in the Global Game Jam
+    URL: http://www.cc.gatech.edu/~riedl/pubs/fdg-ggj13.pdf
     YEAR: '2013'
-  - bib: "199"
+  - bib: "196"
     ADDRESS: Palo Alto, California
     AUTHOR:
       - name: "Alexander Zook"
@@ -3156,8 +3248,9 @@ bibs:
     PAGES: 93-98
     TIMESTAMP: 2012.05.23
     TITLE: A Temporal Data-Driven Player Model for Dynamic Difficulty Adjustment
+    URL: http://www.cc.gatech.edu/~riedl/pubs/aiide12.pdf
     YEAR: '2012'
-  - bib: "200"
+  - bib: "197"
     ADDRESS: Raleigh, North Carolina
     AUTHOR:
       - name: "Alexander Zook"
@@ -3178,8 +3271,9 @@ bibs:
     TIMESTAMP: 2011.12.30
     TITLE: 'Automated Scenario Generation: Toward Tailored and Optimized Military Training
       in Virtual Environments'
+    URL: http://www.cc.gatech.edu/~riedl/pubs/fdg12.pdf
     YEAR: '2012'
-  - bib: "201"
+  - bib: "198"
     ADDRESS: Atlanta, Georga
     AUTHOR:
       - name: "Alexander Zook"
@@ -3197,8 +3291,9 @@ bibs:
     PAGES: 147-156
     TIMESTAMP: 2011.04.29
     TITLE: Formally Modeling Pretend Object Play
+    URL: http://www.cc.gatech.edu/~riedl/pubs/zook-cc11.pdf
     YEAR: '2011'
-  - bib: "202"
+  - bib: "199"
     ADDRESS: Mexico City, Mexico
     AUTHOR:
       - name: "Alexander Zook"
@@ -3215,8 +3310,9 @@ bibs:
     PAGES: 42-47
     TIMESTAMP: 2011.01.18
     TITLE: Understanding Human Creativity for Computational Play
+    URL: http://www.cc.gatech.edu/~riedl/pubs/zook-iccc11.pdf
     YEAR: '2011'
-  - bib: "203"
+  - bib: "200"
     AUTHOR:
       - name: "Matthew Guzdial"
       - name: "Mark O. Riedl"
@@ -3229,8 +3325,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2019.07.16
     TITLE: 'Combinets: Creativity via Recombination of Neural Networks'
+    URL: https://arxiv.org/abs/1802.03605
     YEAR: '2019'
-  - bib: "204"
+  - bib: "201"
     AUTHOR:
       - name: "Zhiyu Lin"
       - name: "Kyle Xiao"
@@ -3245,8 +3342,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2019.07.16
     TITLE: 'GenerationMania: Learning to Semantically Choreograph'
+    URL: https://arxiv.org/abs/1806.11170
     YEAR: '2019'
-  - bib: "205"
+  - bib: "202"
     AUTHOR:
       - name: "Spencer Frazier"
       - name: "Mark O. Riedl"
@@ -3259,21 +3357,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2019.07.16
     TITLE: Improving Deep Reinforcement Learning in Minecraft with Action Advice
+    URL: https://arxiv.org/abs/1908.01007
     YEAR: '2019'
-  - bib: "206"
-    AUTHOR:
-      - name: "Prithviraj Ammanabrolu"
-      - name: "Riedl Mark O."
-    BIBTEXKEY: ammanabrolu:naacl2019
-    BOOKTITLE: Proceedings of NAACL-HLT 2019
-    CATEGORY: INPROCEEDINGS
-    EDITOR:
-      - name: "null"
-    OWNER: riedl
-    TIMESTAMP: 2019.07.16
-    TITLE: Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning
-    YEAR: '2019'
-  - bib: "207"
+  - bib: "203"
     AUTHOR:
       - name: "Prithviraj Ammanabrolu"
       - name: "Ethan Tien"
@@ -3291,7 +3377,7 @@ bibs:
     TIMESTAMP: 2019.07.16
     TITLE: Guided Neural Language Generation for Automated Storytelling
     YEAR: '2019'
-  - bib: "208"
+  - bib: "204"
     AUTHOR:
       - name: "Pradyumna Tambwekar"
       - name: "Murtaza Dhuliawala"
@@ -3308,8 +3394,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2019.07.16
     TITLE: Controllable Neural Story Plot Generation via Reward Shaping
+    URL: https://arxiv.org/abs/1809.10736
     YEAR: '2019'
-  - bib: "209"
+  - bib: "205"
     AUTHOR:
       - name: "Zijin Lou"
       - name: "Matthew Guzdial"
@@ -3324,7 +3411,7 @@ bibs:
     TIMESTAMP: 2019.07.16
     TITLE: Making CNNs for Video Parsing Accessible
     YEAR: '2019'
-  - bib: "210"
+  - bib: "206"
     AUTHOR:
       - name: "Prithviraj Ammanabrolu"
       - name: "Mark O. Riedl"
@@ -3337,8 +3424,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2019.07.16
     TITLE: Transfer in Deep Reinforcement Learning using Knowledge Graphs
+    URL: https://arxiv.org/abs/1908.06556
     YEAR: '2019'
-  - bib: "211"
+  - bib: "207"
     AUTHOR:
       - name: "Prithviraj Ammanabrolu"
       - name: "Ethan Tien"
@@ -3354,9 +3442,10 @@ bibs:
       - name: "null"
     OWNER: riedl
     TIMESTAMP: 2019.07.16
-    TITLE: Guided Neural Language Generation for Automated Storytelling
+    TITLE: 'Story Realization: Expanding Plot Events into Sentences'
+    URL: https://arxiv.org/abs/1909.03480
     YEAR: '2019'
-  - bib: "212"
+  - bib: "208"
     AUTHOR:
       - name: "Prithviraj Ammanabrolu"
       - name: "William Broniec"
@@ -3371,8 +3460,9 @@ bibs:
     OWNER: riedl
     TIMESTAMP: 2019.11.17
     TITLE: Toward Automated Quest Generation in Text-Adventure Games
+    URL: https://arxiv.org/abs/1909.06283
     YEAR: '2019'
-  - bib: "213"
+  - bib: "209"
     AUTHOR:
       - name: "null"
     BIBTEXKEY: 'jabref-meta: databaseType:bibtex;'

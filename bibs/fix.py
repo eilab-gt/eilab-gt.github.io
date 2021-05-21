@@ -7,7 +7,7 @@ with open(sys.argv[2], "w") as outfile:
    outfile.write("bibs:\n")
    with open(sys.argv[1], "r") as infile:
       for line in infile:
-         line = line.replace('~', ' ')
+         #line = line.replace('~', ' ')
          line = re.sub(r'[\{\}]', '', line)
          line = re.sub(r'\\\'', '', line)
          if line[0] == '-':
