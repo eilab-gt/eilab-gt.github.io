@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Students
+title: Members
 
 ---
 
