@@ -3464,6 +3464,201 @@ bibs:
     YEAR: '2019'
   - bib: "209"
     AUTHOR:
+      - name: "Upol Ehsan"
+      - name: "Philipp Wintersberger"
+      - name: "Q. V. Liao"
+      - name: "Martina Mara"
+      - name: "M. Streit"
+      - name: "Sandra Wachter"
+      - name: "A. Riener"
+      - name: "Mark O. Riedl"
+    BIBTEXKEY: Ehsan2021OperationalizingHP
+    BOOKTITLE: Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing
+      Systems
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    TITLE: Operationalizing Human-Centered Perspectives in Explainable AI
+    URL: https://dl.acm.org/doi/10.1145/3411763.3441342
+    YEAR: '2021'
+  - bib: "210"
+    AUTHOR:
+      - name: "Prithviraj Ammanabrolu"
+      - name: "Mark O Riedl"
+    BIBTEXKEY: ammanabrolu2020situated
+    CATEGORY: ARTICLE
+    EDITOR:
+      - name: "null"
+    JOURNAL: arXiv preprint arXiv:2103.09977
+    TITLE: Situated Language Learning via Interactive Narratives
+    URL: https://arxiv.org/abs/2103.09977
+    YEAR: '2021'
+  - bib: "211"
+    AUTHOR:
+      - name: "Upol Ehsan"
+      - name: "Q. Liao"
+      - name: "Michael J. Muller"
+      - name: "Mark O. Riedl"
+      - name: "Justin D. Weisz"
+    BIBTEXKEY: Ehsan2021ExpandingET
+    BOOKTITLE: Proceedings of the 2021 CHI Conference on Human Factors in Computing
+      Systems
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    TITLE: 'Expanding Explainability: Towards Social Transparency in AI systems'
+    URL: https://arxiv.org/abs/2101.04719
+    YEAR: '2021'
+  - bib: "212"
+    AUTHOR:
+      - name: "O. Nov"
+      - name: "Y. Aphinyanaphongs"
+      - name: "Y. Lui"
+      - name: "D. Mann"
+      - name: "M. Porfiri"
+      - name: "Mark O. Riedl"
+      - name: "J. Rizzo"
+      - name: "B. Wiesenfeld"
+    BIBTEXKEY: Nov2021TheTO
+    CATEGORY: ARTICLE
+    EDITOR:
+      - name: "null"
+    JOURNAL: Communications of the ACM
+    PAGES: 46 - 48
+    TITLE: The transformation of patient-clinician relationships with AI-based medical
+      advice
+    URL: https://dl.acm.org/doi/10.1145/3417518
+    VOLUME: '64'
+    YEAR: '2021'
+  - bib: "213"
+    AUTHOR:
+      - name: "D. Srivastava"
+      - name: "Spencer Frazier"
+      - name: "Mark O. Riedl"
+      - name: "K. Feigh"
+    BIBTEXKEY: Srivastava2021EffectOI
+    BOOKTITLE: International Joint Conference on Computer Vision, Imaging, and Computer
+      Graphics Theory and Applications
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    TITLE: Effect of Interaction Design of Reinforcement Learning Agents on Human Satisfaction
+      in Partially Observable Domains
+    YEAR: '2021'
+  - bib: "214"
+    AUTHOR:
+      - name: "Sahith Dambekodi"
+      - name: "Spencer Frazier"
+      - name: "Prithviraj Ammanabrolu"
+      - name: "Mark O Riedl"
+    BIBTEXKEY: dambekodi20commonsense
+    BOOKTITLE: arXiv preprint arXiv:2012.02757
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    TITLE: 'NeurIPS Workshop on Wordplay: When Language Meets Games'
+    URL: https://arxiv.org/abs/2012.02757
+    YEAR: '2020'
+  - bib: "215"
+    AUTHOR:
+      - name: "Xiangyu Peng"
+      - name: "S. Li"
+      - name: "Spencer Frazier"
+      - name: "Mark O. Riedl"
+    BIBTEXKEY: Peng2020ReducingNT
+    BOOKTITLE: International Conference on Natural Language Generation
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    TITLE: Reducing Non-Normative Text Generation from Language Models
+    URL: https://arxiv.org/abs/2001.08764
+    YEAR: '2020'
+  - bib: "216"
+    AUTHOR:
+      - name: "Mark O. Riedl"
+    BIBTEXKEY: Riedl2020WeirdAY
+    BOOKTITLE: Proceedings of the NeurIPS Workshop on Machine Learning for Creativity
+      and Design
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    TITLE: 'Weird AI Yankovic: Generating Parody Lyrics'
+    URL: https://arxiv.org/abs/2009.12240
+    YEAR: '2020'
+  - bib: "217"
+    AUTHOR:
+      - name: "Prithviraj Ammanabrolu"
+      - name: "Wesley Cheung"
+      - name: "William Broniec"
+      - name: "Mark O Riedl"
+    BIBTEXKEY: ammanabrolu2020automated
+    BOOKTITLE: AAAI Conference on Artificial Intelligence
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    TITLE: Automated Storytelling via Causal, Commonsense Plot Ordering
+    URL: https://arxiv.org/abs/2009.00829
+    YEAR: '2020'
+  - bib: "218"
+    AUTHOR:
+      - name: "Prithviraj Ammanabrolu"
+      - name: "Ethan Tien"
+      - name: "Matthew Hausknecht"
+      - name: "Mark O Riedl"
+    BIBTEXKEY: ammanabrolu2020avoid
+    CATEGORY: ARTICLE
+    EDITOR:
+      - name: "null"
+    JOURNAL: arXiv preprint arXiv:2006.07409
+    TITLE: 'How to avoid being eaten by a grue: Structured exploration strategies for
+      textual worlds'
+    URL: https://arxiv.org/abs/2006.07409
+    YEAR: '2020'
+  - bib: "219"
+    AUTHOR:
+      - name: "Upol Ehsan"
+      - name: "Mark O. Riedl"
+    BIBTEXKEY: Ehsan2020HumancenteredEA
+    BOOKTITLE: 'Proceedings of HCI International 2020: 22nd International Conference
+      On Human-Computer Interaction'
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    TITLE: 'Human-centered Explainable AI: Towards a Reflective Sociotechnical Approach'
+    URL: https://arxiv.org/abs/2002.01092
+    YEAR: '2020'
+  - bib: "220"
+    AUTHOR:
+      - name: "Prithviraj Ammanabrolu"
+      - name: "Wesley Cheung"
+      - name: "Dan Tu"
+      - name: "William Broniec"
+      - name: "Mark O Riedl"
+    BIBTEXKEY: ammanabrolu2020bringing
+    BOOKTITLE: Proceedings of the Sixteenth AAAI Conference on Artificial Intelligence
+      and Interactive Digital Entertainment (AIIDE-20)
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    TITLE: 'Bringing stories alive: Generating interactive fiction worlds'
+    URL: https://arxiv.org/abs/2001.10161
+    YEAR: '2020'
+  - bib: "221"
+    AUTHOR:
+      - name: "Spencer Frazier"
+      - name: "Md Sultan Al Nahian"
+      - name: "Mark O. Riedl"
+      - name: "Brent Harrison"
+    BIBTEXKEY: Frazier2020LearningNF
+    BOOKTITLE: Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    TITLE: 'Learning Norms from Stories: A Prior for Value Aligned Agents'
+    URL: https://arxiv.org/abs/1912.03553
+    YEAR: '2020'
+  - bib: "222"
+    AUTHOR:
       - name: "null"
     BIBTEXKEY: 'jabref-meta: databaseType:bibtex;'
     CATEGORY: COMMENT

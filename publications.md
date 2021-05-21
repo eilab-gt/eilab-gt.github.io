@@ -74,7 +74,7 @@ classes: wide
 	    {% if x.URL %}
 	    	<a href="{{x.URL}}">{% if x.URL contains "arxiv" %}<span class="arxiv">arXiv</span>{% else %}<span class="pdf">PDF</span>{% endif %}</a>
 	    {% endif %}
-	    {% if x.JOURNAL %}<span class="journal">Journal</span>{% endif %}
+	    {% if x.JOURNAL and x.VOLUME %}<span class="journal">Journal</span>{% endif %}
 	    {% if x.BOOKTITLE %}{% if x.BOOKTITLE contains "Workshop" %}<span class="workshop">Workshop</span>{% else%}<span class="conference">Conference</span>{% endif %}{% endif %}
 	  </p>
   {% endif %}
