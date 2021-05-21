@@ -4,6 +4,19 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:aaai-ss2009
+    BIBTEX: |
+      @InProceedings{riedl:aaai-ss2009,
+      author    = {Riedl, Mark O.},
+      title     = {Incorporating Authorial Intent into Generative Narrative Systems},
+      booktitle = {Intelligent Narrative Technologies II: Papers from the 2009 Spring Symposium (Technical Report SS-09-06)},
+      year      = {2009},
+      editor    = {Sandy Louchart and David Roberts and Manish Mehta},
+      pages     = {91-94},
+      address   = {Palo Alto, California},
+      month     = {March},
+      publisher = {AAAI Press},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/riedl-aaai-ss09.pdf},
+      }
     BOOKTITLE: 'Intelligent Narrative Technologies II: Papers from the 2009 Spring Symposium
       (Technical Report SS-09-06)'
     CATEGORY: INPROCEEDINGS
@@ -22,6 +35,18 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:cc2008
+    BIBTEX: |
+      @InProceedings{riedl:cc2008,
+      author    = {Riedl, Mark O.},
+      title     = {Vignette-Based Story Planning: Creativity Through Exploration and Retrieval},
+      booktitle = {Proceedings of the 5th International Joint Workshop on Computational Creativity},
+      year      = {2008},
+      address   = {Madrid, Spain},
+      month     = {September},
+      cvnote    = {Invited for submission to Minds and Machines journal.},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/riedl-ijwcc08.pdf},
+      venue     = {CC},
+      }
     BOOKTITLE: Proceedings of the 5th International Joint Workshop on Computational
       Creativity
     CATEGORY: INPROCEEDINGS
@@ -38,6 +63,16 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:icccc2008
+    BIBTEX: |
+      @InProceedings{riedl:icccc2008,
+      Title                    = {Intelligent Narrative Computing: Creativity, Sense-Making, and Engagement},
+      Author                   = {Riedl, Mark O.},
+      Booktitle                = {3rd International Colloquium in Creativity, Cognition, and Computers},
+      Year                     = {2008},
+      
+      Address                  = {M\'exico City, M\'exico},
+      Publisher                = {Universidad Aut\'onoma Metropolitana, Cuajimalpa, M\'exico City}
+      }
     BOOKTITLE: 3rd International Colloquium in Creativity, Cognition, and Computers
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -49,6 +84,13 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:afrl-sim2006
+    BIBTEX: |
+      @InProceedings{riedl:afrl-sim2006,
+      Title                    = {Emergent and Guided Narrative for Training and Education in Virtual Worlds},
+      Author                   = {Riedl, Mark O.},
+      Booktitle                = {Air Force Research Lab Workshop on Storytelling as an Instructional Method: In Search of Theoretical and Empirical Foundations},
+      Year                     = {2006}
+      }
     BOOKTITLE: 'Air Force Research Lab Workshop on Storytelling as an Instructional
       Method: In Search of Theoretical and Empirical Foundations'
     CATEGORY: INPROCEEDINGS
@@ -60,6 +102,13 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:low2006
+    BIBTEX: |
+      @InProceedings{riedl:low2006,
+      Title                    = {Emergent and Guided Narrative for Training and Education in Virtual Worlds},
+      Author                   = {Riedl, Mark O.},
+      Booktitle                = {League of World 3: Annual Colloquium on Online Simulations, Role-Playing, and Virtual Worlds},
+      Year                     = {2006}
+      }
     BOOKTITLE: 'League of World 3: Annual Colloquium on Online Simulations, Role-Playing,
       and Virtual Worlds'
     CATEGORY: INPROCEEDINGS
@@ -72,6 +121,16 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:tidse-redcap2006
+    BIBTEX: |
+      @InProceedings{riedl:tidse-redcap2006,
+      Title                    = {Fabulist and Automated Story Director in the Little Red Riding Hood Domain},
+      Author                   = {Riedl, Mark O.},
+      Booktitle                = {TIDSE 2006 Pre-Conference Demo Workshop on the Authoring Process in Interactive Storytelling},
+      Year                     = {2006},
+      
+      Address                  = {Darmstadt, Germany},
+      Month                    = {December}
+      }
     BOOKTITLE: TIDSE 2006 Pre-Conference Demo Workshop on the Authoring Process in Interactive
       Storytelling
     CATEGORY: INPROCEEDINGS
@@ -85,6 +144,16 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:rrlcg2005
+    BIBTEX: |
+      @InProceedings{riedl:rrlcg2005,
+      Title                    = {Towards Integrating {AI} Story Controllers and Game Engines: Reconciling World State Representations},
+      Author                   = {Riedl, Mark O.},
+      Booktitle                = {Proceedings of the 19th International Joint Conference on Artificial Intelligence (IJCAI) Workshop on Reasoning, Representation, and Learning in Computer Games},
+      Year                     = {2005},
+      
+      Address                  = {Edinburgh, Scotland},
+      Month                    = {July}
+      }
     BOOKTITLE: Proceedings of the 19th International Joint Conference on Artificial
       Intelligence (IJCAI) Workshop on Reasoning, Representation, and Learning in Computer
       Games
@@ -99,6 +168,13 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:tr04-004
+    BIBTEX: |
+      @TechReport{riedl:tr04-004,
+      Title                    = {Equivalence between Narrative Mediation and Branching Story Graphs (Technical Report TR04-004)},
+      Author                   = {Riedl, Mark O.},
+      Institution              = {Liquid Narrative Group, Department of Computer Science, North Carolina State University},
+      Year                     = {2004}
+      }
     CATEGORY: TECHREPORT
     EDITOR:
       - name: "null"
@@ -111,6 +187,13 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:tr03-000
+    BIBTEX: |
+      @TechReport{riedl:tr03-000,
+      Title                    = {{Actor Conference}: Character-Focused Narrative Planning (Technical Report TR03-00)},
+      Author                   = {Riedl, Mark O.},
+      Institution              = {Liquid Narrative Group, Department of Computer Science, North Carolina State University},
+      Year                     = {2003}
+      }
     CATEGORY: TECHREPORT
     EDITOR:
       - name: "null"
@@ -124,6 +207,17 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:iui2001
+    BIBTEX: |
+      @InProceedings{riedl:iui2001,
+      author    = {Riedl, Mark O.},
+      title     = {A Computational Model and Classification Framework for Social Navigation},
+      booktitle = {Proceedings of the 6th International Conference on Intelligent User Interfaces (IUI)},
+      year      = {2001},
+      pages     = {137-144},
+      address   = {Santa Fe, New Mexico},
+      month     = {January},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/riedl-iui01.pdf},
+      }
     BOOKTITLE: Proceedings of the 6th International Conference on Intelligent User Interfaces
       (IUI)
     CATEGORY: INPROCEEDINGS
@@ -140,6 +234,17 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Robert St.~Amant"
     BIBTEXKEY: riedl:iui2002
+    BIBTEX: |
+      @InProceedings{riedl:iui2002,
+      author    = {Riedl, Mark O. and Robert St.~Amant},
+      title     = {Towards Automated Exploration of Interactive Systems},
+      booktitle = {Proceedings of the 7th International Conference on Intelligent User Interfaces (IUI)},
+      year      = {2002},
+      pages     = {135-142},
+      address   = {San Francisco, California},
+      month     = {January},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/iui02.pdf},
+      }
     BOOKTITLE: Proceedings of the 7th International Conference on Intelligent User Interfaces
       (IUI)
     CATEGORY: INPROCEEDINGS
@@ -156,6 +261,18 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "R.~Michael Young"
     BIBTEXKEY: riedl:cc2005
+    BIBTEX: |
+      @InProceedings{riedl:cc2005,
+      Title                    = {Story Planning as Exploratory Creativity: Techniques for Expanding the Narrative Search Space},
+      Author                   = {Riedl, Mark O. and R.~Michael Young},
+      Booktitle                = {Proceedings of the 19th International Joint Conference on Artificial Intelligence (IJCAI) Workshop on Computational Creativity},
+      Year                     = {2005},
+      
+      Address                  = {Edinburgh, Scotland},
+      Month                    = {July},
+      
+      Cvnote                   = {Invited for submission to New Generation Computing journal special issue.}
+      }
     BOOKTITLE: Proceedings of the 19th International Joint Conference on Artificial
       Intelligence (IJCAI) Workshop on Computational Creativity
     CATEGORY: INPROCEEDINGS
@@ -172,6 +289,17 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "R.~Michael Young"
     BIBTEXKEY: riedl:aamas2004
+    BIBTEX: |
+      @InProceedings{riedl:aamas2004,
+      author    = {Riedl, Mark O. and R.~Michael Young},
+      title     = {An Intent-Driven Planner for Multi-Agent Story Generation},
+      booktitle = {Proceedings of the 3rd International Conference on Autonomous Agents and Multi-Agent Systems},
+      year      = {2004},
+      pages     = {186-193},
+      address   = {New York City, New York},
+      month     = {July},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aamas04.pdf},
+      }
     BOOKTITLE: Proceedings of the 3rd International Conference on Autonomous Agents
       and Multi-Agent Systems
     CATEGORY: INPROCEEDINGS
@@ -187,6 +315,13 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "R.~Michael Young"
     BIBTEXKEY: riedl:nile2004
+    BIBTEX: |
+      @InProceedings{riedl:nile2004,
+      Title                    = {A Planning Approach to Story Generation for History Education},
+      Author                   = {Riedl, Mark O. and R.~Michael Young},
+      Booktitle                = {Proceedings of the 3rd International Conference on Narrative and Interactive Learning Environments (NILE)},
+      Year                     = {2004}
+      }
     BOOKTITLE: Proceedings of the 3rd International Conference on Narrative and Interactive
       Learning Environments (NILE)
     CATEGORY: INPROCEEDINGS
@@ -200,6 +335,17 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "R.~Michael Young"
     BIBTEXKEY: riedl:icvs2003
+    BIBTEX: |
+      @InProceedings{riedl:icvs2003,
+      author    = {Riedl, Mark O. and R.~Michael Young},
+      title     = {Character-Focused Narrative Planning for Execution in Virtual Worlds},
+      booktitle = {Proceedings of the 2nd International Conference on Virtual Storytelling (ICVS)},
+      year      = {2003},
+      pages     = {47-56},
+      address   = {Toulouse, France},
+      month     = {November},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/icvs03.pdf},
+      }
     BOOKTITLE: Proceedings of the 2nd International Conference on Virtual Storytelling
       (ICVS)
     CATEGORY: INPROCEEDINGS
@@ -216,6 +362,17 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Robert St.~Amant"
     BIBTEXKEY: riedl:stamant:aamas2003
+    BIBTEX: |
+      @InProceedings{riedl:stamant:aamas2003,
+      author    = {Riedl, Mark O. and Robert St.~Amant},
+      title     = {Social Navigation: Modeling, Simulation, and Experimentation},
+      booktitle = {Proceedings of the 2nd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)},
+      year      = {2003},
+      pages     = {361-368},
+      address   = {Melbourne, Australia},
+      month     = {July},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/riedl-stamant-aamas03.pdf},
+      }
     BOOKTITLE: Proceedings of the 2nd International Conference on Autonomous Agents
       and Multi-Agent Systems (AAMAS)
     CATEGORY: INPROCEEDINGS
@@ -236,6 +393,17 @@ bibs:
       - name: "Jackie Isbell"
       - name: "L. Juane Heflin"
     BIBTEXKEY: riedl:aaai-fs2009
+    BIBTEX: |
+      @InProceedings{riedl:aaai-fs2009,
+      author    = {Riedl, Mark O. and Rosa Arriaga and Fatima Boujarwah and Hwajung Hong and Jackie Isbell and L. Juane Heflin},
+      title     = {Graphical Social Scenarios: Toward Intervention and Authoring for Adolescents with High Functioning Autism},
+      booktitle = {Proceedings of the of the AAAI Fall Symposium on Virtual Healthcare Interaction},
+      year      = {2009},
+      pages     = {64-73},
+      address   = {Washington, D.C.},
+      month     = {November},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aaai-fs09.pdf},
+      }
     BOOKTITLE: Proceedings of the of the AAAI Fall Symposium on Virtual Healthcare Interaction
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -256,6 +424,17 @@ bibs:
       - name: "Hwajung Hong"
       - name: "L. Juane Heflin"
     BIBTEXKEY: riedl:ijcai-ac2009
+    BIBTEX: |
+      @InProceedings{riedl:ijcai-ac2009,
+      author    = {Riedl, Mark O. and Jackie Isbell and Rosa Arriaga and Fatima Boujarwah and Hwajung Hong and L. Juane Heflin},
+      title     = {Toward Assisted Authoring of Social Skill Scenarios for Young Adults with High Functioning Autism},
+      booktitle = {Working notes of the International Joint Conference on Artificial Intelligence, Workshop on Intelligent Systems for Assisted Cognition},
+      year      = {2009},
+      address   = {Pasadena, California},
+      month     = {July},
+      cvnote    = {Distinguished Contribution Award},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/ijcai-ac09.pdf},
+      }
     BOOKTITLE: Working notes of the International Joint Conference on Artificial Intelligence,
       Workshop on Intelligent Systems for Assisted Cognition
     CATEGORY: INPROCEEDINGS
@@ -275,6 +454,16 @@ bibs:
       - name: "Randall Hill"
       - name: "William Swartout"
     BIBTEXKEY: riedl:nle2005
+    BIBTEX: |
+      @InProceedings{riedl:nle2005,
+      author    = {Riedl, Mark O. and H.~Chad Lane and Randall Hill and William Swartout},
+      title     = {Automated Story Direction and Intelligent Tutoring: Towards a Unifying Architecture},
+      booktitle = {Proceedings of the 13th International Conference on Artificial Intelligence in Education (AIED) Workshop on Narrative Learning Environments},
+      year      = {2005},
+      address   = {Amsterdam, Netherlands},
+      month     = {July},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/nle05.pdf},
+      }
     BOOKTITLE: Proceedings of the 13th International Conference on Artificial Intelligence
       in Education (AIED) Workshop on Narrative Learning Environments
     CATEGORY: INPROCEEDINGS
@@ -290,6 +479,16 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Carlos Leon"
     BIBTEXKEY: riedl:itis2008
+    BIBTEX: |
+      @InProceedings{riedl:itis2008,
+      Title                    = {Toward Vignette-Based Story Generation for Drama Management Systems},
+      Author                   = {Riedl, Mark O. and Carlos Le\'on},
+      Booktitle                = {Proceedings of the 2nd International Conference on Intelligent Technologies for Interactive Entertainment (INTETAIN), Workshop on Integrating Technologies for Interactive Stories},
+      Year                     = {2008},
+      
+      Address                  = {Playa del Carmen, Mexico},
+      Month                    = {January}
+      }
     BOOKTITLE: Proceedings of the 2nd International Conference on Intelligent Technologies
       for Interactive Entertainment (INTETAIN), Workshop on Integrating Technologies
       for Interactive Stories
@@ -305,6 +504,16 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Brian O'Neill"
     BIBTEXKEY: riedl:chi-ccs2009
+    BIBTEX: |
+      @InProceedings{riedl:chi-ccs2009,
+      author    = {Riedl, Mark O. and Brian O'Neill},
+      title     = {Computer as Audience: A Strategy for Artificial Intelligence Support of Human Creativity},
+      booktitle = {Proceedings of the 2009 CHI Workshop on Computational Creativity Support},
+      year      = {2009},
+      address   = {Boston, Massachusetts},
+      month     = {April},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/chi-ccs09.pdf},
+      }
     BOOKTITLE: Proceedings of the 2009 CHI Workshop on Computational Creativity Support
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -321,6 +530,18 @@ bibs:
       - name: "Jonathan~P. Rowe"
       - name: "David~K. Elson"
     BIBTEXKEY: riedl:intetain2008
+    BIBTEX: |
+      @InProceedings{riedl:intetain2008,
+      author     = {Riedl, Mark O. and Jonathan~P. Rowe and David~K. Elson},
+      title      = {Toward Intelligent Support of Authoring Machinima Media Content: Story and Visualization},
+      booktitle  = {Proceedings of the 2nd International Conference on Intelligent Technologies for Interactive Entertainment (INTETAIN)},
+      year       = {2008},
+      address    = {Playa del Carmen, Mexico},
+      month      = {January},
+      cvnote     = {Awarded best paper.},
+      cvsidenote = {24\%},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/intetain08.pdf},
+      }
     BOOKTITLE: Proceedings of the 2nd International Conference on Intelligent Technologies
       for Interactive Entertainment (INTETAIN)
     CATEGORY: INPROCEEDINGS
@@ -340,6 +561,17 @@ bibs:
       - name: "C.J. Saretto"
       - name: "R.~Michael Young"
     BIBTEXKEY: riedl:saretto:aamas2003
+    BIBTEX: |
+      @InProceedings{riedl:saretto:aamas2003,
+      author    = {Riedl, Mark O. and C.J. Saretto and R.~Michael Young},
+      title     = {Managing Interaction between Users and Agents in a Multi-Agent Storytelling Environment},
+      booktitle = {Proceedings of the 2nd International Conference on Autonomous Agents and Multi-Agent Systems},
+      year      = {2003},
+      pages     = {741-748},
+      address   = {Melbourne, Australia},
+      month     = {July},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/riedl-young-aamas03.pdf},
+      }
     BOOKTITLE: Proceedings of the 2nd International Conference on Autonomous Agents
       and Multi-Agent Systems
     CATEGORY: INPROCEEDINGS
@@ -356,6 +588,15 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Andrew Stern"
     BIBTEXKEY: riedl:brims2006
+    BIBTEX: |
+      @InProceedings{riedl:brims2006,
+      author    = {Riedl, Mark O. and Andrew Stern},
+      title     = {Believable Agents and Intelligent Scenario Direction for Social and Cultural Leadership Training},
+      booktitle = {Proceedings of the 15th Conference on Behavior Representation in Modeling and Simulation (BRIMS)},
+      year      = {2006},
+      cvnote    = {Awarded best paper.},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/brims06.pdf},
+      }
     BOOKTITLE: Proceedings of the 15th Conference on Behavior Representation in Modeling
       and Simulation (BRIMS)
     CATEGORY: INPROCEEDINGS
@@ -372,6 +613,18 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Andrew Stern"
     BIBTEXKEY: riedl:tidse2006a
+    BIBTEX: |
+      @InProceedings{riedl:tidse2006a,
+      author    = {Riedl, Mark O. and Andrew Stern},
+      title     = {Believable Agents and Intelligent Story Adaptation for Interactive Storytelling},
+      booktitle = {Proceedings of the 3rd International Conference on Technologies for Interactive Digital Storytelling and Entertainment (TIDSE)},
+      year      = {2006},
+      pages     = {1-12},
+      address   = {Darmstadt, Germany},
+      month     = {December},
+      cvnote    = {Awarded best paper.},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/tidse06a.pdf},
+      }
     BOOKTITLE: Proceedings of the 3rd International Conference on Technologies for Interactive
       Digital Storytelling and Entertainment (TIDSE)
     CATEGORY: INPROCEEDINGS
@@ -389,6 +642,17 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Andrew Stern"
     BIBTEXKEY: riedl:tidse2006b
+    BIBTEX: |
+      @InProceedings{riedl:tidse2006b,
+      author    = {Riedl, Mark O. and Andrew Stern},
+      title     = {Failing Believably: Toward Strong Autonomy and Strong Story in Interactive Narratives},
+      booktitle = {Proceedings of the 3rd International Conference on Technologies for Interactive Digital Storytelling and Entertainment},
+      year      = {2006},
+      pages     = {195-206},
+      address   = {Darmstadt, Germany},
+      month     = {December},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/tidse06b.pdf},
+      }
     BOOKTITLE: Proceedings of the 3rd International Conference on Technologies for Interactive
       Digital Storytelling and Entertainment
     CATEGORY: INPROCEEDINGS
@@ -407,6 +671,16 @@ bibs:
       - name: "Andrew Stern"
       - name: "Don Dini"
     BIBTEXKEY: riedl:aiide2006
+    BIBTEX: |
+      @InProceedings{riedl:aiide2006,
+      Title                    = {Mixing Story and Simulation in Interactive Narrative},
+      Author                   = {Riedl, Mark O. and Andrew Stern and Don Dini},
+      Booktitle                = {Proceedings of the 2nd Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)},
+      Year                     = {2006},
+      
+      Address                  = {Marina Del Rey, California},
+      Month                    = {June}
+      }
     BOOKTITLE: Proceedings of the 2nd Conference on Artificial Intelligence and Interactive
       Digital Entertainment (AIIDE)
     CATEGORY: INPROCEEDINGS
@@ -421,6 +695,19 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Neha Sugandh"
     BIBTEXKEY: riedl:is2008
+    BIBTEX: |
+      @InProceedings{riedl:is2008,
+      author     = {Riedl, Mark O. and Neha Sugandh},
+      title      = {Story Planning with Vignettes: Toward Overcoming the Content Production Bottleneck},
+      booktitle  = {Proceedings of the 1st Joint International Conference on Interactive Digital Storytelling},
+      year       = {2008},
+      pages      = {168-179},
+      address    = {Erfurt, Germany},
+      month      = {November},
+      cvsidenote = {30\%},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/riedl-icids08.pdf},
+      venue      = {IS},
+      }
     BOOKTITLE: Proceedings of the 1st Joint International Conference on Interactive
       Digital Storytelling
     CATEGORY: INPROCEEDINGS
@@ -439,6 +726,16 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "R. Michael Young"
     BIBTEXKEY: riedl:jair2010
+    BIBTEX: |
+      @Article{riedl:jair2010,
+      author  = {Riedl, Mark O. and R. Michael Young},
+      title   = {Narrative Planning: Balancing Plot and Character},
+      journal = {Journal of Artificial Intelligence Research},
+      year    = {2010},
+      volume  = {39},
+      pages   = {217-268},
+      url     = {https://arxiv.org/abs/1401.3841},
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -453,6 +750,19 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "R.~Michael Young"
     BIBTEXKEY: riedl:cga2006
+    BIBTEX: |
+      @Article{riedl:cga2006,
+      Title                    = {From Linear Story Generation to Branching Story Graphs},
+      Author                   = {Riedl, Mark O. and R.~Michael Young},
+      Journal                  = {IEEE Journal of Computer Graphics and Animation},
+      Year                     = {2006},
+      Number                   = {3},
+      Pages                    = {23--31},
+      Volume                   = {26},
+      
+      Cvnote                   = {A shorter version was presented at the Conference on AI and Interactive Digital Entertainment 2005},
+      Venue                    = {CGA}
+      }
     CATEGORY: ARTICLE
     CVNOTE: A shorter version was presented at the Conference on AI and Interactive
       Digital Entertainment 2005
@@ -470,6 +780,19 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "R.~Michael Young"
     BIBTEXKEY: riedl:ngc2006
+    BIBTEX: |
+      @Article{riedl:ngc2006,
+      author  = {Riedl, Mark O. and R.~Michael Young},
+      title   = {Story Planning as Exploratory Creativity: Techniques for Expanding the Narrative Search Space},
+      journal = {New Generation Computing},
+      year    = {2006},
+      volume  = {24},
+      number  = {3},
+      pages   = {303--323},
+      cvnote  = {A shorter version was presented at the Workshop on Computational Creativity 2005},
+      url     = {http://www.cc.gatech.edu/~riedl/pubs/cc05.pdf},
+      venue   = {NGC},
+      }
     CATEGORY: ARTICLE
     CVNOTE: A shorter version was presented at the Workshop on Computational Creativity
       2005
@@ -490,6 +813,20 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "R. Michael Young"
     BIBTEXKEY: riedl:aiide2005
+    BIBTEX: |
+      @InProceedings{riedl:aiide2005,
+      Title                    = {From Linear Story Generation to Branching Story Graphs},
+      Author                   = {Riedl, Mark O. and R. Michael Young},
+      Booktitle                = {Proceedings of the 1st Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)},
+      Year                     = {2005},
+      
+      Address                  = {Maria Del Rey, California},
+      Month                    = {June},
+      Pages                    = {111-116},
+      
+      Cvnote                   = {Invited for submission to CG\&A Special Issue (3 of 24 invited).},
+      Cvsidenote               = {50\%}
+      }
     BOOKTITLE: Proceedings of the 1st Conference on Artificial Intelligence and Interactive
       Digital Entertainment (AIIDE)
     CATEGORY: INPROCEEDINGS
@@ -507,6 +844,18 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "R. Michael Young"
     BIBTEXKEY: riedl:ijcai2005
+    BIBTEX: |
+      @InProceedings{riedl:ijcai2005,
+      Title                    = {Open-World Planning for Story Generation},
+      Author                   = {Riedl, Mark O. and R. Michael Young},
+      Booktitle                = {Proceedings of the 19th International Joint Conference on Artificial Intelligence (IJCAI)},
+      Year                     = {2005},
+      
+      Address                  = {Edinburgh, Scotland},
+      Month                    = {July},
+      
+      Cvsidenote               = {18\%}
+      }
     BOOKTITLE: Proceedings of the 19th International Joint Conference on Artificial
       Intelligence (IJCAI)
     CATEGORY: INPROCEEDINGS
@@ -522,6 +871,18 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "R. Michael Young"
     BIBTEXKEY: riedl:iva2005
+    BIBTEX: |
+      @InProceedings{riedl:iva2005,
+      author     = {Riedl, Mark O. and R. Michael Young},
+      title      = {An Objective Character Believability Evaluation Procedure for Multi-Agent Story Generation Systems},
+      booktitle  = {Proceedings of the 5th International Conference on Intelligent Virtual Agents (IVA)},
+      year       = {2005},
+      pages      = {278-291},
+      address    = {Kos, Greece},
+      month      = {September},
+      cvsidenote = {60\%},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/iva05.pdf},
+      }
     BOOKTITLE: Proceedings of the 5th International Conference on Intelligent Virtual
       Agents (IVA)
     CATEGORY: INPROCEEDINGS
@@ -540,6 +901,16 @@ bibs:
       - name: "R.~Michael Young"
       - name: "Mark O. Riedl"
     BIBTEXKEY: young:ace2005
+    BIBTEX: |
+      @InProceedings{young:ace2005,
+      Title                    = {Integrating Plan-Based Behavior Generation with Game Environments},
+      Author                   = {R.~Michael Young and Riedl, Mark O.},
+      Booktitle                = {Proceedings of the 2nd International Conference on Advances in Computer Entertainment Technology (ACE)},
+      Year                     = {2005},
+      
+      Address                  = {Valencia, Spain},
+      Month                    = {June}
+      }
     BOOKTITLE: Proceedings of the 2nd International Conference on Advances in Computer
       Entertainment Technology (ACE)
     CATEGORY: INPROCEEDINGS
@@ -554,6 +925,16 @@ bibs:
       - name: "Robert St.~Amant"
       - name: "Mark O. Riedl"
     BIBTEXKEY: stamant:hcii2005
+    BIBTEX: |
+      @InProceedings{stamant:hcii2005,
+      Title                    = {Image Processing in Cognitive Models with {SegMan}},
+      Author                   = {Robert St.~Amant and Riedl, Mark O.},
+      Booktitle                = {Proceedings of the 11th International Conference on Human-Computer Interaction (HCII)},
+      Year                     = {2005},
+      
+      Address                  = {Las Vegas, Nevada},
+      Month                    = {July}
+      }
     BOOKTITLE: Proceedings of the 11th International Conference on Human-Computer Interaction
       (HCII)
     CATEGORY: INPROCEEDINGS
@@ -567,6 +948,18 @@ bibs:
       - name: "Robert St.~Amant"
       - name: "Mark O. Riedl"
     BIBTEXKEY: stamant:ijhcs2000
+    BIBTEX: |
+      @Article{stamant:ijhcs2000,
+      Title                    = {A Perception/Action Substrate for Cognitive Modeling in {HCI}},
+      Author                   = {Robert St.~Amant and Riedl, Mark O.},
+      Journal                  = {International Journal of Human-Computer Studies},
+      Year                     = {2000},
+      Number                   = {1},
+      Pages                    = {15--39},
+      Volume                   = {55},
+      
+      Venue                    = {IJHCS}
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -582,6 +975,16 @@ bibs:
       - name: "Prithviraj Ammanabrolu"
       - name: "Mark O. Riedl"
     BIBTEXKEY: Ammanabrolu2019
+    BIBTEX: |
+      @InProceedings{Ammanabrolu2019,
+      author    = {Ammanabrolu, Prithviraj and Riedl, Mark O.},
+      title     = {Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning},
+      booktitle = {Proceedings of the 2019 Conference of the North American Association for Computational Linguistics},
+      year      = {2019},
+      owner     = {riedl},
+      timestamp = {2019.03.01},
+      url       = {https://arxiv.org/abs/1812.01628},
+      }
     BOOKTITLE: Proceedings of the 2019 Conference of the North American Association
       for Computational Linguistics
     CATEGORY: INPROCEEDINGS
@@ -597,6 +1000,16 @@ bibs:
       - name: "Prithviraj Ammanabrolu"
       - name: "Mark O. Riedl"
     BIBTEXKEY: ammanabrolu:neurips-wordplay2019
+    BIBTEX: |
+      @InProceedings{ammanabrolu:neurips-wordplay2019,
+      Title                    = {Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning},
+      Author                   = {Ammanabrolu, Prithviraj and Riedl, Mark O.},
+      Booktitle                = {Proceedings of the 2019 NeurIPS Workshop on Word Play: Reinforcement and Language Learning in Text-based Games},
+      Year                     = {2019},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2019.01.16}
+      }
     BOOKTITLE: 'Proceedings of the 2019 NeurIPS Workshop on Word Play: Reinforcement
       and Language Learning in Text-based Games'
     CATEGORY: INPROCEEDINGS
@@ -612,6 +1025,19 @@ bibs:
       - name: "D. Scott Appling"
       - name: "Mark O. Riedl"
     BIBTEXKEY: appling:aaai-ss2009
+    BIBTEX: |
+      @InProceedings{appling:aaai-ss2009,
+      Title                    = {The Role of Plot Understanding in Plot Generation},
+      Author                   = {D. Scott Appling and Riedl, Mark O.},
+      Booktitle                = {Intelligent Narrative Technologies II: Papers from the 2009 Spring Symposium (Technical Report SS-09-06)},
+      Year                     = {2009},
+      
+      Address                  = {Palo Alto, California},
+      Editor                   = {Sandy Louchart and David Roberts and Manish Mehta},
+      Month                    = {March},
+      Pages                    = {1-4},
+      Publisher                = {AAAI Press}
+      }
     BOOKTITLE: 'Intelligent Narrative Technologies II: Papers from the 2009 Spring Symposium
       (Technical Report SS-09-06)'
     CATEGORY: INPROCEEDINGS
@@ -631,6 +1057,16 @@ bibs:
       - name: "Cheng Hann Gan"
       - name: "Mark O. Riedl"
     BIBTEXKEY: azad:aiide2016
+    BIBTEX: |
+      @InProceedings{azad:aiide2016,
+      author    = {Azad, Sasha and Saldahna, Carl and Gan, Cheng Hann and Riedl, Mark O.},
+      title     = {Procedural Level Generation for Mixed Reality Games},
+      booktitle = {Proceedings of the 2016 AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+      year      = {2016},
+      owner     = {riedl},
+      timestamp = {2016.06.08},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/azad-aiide16.pdf},
+      }
     BOOKTITLE: Proceedings of the 2016 AAAI Conference on Artificial Intelligence and
       Interactive Digital Entertainment
     CATEGORY: INPROCEEDINGS
@@ -648,6 +1084,16 @@ bibs:
       - name: "Cheng Hann Gan"
       - name: "Mark O. Riedl"
     BIBTEXKEY: azad:aiide-exag2016
+    BIBTEX: |
+      @InProceedings{azad:aiide-exag2016,
+      author    = {Azad, Sasha and Saldahna, Carl and Gan, Cheng Hann and Riedl, Mark O.},
+      title     = {Mixed Reality and Procedural Content Generation in Video Games},
+      booktitle = {Proceedings of the 3rd AAAI Workshop on Experimental Artificial Intelligence in Games},
+      year      = {2016},
+      owner     = {riedl},
+      timestamp = {2016.07.09},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aiide-exag16.pdf},
+      }
     BOOKTITLE: Proceedings of the 3rd AAAI Workshop on Experimental Artificial Intelligence
       in Games
     CATEGORY: INPROCEEDINGS
@@ -666,6 +1112,19 @@ bibs:
       - name: "Sanjeet Karnik"
       - name: "Mark~O. Riedl"
     BIBTEXKEY: barve:aiide2010
+    BIBTEX: |
+      @InProceedings{barve:aiide2010,
+      author    = {Barve, Chinmay and Hajarnis, Sanjeet and Karnik, Sanjeet and Riedl, Mark~O.},
+      title     = {{WeQuest}: A Mobile Alternate Reality Gaming Platform and Intelligent End-User Authoring Tools},
+      booktitle = {Proceedings of the 6th Annual Conference on Artificial Intelligence for Interactive Digital Entertainment Conference},
+      year      = {2010},
+      address   = {Palo Alto, California},
+      month     = {October},
+      cvnote    = {Submitted and accepted as a demonstration paper (100\% acceptance rate)},
+      owner     = {riedl},
+      timestamp = {2010.06.29},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/barve-aiide10.pdf},
+      }
     BOOKTITLE: Proceedings of the 6th Annual Conference on Artificial Intelligence for
       Interactive Digital Entertainment Conference
     CATEGORY: INPROCEEDINGS
@@ -687,6 +1146,19 @@ bibs:
       - name: "Gregory Abowd"
       - name: "Rosa Arriaga"
     BIBTEXKEY: boujarwah:imfar2011
+    BIBTEX: |
+      @InProceedings{boujarwah:imfar2011,
+      Title                    = {Building a Knowledge Base to Support the Authoring of Social Skills Instructional Modules},
+      Author                   = {Fatima Boujarwah and Mark O. Riedl and Gregory Abowd and Rosa Arriaga},
+      Booktitle                = {Proceedings of the International Meeting for Autism Research (IMFAR)},
+      Year                     = {2011},
+      
+      Address                  = {San Diego, California},
+      Month                    = {May},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2011.03.09}
+      }
     BOOKTITLE: Proceedings of the International Meeting for Autism Research (IMFAR)
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -704,6 +1176,19 @@ bibs:
       - name: "Gregory Abowd"
       - name: "Rosa Arriaga"
     BIBTEXKEY: boujarwah:sigaccess2011
+    BIBTEX: |
+      @Article{boujarwah:sigaccess2011,
+      author    = {Boujarwah, Fatima and Riedl, Mark O. and Abowd, Gregory and Arriaga, Rosa},
+      title     = {{REACT}: Intelligent Authoring of Social Skills Instructional Modules for Adolescents with High-Functioning Autism},
+      journal   = {ACM SIGACCESS Newsletter},
+      year      = {2011},
+      volume    = {99},
+      pages     = {13-24},
+      month     = {January},
+      owner     = {riedl},
+      timestamp = {2011.02.19},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/sigaccess11.pdf},
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -725,6 +1210,19 @@ bibs:
       - name: "Michael Buro"
       - name: "Nathan Sturtevant"
     BIBTEXKEY: bulitko:ai-magazine2012
+    BIBTEX: |
+      @Article{bulitko:ai-magazine2012,
+      Title                    = {Recap of the Seventh {AAAI} Conference on Artificial Intelligence and Interactive Digital Entertainment},
+      Author                   = {Bulitko, Vadim and Riedl, Mark O. and Jhala, Arnav and Buro, Michael and Sturtevant, Nathan},
+      Journal                  = {{AI} Magazine},
+      Year                     = {2012},
+      Number                   = {1},
+      Pages                    = {51-54},
+      Volume                   = {33},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2012.05.19}
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -744,6 +1242,18 @@ bibs:
       - name: "Byung-Chull Bae"
       - name: "Mark J. Nelson"
     BIBTEXKEY: cheong:textbook2014
+    BIBTEX: |
+      @InCollection{cheong:textbook2014,
+      Title                    = {Planning with applications to quests and story},
+      Author                   = {Cheong, Yun-Gyung and Riedl, Mark and Bae, Byung-Chull and Nelson, Mark J.},
+      Booktitle                = {Procedural Content Generation in Games},
+      Publisher                = {Springer},
+      Year                     = {2014},
+      Editor                   = {Shaker, Noor and Togelius, Julian and Nelson, Mark J.},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2013.10.01}
+      }
     BOOKTITLE: Procedural Content Generation in Games
     CATEGORY: INCOLLECTION
     EDITOR:
@@ -762,6 +1272,18 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "R.~Michael Young"
     BIBTEXKEY: christian:aaai-ss2002
+    BIBTEX: |
+      @InProceedings{christian:aaai-ss2002,
+      author    = {David~B. Christian and Riedl, Mark O. and R.~Michael Young},
+      title     = {Conversation Starters: Using Spatial Context to Initiate Dialogue in First Person Perspective Games},
+      booktitle = {Artificial Intelligence and Interactive Entertainment: Papers from the 2002 Spring Symposium (Technical Report SS-02-01)},
+      year      = {2002},
+      editor    = {Ken Forbus and Magy Seif El-Nasr},
+      address   = {Palo Alto, California},
+      month     = {March},
+      publisher = {AAAI Press},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aaai-ss02.pdf},
+      }
     BOOKTITLE: 'Artificial Intelligence and Interactive Entertainment: Papers from the
       2002 Spring Symposium (Technical Report SS-02-01)'
     CATEGORY: INPROCEEDINGS
@@ -780,6 +1302,16 @@ bibs:
       - name: "Alexander Zook"
       - name: "Mark. O. Riedl"
     BIBTEXKEY: das:chi2015
+    BIBTEX: |
+      @InProceedings{das:chi2015,
+      author    = {Das, Sauvik and Zook, Alexander and Riedl, Mark. O.},
+      title     = {Examining Game World Topology Personalization},
+      booktitle = {Working Note in the Proceedings of the 2015 ACM SIGCHI Conference on Human-Computer Interaction},
+      year      = {2015},
+      owner     = {riedl},
+      timestamp = {2014.11.20},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/chi15.pdf},
+      }
     BOOKTITLE: Working Note in the Proceedings of the 2015 ACM SIGCHI Conference on
       Human-Computer Interaction
     CATEGORY: INPROCEEDINGS
@@ -798,6 +1330,21 @@ bibs:
       - name: "Brian O'Neill"
       - name: "Mark O. Riedl"
     BIBTEXKEY: davis:cc2011
+    BIBTEX: |
+      @InProceedings{davis:cc2011,
+      author     = {Davis, Nicholas and Li, Boyang and O'Neill, Brian and Riedl, Mark O.},
+      title      = {Distributed Creative Cognition in Digital Filmmaking},
+      booktitle  = {Proceedings of the 8th ACM Conference on Creativity and Cognition},
+      year       = {2011},
+      pages      = {207-216},
+      address    = {Atlanta, Georgia},
+      month      = {November},
+      cvnote     = {Awarded Best Student Paper.},
+      cvsidenote = {23\%},
+      owner      = {riedl},
+      timestamp  = {2011.04.29},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/davis-cc11.pdf},
+      }
     BOOKTITLE: Proceedings of the 8th ACM Conference on Creativity and Cognition
     CATEGORY: INPROCEEDINGS
     CVNOTE: Awarded Best Student Paper.
@@ -820,6 +1367,19 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Michael Nitsche"
     BIBTEXKEY: davis:chi-ecse2013
+    BIBTEX: |
+      @InProceedings{davis:chi-ecse2013,
+      Title                    = {Techniques for Evaluating Novice-Oriented Creativity Support Tools},
+      Author                   = {Davis, Nicholas and Zook, Alexander and Kirschner, Friedrich and Riedl, Mark O. and Nitsche, Michael},
+      Booktitle                = {Proceedings of the CHI 2013 Workshop on Evaluation Methods for Creativity Support Environments},
+      Year                     = {2013},
+      
+      Address                  = {Paris, France},
+      Month                    = {April},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2013.03.15}
+      }
     BOOKTITLE: Proceedings of the CHI 2013 Workshop on Evaluation Methods for Creativity
       Support Environments
     CATEGORY: INPROCEEDINGS
@@ -839,6 +1399,20 @@ bibs:
       - name: "Michael Nitsche"
       - name: "Mark Riedl"
     BIBTEXKEY: davis:chi2013
+    BIBTEX: |
+      @InProceedings{davis:chi2013,
+      author     = {Davis, Nick and Zook, Alexander and O'Neill, Brian and Nitsche, Michael and Riedl, Mark},
+      title      = {Creativity Support for Novice Digital Filmmaking},
+      booktitle  = {Proceedings of the 2013 ACM SIGCHI Conference on Human-Computer Interaction},
+      year       = {2013},
+      pages      = {651-660},
+      address    = {Paris, France},
+      month      = {April},
+      cvsidenote = {20\%},
+      owner      = {riedl},
+      timestamp  = {2012.10.18},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/chi13.pdf},
+      }
     BOOKTITLE: Proceedings of the 2013 ACM SIGCHI Conference on Human-Computer Interaction
     CATEGORY: INPROCEEDINGS
     CVSIDENOTE: 20\%
@@ -859,6 +1433,16 @@ bibs:
       - name: "Brent Harrison"
       - name: "Mark O. Riedl"
     BIBTEXKEY: ehsan:iui2019
+    BIBTEX: |
+      @InProceedings{ehsan:iui2019,
+      author    = {Upol Ehsan and Pradyumna Tambwekar and Larry Chan and Brent Harrison and Riedl, Mark O.},
+      title     = {Automated Rationale Generation: A Technique for Explainable AI and its Effects on Human Perceptions},
+      booktitle = {Proceedings of the 2019 ACM International Conference on Intelligent User Interfaces},
+      year      = {2019},
+      owner     = {riedl},
+      timestamp = {2019.01.11},
+      url       = {https://arxiv.org/abs/1901.03729},
+      }
     BOOKTITLE: Proceedings of the 2019 ACM International Conference on Intelligent User
       Interfaces
     CATEGORY: INPROCEEDINGS
@@ -878,6 +1462,16 @@ bibs:
       - name: "Brent Harrison"
       - name: "Mark O. Riedl"
     BIBTEXKEY: ehsan:exag2018
+    BIBTEX: |
+      @InProceedings{ehsan:exag2018,
+      Title                    = {Learning to Generate Natural Language Rationales for Game Playing Agents},
+      Author                   = {Upol Ehsan and Pradyumna Tambwekar and Larry Chan and Brent Harrison and Riedl, Mark O.},
+      Booktitle                = {Proceedings of the 2018 AAAI Workshop on Experimental {AI} in Games},
+      Year                     = {2018},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2018.11.12}
+      }
     BOOKTITLE: Proceedings of the 2018 AAAI Workshop on Experimental AI in Games
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -892,6 +1486,18 @@ bibs:
       - name: "David K. Elson"
       - name: "Mark O. Riedl"
     BIBTEXKEY: elson:aiide2007
+    BIBTEX: |
+      @InProceedings{elson:aiide2007,
+      author     = {Elson, David K. and Riedl, Mark O.},
+      title      = {A Lightweight Intelligent Virtual Cinematography System for Machinima Production},
+      booktitle  = {Proceedings of the 3rd AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+      year       = {2007},
+      pages      = {8-13},
+      address    = {Palo Alto, California},
+      month      = {October},
+      cvsidenote = {38\%},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/aiide07.pdf},
+      }
     BOOKTITLE: Proceedings of the 3rd AAAI Conference on Artificial Intelligence and
       Interactive Digital Entertainment
     CATEGORY: INPROCEEDINGS
@@ -910,6 +1516,18 @@ bibs:
       - name: "Gurlal Kahlon"
       - name: "Mark O. Riedl"
     BIBTEXKEY: fitzgerald:icids2009
+    BIBTEX: |
+      @InProceedings{fitzgerald:icids2009,
+      author     = {Adam Fitzgerald and Gurlal Kahlon and Riedl, Mark O.},
+      title      = {A Computational Model of Emotional Response to Stories},
+      booktitle  = {Proceedings of the 2nd Joint International Conference on Interactive Digital Storytelling},
+      year       = {2009},
+      pages      = {312-315},
+      address    = {Guimar\~aes, Portugal},
+      month      = {December},
+      cvsidenote = {40\%},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/icids09.pdf},
+      }
     BOOKTITLE: Proceedings of the 2nd Joint International Conference on Interactive
       Digital Storytelling
     CATEGORY: INPROCEEDINGS
@@ -926,6 +1544,16 @@ bibs:
       - name: "Spencer Frazier"
       - name: "Mark O. Riedl"
     BIBTEXKEY: frazier:aisb-aigames2014
+    BIBTEX: |
+      @InProceedings{frazier:aisb-aigames2014,
+      author    = {Frazier, Spencer and Riedl, Mark O.},
+      title     = {Toward Using Games and Artificial Intelligence to Proactively Sense the Real World},
+      booktitle = {Proceedings of the 2014 AISB Symposium on AI and Games},
+      year      = {2014},
+      owner     = {riedl},
+      timestamp = {2014.01.11},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aisb14.pdf},
+      }
     BOOKTITLE: Proceedings of the 2014 AISB Symposium on AI and Games
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -941,6 +1569,16 @@ bibs:
       - name: "Spencer Frazier"
       - name: "Mark O. Riedl"
     BIBTEXKEY: frazier:hcomp2014
+    BIBTEX: |
+      @InProceedings{frazier:hcomp2014,
+      author    = {Spencer Frazier and Riedl, Mark O.},
+      title     = {Persistent and Pervasive Real-World Sensing using Games},
+      booktitle = {Proceedings of the 2nd AAAI Conference on Human Computation and Crowdsourcing, Works in Progress Track},
+      year      = {2014},
+      owner     = {riedl},
+      timestamp = {2014.07.23},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/hcomp14.pdf},
+      }
     BOOKTITLE: Proceedings of the 2nd AAAI Conference on Human Computation and Crowdsourcing,
       Works in Progress Track
     CATEGORY: INPROCEEDINGS
@@ -958,6 +1596,16 @@ bibs:
       - name: "Rosa Ariaga"
       - name: "Mark O. Riedl"
     BIBTEXKEY: gillesen:imfar2009
+    BIBTEX: |
+      @InProceedings{gillesen:imfar2009,
+      Title                    = {Towards Designing An Interactive and Intelligent Tool for Social Skill Development of Individuals with HFA},
+      Author                   = {Jan Gillesen and Rosa Ariaga and Riedl, Mark O.},
+      Booktitle                = {Proceedings of the 2009 Annual Meeting for Autism Research (IMFAR)},
+      Year                     = {2009},
+      
+      Address                  = {Chicago, Illinois},
+      Month                    = {May}
+      }
     BOOKTITLE: Proceedings of the 2009 Annual Meeting for Autism Research (IMFAR)
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -973,6 +1621,18 @@ bibs:
       - name: "Hwajung Hong"
       - name: "Rosa Arriaga"
     BIBTEXKEY: gillesen:dppi2009
+    BIBTEX: |
+      @InProceedings{gillesen:dppi2009,
+      Title                    = {Refl-ex: Towards Designing An Interactive and Intelligent Tool for Social Skill Development of Individuals with HFA\/AS},
+      Author                   = {Jan Gillesen and Hwajung Hong and Rosa Arriaga},
+      Booktitle                = {Proceedings of the 4th International Conference on Designing Pleasurable Products and Interfaces},
+      Year                     = {2009},
+      
+      Address                  = {Compi\'egne, France},
+      Month                    = {October},
+      
+      Cvnote                   = {Paper is based on extensions of a project initiated by Jan Gillesen, Mark Riedl, and Rosa Arriaga at Georgia Tech.}
+      }
     BOOKTITLE: Proceedings of the 4th International Conference on Designing Pleasurable
       Products and Interfaces
     CATEGORY: INPROCEEDINGS
@@ -991,6 +1651,16 @@ bibs:
       - name: "Shao-Yu Chen"
       - name: "Mark O. Riedl"
     BIBTEXKEY: guzdial:exag2017
+    BIBTEX: |
+      @InProceedings{guzdial:exag2017,
+      author    = {Matthew Guzdial and Jonathan Chen and Shao-Yu Chen and Riedl, Mark O.},
+      title     = {A General Level Design Editor for Co-creative Level Design},
+      booktitle = {Proceedings of the AAAI 2017 Workshop on Experimental AI in Games},
+      year      = {2017},
+      owner     = {riedl},
+      timestamp = {2017.07.13},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/exag17.pdf},
+      }
     BOOKTITLE: Proceedings of the AAAI 2017 Workshop on Experimental AI in Games
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1007,6 +1677,17 @@ bibs:
       - name: "Boyang Li"
       - name: "Mark O. Riedl"
     BIBTEXKEY: guzdial:fdg2015
+    BIBTEX: |
+      @InProceedings{guzdial:fdg2015,
+      author     = {Guzdial, Matthew and Harrison, Brent and Li, Boyang and Riedl, Mark O.},
+      title      = {Crowdsourcing Open Interactive Narrative},
+      booktitle  = {Proceedings of the 2015 Conference on the Foundations of Digital Games},
+      year       = {2015},
+      cvsidenote = {53\%},
+      owner      = {riedl},
+      timestamp  = {2015.02.23},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/guzdial-fdg15.pdf},
+      }
     BOOKTITLE: Proceedings of the 2015 Conference on the Foundations of Digital Games
     CATEGORY: INPROCEEDINGS
     CVSIDENOTE: 53\%
@@ -1029,6 +1710,16 @@ bibs:
       - name: "Gillian Smith"
       - name: "Mark O. Riedl"
     BIBTEXKEY: guzdial:chi2019
+    BIBTEX: |
+      @InProceedings{guzdial:chi2019,
+      author    = {Guzdial, Matthew and Liao, Nicholas and Chen, Jonathan and Chen Shao-Yu and Shah, Shukan and Shah, Vishwa and Reno, Joshua and Smith, Gillian and Riedl, Mark O.},
+      title     = {Friend, Collaborator, Student, Manager: How Designof an AI-Driven Game Level Editor Affects Creators},
+      booktitle = {Proceedings of the 2019 ACM SIGCHI Conference on Human-Factors},
+      year      = {2019},
+      owner     = {riedl},
+      timestamp = {2019.01.11},
+      url       = {https://arxiv.org/abs/1901.06417},
+      }
     BOOKTITLE: Proceedings of the 2019 ACM SIGCHI Conference on Human-Factors
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1045,6 +1736,16 @@ bibs:
       - name: "Nicholas Liao"
       - name: "Mark Riedl"
     BIBTEXKEY: guzdial:liao:exag2018
+    BIBTEX: |
+      @InProceedings{guzdial:liao:exag2018,
+      author    = {Matthew Guzdial and Nicholas Liao and Mark Riedl},
+      title     = {Co-Creative Level Design via Machine Learning},
+      booktitle = {Proceedings of the 2018 AAAI Workshop on Experimental {AI} in Games},
+      year      = {2018},
+      owner     = {riedl},
+      timestamp = {2018.11.12},
+      url       = {https://arxiv.org/abs/1809.09420},
+      }
     BOOKTITLE: Proceedings of the 2018 AAAI Workshop on Experimental AI in Games
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1061,6 +1762,16 @@ bibs:
       - name: "Vishwa Shah"
       - name: "Mark O. Riedl"
     BIBTEXKEY: guzdial:iccc2018
+    BIBTEX: |
+      @InProceedings{guzdial:iccc2018,
+      author    = {Guzdial, Matthew and Nicholas Liao and Vishwa Shah and Riedl, Mark O.},
+      title     = {Creative Invention Benchmark},
+      booktitle = {Proceedings of the 2018 International Conference on Computational Creativity},
+      year      = {2018},
+      owner     = {riedl},
+      timestamp = {2018.05.17},
+      url       = {https://arxiv.org/abs/1805.03720},
+      }
     BOOKTITLE: Proceedings of the 2018 International Conference on Computational Creativity
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1078,6 +1789,16 @@ bibs:
       - name: "Gillian Smith"
       - name: "Mark O. Riedl"
     BIBTEXKEY: guzdial:smith:exag2018
+    BIBTEX: |
+      @InProceedings{guzdial:smith:exag2018,
+      Title                    = {Explainable {PCGML} via Design Patterns},
+      Author                   = {Guzdial, Matthew and Josh Reno and Jonathan Chen and Smith, Gillian and Riedl, Mark O.},
+      Booktitle                = {Proceedings of the 2018 AAAI Workshop on Experimental {AI} in Games},
+      Year                     = {2018},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2018.07.19}
+      }
     BOOKTITLE: Proceedings of the 2018 AAAI Workshop on Experimental AI in Games
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1091,6 +1812,17 @@ bibs:
       - name: "Matthew Guzdial"
       - name: "Mark Riedl"
     BIBTEXKEY: guzdial:iccc2016
+    BIBTEX: |
+      @InProceedings{guzdial:iccc2016,
+      author    = {Guzdial, Matthew and Riedl, Mark},
+      title     = {Learning to Blend Computer Game Levels},
+      booktitle = {Proceedings of the 2016 International Conference on Computational Creativity},
+      year      = {2016},
+      cvnote    = {2nd Best Paper Award},
+      owner     = {riedl},
+      timestamp = {2016.04.25},
+      url       = {https://arxiv.org/abs/1603.02738},
+      }
     BOOKTITLE: Proceedings of the 2016 International Conference on Computational Creativity
     CATEGORY: INPROCEEDINGS
     CVNOTE: 2nd Best Paper Award
@@ -1106,6 +1838,16 @@ bibs:
       - name: "Matthew Guzdial"
       - name: "Mark O. Riedl"
     BIBTEXKEY: guzdial:aaai-keg2018
+    BIBTEX: |
+      @InProceedings{guzdial:aaai-keg2018,
+      author    = {Guzdial, Matthew and Riedl, Mark O.},
+      title     = {Combinatorial Creativity for Procedural Content Generation via Machine Learning},
+      booktitle = {Proceedings of the AAAI 2018 Workshop on Knowledge Extraction in Games},
+      year      = {2018},
+      owner     = {riedl},
+      timestamp = {2017.11.29},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aaai-keg17.pdf},
+      }
     BOOKTITLE: Proceedings of the AAAI 2018 Workshop on Knowledge Extraction in Games
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1120,6 +1862,16 @@ bibs:
       - name: "Matthew Guzdial"
       - name: "Mark O. Riedl"
     BIBTEXKEY: guzdial:aiide2018
+    BIBTEX: |
+      @InProceedings{guzdial:aiide2018,
+      author    = {Guzdial, Matthew and Riedl, Mark O.},
+      title     = {Automated Game Design via Conceptual Expansion},
+      booktitle = {Proceedings of the 2018 AAAI Conference on AI and Interactive Digital Entertainment},
+      year      = {2018},
+      owner     = {riedl},
+      timestamp = {2018.07.19},
+      url       = {https://arxiv.org/abs/1809.02232},
+      }
     BOOKTITLE: Proceedings of the 2018 AAAI Conference on AI and Interactive Digital
       Entertainment
     CATEGORY: INPROCEEDINGS
@@ -1135,6 +1887,16 @@ bibs:
       - name: "Matthew Guzdial"
       - name: "Mark O. Riedl"
     BIBTEXKEY: guzdial:ijcai2017
+    BIBTEX: |
+      @InProceedings{guzdial:ijcai2017,
+      author    = {Guzdial, Matthew and Riedl, Mark O.},
+      title     = {Game Engine Learning from Video},
+      booktitle = {Proceedings of the 2017 International Conference on Artificial Intelligence},
+      year      = {2017},
+      owner     = {riedl},
+      timestamp = {2017.02.26},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/ijcai17.pdf},
+      }
     BOOKTITLE: Proceedings of the 2017 International Conference on Artificial Intelligence
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1149,6 +1911,16 @@ bibs:
       - name: "Matthew Guzdial"
       - name: "Mark O. Riedl"
     BIBTEXKEY: guzdial:nips-mlcd2017
+    BIBTEX: |
+      @InProceedings{guzdial:nips-mlcd2017,
+      author    = {Guzdial, Matthew and Riedl, Mark O.},
+      title     = {Combinatorial Meta Search},
+      booktitle = {Proceedings of the NIPS 2017 Workshop on Machine Learning for Creativity and Design},
+      year      = {2017},
+      owner     = {riedl},
+      timestamp = {2017.11.29},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/guzdial-nips-mlcd17.pdf},
+      }
     BOOKTITLE: Proceedings of the NIPS 2017 Workshop on Machine Learning for Creativity
       and Design
     CATEGORY: INPROCEEDINGS
@@ -1164,6 +1936,16 @@ bibs:
       - name: "Matthew Guzdial"
       - name: "Mark O. Riedl"
     BIBTEXKEY: guzdial:aiide2016
+    BIBTEX: |
+      @InProceedings{guzdial:aiide2016,
+      author    = {Guzdial, Matthew and Riedl, Mark O.},
+      title     = {Game Level Generation from Gameplay Videos},
+      booktitle = {Proceedings of the 2016 AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+      year      = {2016},
+      owner     = {riedl},
+      timestamp = {2016.06.08},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/guzdial-aiide16.pdf},
+      }
     BOOKTITLE: Proceedings of the 2016 AAAI Conference on Artificial Intelligence and
       Interactive Digital Entertainment
     CATEGORY: INPROCEEDINGS
@@ -1179,6 +1961,19 @@ bibs:
       - name: "Matthew Guzdial"
       - name: "Mark O. Riedl"
     BIBTEXKEY: guzdial:aiide-exag2015
+    BIBTEX: |
+      @Misc{guzdial:aiide-exag2015,
+      Title                    = {Intelligent Level Design Editor},
+      
+      Author                   = {Matthew Guzdial and Riedl, Mark O.},
+      HowPublished             = {Demo at the 2nd Workshop on Experimental {AI} in Games},
+      Month                    = {November},
+      Note                     = {http://guzdial.com/exag2015.html},
+      Year                     = {2015},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2015.09.15}
+      }
     CATEGORY: MISC
     EDITOR:
       - name: "null"
@@ -1194,6 +1989,16 @@ bibs:
       - name: "Matthew Guzdial"
       - name: "Mark O. Riedl"
     BIBTEXKEY: guzdial:fdg-pcg2015
+    BIBTEX: |
+      @InProceedings{guzdial:fdg-pcg2015,
+      author    = {Guzdial, Matthew and Riedl, Mark O.},
+      title     = {Toward Game Level Generation from Gameplay Videos},
+      booktitle = {Proceedings of the 2015 Workshop on Procedural Content Generation},
+      year      = {2015},
+      owner     = {riedl},
+      timestamp = {2015.04.27},
+      url       = {https://arxiv.org/abs/1602.07721},
+      }
     BOOKTITLE: Proceedings of the 2015 Workshop on Procedural Content Generation
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1209,6 +2014,16 @@ bibs:
       - name: "Shukan Shah"
       - name: "Mark Riedl"
     BIBTEXKEY: guzdial:shah:exag2018
+    BIBTEX: |
+      @InProceedings{guzdial:shah:exag2018,
+      author    = {Matthew Guzdial and Shukan Shah and Mark Riedl},
+      title     = {Towards Automated Lets Play Commentary},
+      booktitle = {Proceedings of ther 2018 AAAI Workshop on Experimental {AI} in Games},
+      year      = {2018},
+      owner     = {riedl},
+      timestamp = {2018.11.12},
+      url       = {https://arxiv.org/abs/1909.02195},
+      }
     BOOKTITLE: Proceedings of ther 2018 AAAI Workshop on Experimental AI in Games
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1226,6 +2041,18 @@ bibs:
       - name: "Devika Karnik"
       - name: "Mark O. Riedl"
     BIBTEXKEY: hajarnis:flairs2011
+    BIBTEX: |
+      @InProceedings{hajarnis:flairs2011,
+      author    = {Hajarnis, Sanjeet and Barve, Chinmay and Karnik, Devika and Riedl, Mark O.},
+      title     = {Supporting End-User Authoring of Alternate Reality Games with Cross-Location Compatibility},
+      booktitle = {Proceedings of the 24th Conference of the Florida Artificial Intelligence Research Society},
+      year      = {2011},
+      address   = {Palm Beach, Florida},
+      month     = {May},
+      owner     = {riedl},
+      timestamp = {2010.11.20},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/hajarnis-flairs11.pdf},
+      }
     BOOKTITLE: Proceedings of the 24th Conference of the Florida Artificial Intelligence
       Research Society
     CATEGORY: INPROCEEDINGS
@@ -1246,6 +2073,20 @@ bibs:
       - name: "Aziel Ferguson"
       - name: "Mark O. Riedl"
     BIBTEXKEY: hajarnis:icids2011
+    BIBTEX: |
+      @InProceedings{hajarnis:icids2011,
+      author     = {Sanjeet Hajarnis and Brandon Headrick and Aziel Ferguson and Riedl, Mark O.},
+      title      = {Scaling Mobile Alternate Reality Games with Geo-Location Translation},
+      booktitle  = {Proceedings of the 4th International Conference on Interactive Digital Storytelling},
+      year       = {2011},
+      pages      = {278-283},
+      address    = {Vancouver, Canada},
+      month      = {November},
+      cvsidenote = {44\%},
+      owner      = {riedl},
+      timestamp  = {2011.07.07},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/icids11.pdf},
+      }
     BOOKTITLE: Proceedings of the 4th International Conference on Interactive Digital
       Storytelling
     CATEGORY: INPROCEEDINGS
@@ -1268,6 +2109,20 @@ bibs:
       - name: "Mark Riedl"
       - name: "Ashwin Ram"
     BIBTEXKEY: hajarnis:iccbr2011
+    BIBTEX: |
+      @InProceedings{hajarnis:iccbr2011,
+      author     = {Sanjeet Hajarnis and Christina Leber and Hua Ai and Mark Riedl and Ashwin Ram},
+      title      = {A Case Base Planning Approach for Dialogue Generation in Digital Movie Design},
+      booktitle  = {Proceedings of the 19th International Conference on Case Based Reasoning},
+      year       = {2011},
+      pages      = {452-466},
+      address    = {Greenwich, London, England},
+      month      = {September},
+      cvsidenote = {50\%},
+      owner      = {riedl},
+      timestamp  = {2011.05.17},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/iccbr11.pdf},
+      }
     BOOKTITLE: Proceedings of the 19th International Conference on Case Based Reasoning
     CATEGORY: INPROCEEDINGS
     CVSIDENOTE: 50\%
@@ -1286,6 +2141,16 @@ bibs:
       - name: "Siddhartha Banerjee"
       - name: "Mark O. Riedl"
     BIBTEXKEY: harrison:ijcai-iml2016
+    BIBTEX: |
+      @InProceedings{harrison:ijcai-iml2016,
+      author    = {Harrison, Brent and Banerjee, Siddhartha and Riedl, Mark O.},
+      title     = {Learning from Stories: Using Natural Communication to Train Believable Agents},
+      booktitle = {Proceedings of the 2016 IJCAI Workshop on Interactive Machine Learning},
+      year      = {2016},
+      owner     = {riedl},
+      timestamp = {2015.11.21},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/ijcai-iml16.pdf},
+      }
     BOOKTITLE: Proceedings of the 2016 IJCAI Workshop on Interactive Machine Learning
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1301,6 +2166,16 @@ bibs:
       - name: "Upol Ehsan"
       - name: "Mark O. Riedl"
     BIBTEXKEY: harrison:aamas2018
+    BIBTEX: |
+      @InProceedings{harrison:aamas2018,
+      author    = {Brent Harrison and Upol Ehsan and Riedl, Mark O.},
+      title     = {Guiding Reinforcement Learning Exploration Using Natural Language},
+      booktitle = {Proceedings of the 2018 International Joint Conference on Autonomous Agents and Multi Agent Systems},
+      year      = {2018},
+      owner     = {riedl},
+      timestamp = {2017.09.12},
+      url       = {https://arxiv.org/abs/1707.08616},
+      }
     BOOKTITLE: Proceedings of the 2018 International Joint Conference on Autonomous
       Agents and Multi Agent Systems
     CATEGORY: INPROCEEDINGS
@@ -1317,6 +2192,16 @@ bibs:
       - name: "Upol Ehsan"
       - name: "Mark O. Riedl"
     BIBTEXKEY: harrison:aies2018
+    BIBTEX: |
+      @InProceedings{harrison:aies2018,
+      author    = {Harrison, Brent and Ehsan, Upol and Riedl, Mark O.},
+      title     = {Rationalization: A Neural Machine Translation Approach to Generating Natural Language Explanations},
+      booktitle = {Proceedings of the 1st AAAI Conference on {AI}, Ethics, and Society},
+      year      = {2017},
+      owner     = {riedl},
+      timestamp = {2017.02.26},
+      url       = {https://arxiv.org/abs/1702.07826},
+      }
     BOOKTITLE: Proceedings of the 1st AAAI Conference on AI, Ethics, and Society
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1333,6 +2218,16 @@ bibs:
       - name: "Christopher Purdy"
       - name: "Mark O. Riedl"
     BIBTEXKEY: harrison:int2017
+    BIBTEX: |
+      @InProceedings{harrison:int2017,
+      author    = {Harrison, Brent and Purdy, Christopher and Riedl, Mark O.},
+      title     = {Toward Automated Story Generation with Markov Chain Monte Carlo Methods and Deep Neural Networks.},
+      booktitle = {Proceedings of the 2017 AAAI Workshop on Intelligent Narrative Technologies},
+      year      = {2017},
+      owner     = {riedl},
+      timestamp = {2017.09.12},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/int17.pdf},
+      }
     BOOKTITLE: Proceedings of the 2017 AAAI Workshop on Intelligent Narrative Technologies
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1348,6 +2243,16 @@ bibs:
       - name: "Brent Harrison"
       - name: "Mark Riedl"
     BIBTEXKEY: harrison:aaai-symbiotic2016
+    BIBTEX: |
+      @InProceedings{harrison:aaai-symbiotic2016,
+      author    = {Harrison, Brent and Riedl, Mark},
+      title     = {Towards Learning From Stories: An Approach for Interactive Machine Learning},
+      booktitle = {Proceedings of the AAAI'16 Workshop on Symbiotic Cognitive Systems},
+      year      = {2016},
+      owner     = {riedl},
+      timestamp = {2015.10.23},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aaai-symbiotic16.pdf},
+      }
     BOOKTITLE: Proceedings of the AAAI'16 Workshop on Symbiotic Cognitive Systems
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1362,6 +2267,16 @@ bibs:
       - name: "Brent Harrsion"
       - name: "Mark O Riedl"
     BIBTEXKEY: harrison:aiide2016
+    BIBTEX: |
+      @InProceedings{harrison:aiide2016,
+      author    = {Harrsion, Brent and Riedl, Mark O},
+      title     = {Learning From Stories: Using Crowdsourced Narratives to Train Virtual Agents},
+      booktitle = {Proceedings of the 2016 AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+      year      = {2016},
+      owner     = {riedl},
+      timestamp = {2016.06.08},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/harrison-aiide16.pdf},
+      }
     BOOKTITLE: Proceedings of the 2016 AAAI Conference on Artificial Intelligence and
       Interactive Digital Entertainment
     CATEGORY: INPROCEEDINGS
@@ -1380,6 +2295,22 @@ bibs:
       - name: "Sauvik Das"
       - name: "Mark Riedl"
     BIBTEXKEY: hartsook:cig2011
+    BIBTEX: |
+      @InProceedings{hartsook:cig2011,
+      Title                    = {Toward Supporting Storytellers with Procedurally Generated Game Worlds},
+      Author                   = {Hartsook, Ken and Zook, Alexander and Das, Sauvik and Riedl, Mark},
+      Booktitle                = {Proceedings of the 2011 IEEE Conference on Computational Intelligence in Games},
+      Year                     = {2011},
+      
+      Address                  = {Seoul, South Korea},
+      Month                    = {August},
+      Pages                    = {297-304},
+      
+      Cvnote                   = {Invited to be included as a chapter in a textbook on Procedural Content Generation, edited by Togelius et al., 2013.},
+      Cvsidenote               = {60\%},
+      Owner                    = {riedl},
+      Timestamp                = {2011.06.10}
+      }
     BOOKTITLE: Proceedings of the 2011 IEEE Conference on Computational Intelligence
       in Games
     CATEGORY: INPROCEEDINGS
@@ -1400,6 +2331,16 @@ bibs:
       - name: "Marc Huet"
       - name: "Mark O. Riedl"
     BIBTEXKEY: hodhod:aiide-exag2014
+    BIBTEX: |
+      @InProceedings{hodhod:aiide-exag2014,
+      author    = {Hodhod, Rania and Huet, Marc and Riedl, Mark O.},
+      title     = {Toward Generating 3D Games with the Help of Commonsense Knowledge and the Crowd},
+      booktitle = {Proceedings of the AAAI Workshop on Experimental {AI} in Games},
+      year      = {2014},
+      owner     = {riedl},
+      timestamp = {2014.07.15},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aiide-exag14.pdf},
+      }
     BOOKTITLE: Proceedings of the AAAI Workshop on Experimental AI in Games
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1419,6 +2360,16 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Andrea Thomaz"
     BIBTEXKEY: krening:tcds2017
+    BIBTEX: |
+      @Article{krening:tcds2017,
+      author    = {Sam Krening and Brent Harrison and Karen Feigh and Charles Isbell and Riedl, Mark O. and Andrea Thomaz},
+      title     = {Learning from Explanations using Sentiment and Advice in {RL}},
+      journal   = {IEEE Transactions on Cognitive and Developmental Systems},
+      year      = {2017},
+      owner     = {riedl},
+      timestamp = {2017.02.03},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/tcds16.pdf},
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -1437,6 +2388,19 @@ bibs:
       - name: "Ryan McAlinden"
       - name: "Paul Brobst"
     BIBTEXKEY: vanlent:aiide2005
+    BIBTEX: |
+      @InProceedings{vanlent:aiide2005,
+      Title                    = {Increasing Replayability with Deliberative and Reactive Planning},
+      Author                   = {Michael van Lent and Riedl, Mark O. and Paul Carpenter and Ryan McAlinden and Paul Brobst},
+      Booktitle                = {Proceedings of the 1st Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)},
+      Year                     = {2005},
+      
+      Address                  = {Maria Del Rey, California},
+      Month                    = {June},
+      Pages                    = {135-140},
+      
+      Cvsidenote               = {50\%}
+      }
     BOOKTITLE: Proceedings of the 1st Conference on Artificial Intelligence and Interactive
       Digital Entertainment (AIIDE)
     CATEGORY: INPROCEEDINGS
@@ -1451,6 +2415,16 @@ bibs:
     AUTHOR:
       - name: "Boyang Li"
     BIBTEXKEY: li:dissertation2014
+    BIBTEX: |
+      @PhdThesis{li:dissertation2014,
+      author    = {Li, Boyang},
+      title     = {Learning Knowledge to Support Domain-Independent Narrative Intelligence},
+      school    = {Georgia Institute of Technology},
+      year      = {2014},
+      owner     = {riedl},
+      timestamp = {2015.09.29},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/li-thesis.pdf},
+      }
     CATEGORY: PHDTHESIS
     EDITOR:
       - name: "null"
@@ -1464,6 +2438,17 @@ bibs:
     AUTHOR:
       - name: "Boyang Li"
     BIBTEXKEY: li:aiide-dc2012
+    BIBTEX: |
+      @InProceedings{li:aiide-dc2012,
+      Title                    = {Narrative Intelligence Without (Domain) Boundaries},
+      Author                   = {Boyang Li},
+      Booktitle                = {Proceedings of the 8th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment Doctoral Consortium},
+      Year                     = {2012},
+      Month                    = {October},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2013.04.21}
+      }
     BOOKTITLE: Proceedings of the 8th AAAI Conference on Artificial Intelligence and
       Interactive Digital Entertainment Doctoral Consortium
     CATEGORY: INPROCEEDINGS
@@ -1482,6 +2467,18 @@ bibs:
       - name: "Stephen Lee-Urban"
       - name: "Mark O. Riedl"
     BIBTEXKEY: li:hcomp2012
+    BIBTEX: |
+      @InProceedings{li:hcomp2012,
+      author    = {Li, Boyang and Appling, D. Scott and Lee-Urban, Stephen and Riedl, Mark O.},
+      title     = {Learning Sociocultural Knowledge via Crowdsourced Examples},
+      booktitle = {Proceedings of the 4th Workshop on Human Computation},
+      year      = {2012},
+      address   = {Toronto, Canada},
+      month     = {July},
+      owner     = {riedl},
+      timestamp = {2012.04.02},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/hcomp12.pdf},
+      }
     BOOKTITLE: Proceedings of the 4th Workshop on Human Computation
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1499,6 +2496,17 @@ bibs:
       - name: "D. Scott Appling"
       - name: "Mark O. Riedl"
     BIBTEXKEY: li:acs2012
+    BIBTEX: |
+      @Article{li:acs2012,
+      author  = {Li, Boyang and Lee-Urban, Stephen and Appling, D. Scott and Riedl, Mark O.},
+      title   = {Crowdsourcing Narrative Intelligence},
+      journal = {Advances in Cognitive Systems},
+      year    = {2012},
+      volume  = {2},
+      pages   = {25--42},
+      month   = {December},
+      url     = {http://www.cc.gatech.edu/~riedl/pubs/acs12.pdf},
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -1517,6 +2525,18 @@ bibs:
       - name: "D. Scott Appling"
       - name: "Mark O. Riedl"
     BIBTEXKEY: li:cmn2012
+    BIBTEX: |
+      @InProceedings{li:cmn2012,
+      author    = {Li, Boyang and Lee-Urban, Steve and Appling, D. Scott and Riedl, Mark O.},
+      title     = {Automatically Learning to Tell Stories about Social Situations from the Crowd},
+      booktitle = {Proceedings of the 2012 Workshop on Computational Models of Narrative},
+      year      = {2012},
+      address   = {Istanbul, Turkey},
+      month     = {May},
+      owner     = {riedl},
+      timestamp = {2012.02.24},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/cmn12.pdf},
+      }
     BOOKTITLE: Proceedings of the 2012 Workshop on Computational Models of Narrative
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1535,6 +2555,19 @@ bibs:
       - name: "George Johnston"
       - name: "Mark O. Riedl"
     BIBTEXKEY: li:aaai2013
+    BIBTEX: |
+      @InProceedings{li:aaai2013,
+      author     = {Li, Boyang and Lee-Urban, Stephen and Johnston, George and Riedl, Mark O.},
+      title      = {Story Generation with Crowdsourced Plot Graphs},
+      booktitle  = {Proceedings of the 27th AAAI Conference on Artificial Intelligence},
+      year       = {2013},
+      address    = {Bellevue, Washington},
+      month      = {July},
+      cvsidenote = {29\%},
+      owner      = {riedl},
+      timestamp  = {2013.01.23},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/aaai13.pdf},
+      }
     BOOKTITLE: Proceedings of the 27th AAAI Conference on Artificial Intelligence
     CATEGORY: INPROCEEDINGS
     CVSIDENOTE: 29\%
@@ -1553,6 +2586,18 @@ bibs:
       - name: "Stephen Lee-Urban"
       - name: "Mark O. Riedl"
     BIBTEXKEY: li:fdg2013
+    BIBTEX: |
+      @InProceedings{li:fdg2013,
+      author    = {Li, Boyang and Lee-Urban, Stephen and Riedl, Mark O.},
+      title     = {Crowdsourcing Interactive Fiction Games},
+      booktitle = {Proceedings of the 8th International Conference on the Foundations of Digital Games},
+      year      = {2013},
+      address   = {Chania, Crete, Greece},
+      month     = {May},
+      owner     = {riedl},
+      timestamp = {2013.03.07},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/li-fdg13.pdf},
+      }
     BOOKTITLE: Proceedings of the 8th International Conference on the Foundations of
       Digital Games
     CATEGORY: INPROCEEDINGS
@@ -1571,6 +2616,19 @@ bibs:
       - name: "Stephen Lee-Urban"
       - name: "Mark O. Riedl"
     BIBTEXKEY: li:int2012
+    BIBTEX: |
+      @InProceedings{li:int2012,
+      author    = {Li, Boyang and Lee-Urban, Stephen and Riedl, Mark O.},
+      title     = {Toward Autonomous Crowd-Powered Creation of Interactive Narratives},
+      booktitle = {Proceedings of the 5th Workshop on Intelligent Narrative Technologies},
+      year      = {2012},
+      pages     = {20-25},
+      address   = {Palo Alto, California},
+      month     = {October},
+      owner     = {riedl},
+      timestamp = {2012.07.11},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aiide-int12.pdf},
+      }
     BOOKTITLE: Proceedings of the 5th Workshop on Intelligent Narrative Technologies
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1587,6 +2645,18 @@ bibs:
       - name: "Boyang Li"
       - name: "Mark O. Riedl"
     BIBTEXKEY: li:ags2010
+    BIBTEX: |
+      @InCollection{li:ags2010,
+      Title                    = {Creating Customized Game Experiences by Leveraging Human Creative Effort: A Planning Approach},
+      Author                   = {Li, Boyang and Riedl, Mark O.},
+      Booktitle                = {Agents for Games and Simulations},
+      Publisher                = {Springer},
+      Year                     = {2010},
+      Editor                   = {Frank Dignum},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2010.09.30}
+      }
     BOOKTITLE: Agents for Games and Simulations
     CATEGORY: INCOLLECTION
     EDITOR:
@@ -1602,6 +2672,16 @@ bibs:
       - name: "Boyang Li"
       - name: "Mark O. Riedl"
     BIBTEXKEY: li:aaai2015
+    BIBTEX: |
+      @InProceedings{li:aaai2015,
+      author    = {Li, Boyang and Riedl, Mark O.},
+      title     = {Scheherazade: Crowd-Powered Interactive Narrative Generation},
+      booktitle = {Proceedings of the 29th AAAI Conference on Artificial Intelligence},
+      year      = {2015},
+      owner     = {riedl},
+      timestamp = {2014.11.20},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aaai15.pdf},
+      }
     BOOKTITLE: Proceedings of the 29th AAAI Conference on Artificial Intelligence
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1617,6 +2697,19 @@ bibs:
       - name: "Boyang Li"
       - name: "Mark O. Riedl"
     BIBTEXKEY: li:aiide-int2011
+    BIBTEX: |
+      @InProceedings{li:aiide-int2011,
+      author    = {Li, Boyang and Riedl, Mark O.},
+      title     = {A Phone That Cures Your Flu: Generating Imaginary Gadgets in Fictions with Planning and Analogies},
+      booktitle = {Proceedings of the 4th Workshop on Intelligent Narrative Technologies},
+      year      = {2011},
+      pages     = {41-48},
+      address   = {Palo Alto, California},
+      month     = {October},
+      owner     = {riedl},
+      timestamp = {2011.08.07},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aiide-int11.pdf},
+      }
     BOOKTITLE: Proceedings of the 4th Workshop on Intelligent Narrative Technologies
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1635,6 +2728,21 @@ bibs:
       - name: "Boyang Li"
       - name: "Mark O. Riedl"
     BIBTEXKEY: li:cc2011
+    BIBTEX: |
+      @InProceedings{li:cc2011,
+      Title                    = {Creative Gadget Design in Fictions: Generating Novel Object Types in Analogical Spaces},
+      Author                   = {Li, Boyang and Mark O. Riedl},
+      Booktitle                = {Proceedings of the 8th ACM Conference on Creativity and Cognition},
+      Year                     = {2011},
+      
+      Address                  = {Atlanta, Georgia},
+      Month                    = {November},
+      Pages                    = {41-50},
+      
+      Cvsidenote               = {23\%},
+      Owner                    = {riedl},
+      Timestamp                = {2011.04.29}
+      }
     BOOKTITLE: Proceedings of the 8th ACM Conference on Creativity and Cognition
     CATEGORY: INPROCEEDINGS
     CVSIDENOTE: 23\%
@@ -1653,6 +2761,18 @@ bibs:
       - name: "Boyang Li"
       - name: "Mark O. Riedl"
     BIBTEXKEY: li:aiide2010
+    BIBTEX: |
+      @InProceedings{li:aiide2010,
+      author     = {Li, Boyang and Riedl, Mark O.},
+      title      = {An Offline Planning Approach to Game Plotline Adaptation},
+      booktitle  = {Proceedings of the 6th Conference on Artificial Intelligence for Interactive Digital Entertainment Conference},
+      year       = {2010},
+      pages      = {45-50},
+      address    = {Palo Alto, California},
+      month      = {October},
+      cvsidenote = {29\%},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/li-aiide10.pdf},
+      }
     BOOKTITLE: Proceedings of the 6th Conference on Artificial Intelligence for Interactive
       Digital Entertainment Conference
     CATEGORY: INPROCEEDINGS
@@ -1670,6 +2790,18 @@ bibs:
       - name: "Boyang Li"
       - name: "Mark O. Riedl"
     BIBTEXKEY: li:icaps-pg2010
+    BIBTEX: |
+      @InProceedings{li:icaps-pg2010,
+      author    = {Boyang Li and Mark O. Riedl},
+      title     = {Planning for Individualized Experiences with Quest-Centric Game Adaptation},
+      booktitle = {ICAPS 2010 Workshop on Planning in Games},
+      year      = {2010},
+      address   = {Toronto, Canada},
+      month     = {May},
+      owner     = {riedl},
+      timestamp = {2010.02.28},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/icaps-pg10.pdf},
+      }
     BOOKTITLE: ICAPS 2010 Workshop on Planning in Games
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1687,6 +2819,16 @@ bibs:
       - name: "Yijie Wang"
       - name: "Mark O. Riedl"
     BIBTEXKEY: li:fdg-sbg2014
+    BIBTEX: |
+      @InProceedings{li:fdg-sbg2014,
+      author    = {Boyang Li and Mohini Thakkar and Yijie Wang and Riedl, Mark O.},
+      title     = {Data-Driven Alibi Story Telling for Social Believability},
+      booktitle = {Proceedings of the 2014 Foundations of Digital Games workshop on Social Believability in Games},
+      year      = {2014},
+      owner     = {riedl},
+      timestamp = {2014.01.27},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/sbg14.pdf},
+      }
     BOOKTITLE: Proceedings of the 2014 Foundations of Digital Games workshop on Social
       Believability in Games
     CATEGORY: INPROCEEDINGS
@@ -1704,6 +2846,17 @@ bibs:
       - name: "Yijie Wang"
       - name: "Mark O. Riedl"
     BIBTEXKEY: li:icids2014
+    BIBTEX: |
+      @InProceedings{li:icids2014,
+      Title                    = {Data-Driven Storytelling Agents with Adjustable Personal Traits and Sentiments},
+      Author                   = {Li, Boyang and Thakkar, Mohini and Yijie Wang and Riedl, Mark O.},
+      Booktitle                = {Proceedings of the 7th International Conference on Interactive Digital Storytelling},
+      Year                     = {2014},
+      
+      Cvsidenote               = {29\%},
+      Owner                    = {riedl},
+      Timestamp                = {2014.04.13}
+      }
     BOOKTITLE: Proceedings of the 7th International Conference on Interactive Digital
       Storytelling
     CATEGORY: INPROCEEDINGS
@@ -1721,6 +2874,16 @@ bibs:
       - name: "Yijie Wang"
       - name: "Mark O. Riedl"
     BIBTEXKEY: li:iva2014
+    BIBTEX: |
+      @InProceedings{li:iva2014,
+      Title                    = {From Data to Storytelling Agents},
+      Author                   = {Li, Boyang and Thakkar, Mohini and Yijie Wang and Riedl, Mark O.},
+      Booktitle                = {Proceedings of the 14th International Conference on Intelligent Virtual Agents},
+      Year                     = {2014},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2014.04.13}
+      }
     BOOKTITLE: Proceedings of the 14th International Conference on Intelligent Virtual
       Agents
     CATEGORY: INPROCEEDINGS
@@ -1738,6 +2901,20 @@ bibs:
       - name: "Nicholas Davis"
       - name: "Mark O. Riedl"
     BIBTEXKEY: li:iccc2012
+    BIBTEX: |
+      @InProceedings{li:iccc2012,
+      author     = {Li, Boyang and Zook, Alexander and Davis, Nicholas and Riedl, Mark O.},
+      title      = {Goal-Driven Conceptual Blending: A Computational Approach for Creativity},
+      booktitle  = {Proceedings of the 3rd International Conference on Computational Creativity},
+      year       = {2012},
+      pages      = {9-16},
+      address    = {Dublin, Ireland},
+      month      = {May},
+      cvsidenote = {50\%},
+      owner      = {riedl},
+      timestamp  = {2012.02.24},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/iccc12.pdf},
+      }
     BOOKTITLE: Proceedings of the 3rd International Conference on Computational Creativity
     CATEGORY: INPROCEEDINGS
     CVSIDENOTE: 50\%
@@ -1756,6 +2933,16 @@ bibs:
       - name: "Matthew Guzdial"
       - name: "Mark O. Riedl"
     BIBTEXKEY: liao:fdg2017
+    BIBTEX: |
+      @InProceedings{liao:fdg2017,
+      author    = {Nicholas Liao and Matthew Guzdial and Riedl, Mark O.},
+      title     = {Deep Convolutional Player Modeling on Log and Level Data},
+      booktitle = {Proceedings of the 2017 Conference on the Foundations of Digital Games},
+      year      = {2017},
+      owner     = {riedl},
+      timestamp = {2017.09.12},
+      url       = {https://www.cc.gatech.edu/~riedl/pubs/liao-fdg17.pdf},
+      }
     BOOKTITLE: Proceedings of the 2017 Conference on the Foundations of Digital Games
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1772,6 +2959,13 @@ bibs:
       - name: "A.' 'Keech"
       - name: "M.~O.' 'Riedl"
     BIBTEXKEY: lin:arxiv2017
+    BIBTEX: |
+      @Article{lin:arxiv2017,
+      author  = {{Lin}, Z. and {Harrison}, B. and {Keech}, A. and {Riedl}, M.~O.},
+      title   = {{Explore, Exploit or Listen: Combining Human Feedback and Policy Model to Speed up Deep Reinforcement Learning in 3D Worlds}},
+      journal = {ArXiv:1709.03969},
+      url     = {https://arxiv.org/abs/1709.03969},
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -1785,6 +2979,15 @@ bibs:
       - name: "Kyle Xiao"
       - name: "Mark O. Riedl"
     BIBTEXKEY: lin:aaai-keg2019
+    BIBTEX: |
+      @InProceedings{lin:aaai-keg2019,
+      author    = {Lin, Zhiyu and Xiao, Kyle and Riedl, Mark O.},
+      title     = {GenerationMania: Learning to Semantically Choreograph},
+      booktitle = {Proceedings of the 2018 AAAI Workshop on Knowledge Extraction in Games},
+      year      = {2018},
+      owner     = {riedl},
+      timestamp = {2018.07.19},
+      }
     BOOKTITLE: Proceedings of the 2018 AAAI Workshop on Knowledge Extraction in Games
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1799,6 +3002,16 @@ bibs:
       - name: "Kyle Xiao"
       - name: "Mark O. Riedl"
     BIBTEXKEY: lin:exag2018
+    BIBTEX: |
+      @InProceedings{lin:exag2018,
+      author    = {Lin, Zhiyu and Xiao, Kyle and Riedl, Mark O.},
+      title     = {GenerationMania: Learning to Semantically Choreograph},
+      booktitle = {Proceedings of the 2018 AAAI Workshop on Experimental {AI} in Games},
+      year      = {2018},
+      owner     = {riedl},
+      timestamp = {2018.07.19},
+      url       = {https://arxiv.org/abs/1806.11170},
+      }
     BOOKTITLE: Proceedings of the 2018 AAAI Workshop on Experimental AI in Games
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1815,6 +3028,16 @@ bibs:
       - name: "Matthew Guzdial"
       - name: "Mark O. Riedl"
     BIBTEXKEY: luo:aiide2018
+    BIBTEX: |
+      @InProceedings{luo:aiide2018,
+      Title                    = {Player Experience Extraction from Gameplay Videos},
+      Author                   = {Zijin Luo and Nicholas Liao and Guzdial, Matthew and Riedl, Mark O.},
+      Booktitle                = {Proceedings of the 2018 AAAI Conference on AI and Interactive Digital Entertainment},
+      Year                     = {2018},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2018.07.19}
+      }
     BOOKTITLE: Proceedings of the 2018 AAAI Conference on AI and Interactive Digital
       Entertainment
     CATEGORY: INPROCEEDINGS
@@ -1835,6 +3058,19 @@ bibs:
       - name: "Devika Karnik"
       - name: "Mark O. Riedl"
     BIBTEXKEY: macvean:ace2011
+    BIBTEX: |
+      @InProceedings{macvean:ace2011,
+      author     = {MacVean, Andrew and Hajarnis, Sanjeet and Headrick, Brandon and Ferguson, Aziel and Barve, Chinmay and Karnik, Devika and Riedl, Mark O.},
+      title      = {{WeQuest}: Scalable Alternate Reality Games Through End-User Content Authoring},
+      booktitle  = {Proceedings of the 8th International Conference on Advances in Computer Entertainment Technology},
+      year       = {2011},
+      address    = {Lisbon, Portugal},
+      month      = {June},
+      cvsidenote = {51\%},
+      owner      = {riedl},
+      timestamp  = {2011.06.11},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/ace11.pdf},
+      }
     BOOKTITLE: Proceedings of the 8th International Conference on Advances in Computer
       Entertainment Technology
     CATEGORY: INPROCEEDINGS
@@ -1853,6 +3089,18 @@ bibs:
       - name: "Andrew MacVean"
       - name: "Mark O. Riedl"
     BIBTEXKEY: macvean:fdg2011
+    BIBTEX: |
+      @InProceedings{macvean:fdg2011,
+      author    = {MacVean, Andrew and Riedl, Mark O.},
+      title     = {An Enjoyment Metric for the Evaluation of Alternate Reality Games},
+      booktitle = {Proceedings of the 6th International Conference on the Foundations of Digital Games},
+      year      = {2011},
+      address   = {Bordeaux, France},
+      month     = {June},
+      owner     = {riedl},
+      timestamp = {2011.02.05},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/fdg11.pdf},
+      }
     BOOKTITLE: Proceedings of the 6th International Conference on the Foundations of
       Digital Games
     CATEGORY: INPROCEEDINGS
@@ -1870,6 +3118,19 @@ bibs:
       - name: "Andrew Macvean"
       - name: "Mark O. Riedl"
     BIBTEXKEY: macvean:siggraph2011
+    BIBTEX: |
+      @InProceedings{macvean:siggraph2011,
+      author     = {Macvean, Andrew and Riedl, Mark O.},
+      title      = {Evaluating Enjoyment Within Alternate Reality Games},
+      booktitle  = {Proceedings of the 38th International Conference on Computer Graphics and Interactive Techniques},
+      year       = {2011},
+      address    = {Vancouver, Canada},
+      month      = {August},
+      cvsidenote = {12\%},
+      owner      = {riedl},
+      timestamp  = {2011.01.18},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/sandbox11.pdf},
+      }
     BOOKTITLE: Proceedings of the 38th International Conference on Computer Graphics
       and Interactive Techniques
     CATEGORY: INPROCEEDINGS
@@ -1893,6 +3154,18 @@ bibs:
       - name: "Kurt Luther"
       - name: "Celia Pearce"
     BIBTEXKEY: magerko:cc2009
+    BIBTEX: |
+      @InProceedings{magerko:cc2009,
+      author     = {Brian Magerko and Waleed Manzoul and Mark Riedl and Allan Baumer and Daniel Fuller and Kurt Luther and Celia Pearce},
+      title      = {An Empirical Study of Cognition and Theatrical Improvisation},
+      booktitle  = {Proceedings of the 7th Creativity and Cognition Conference},
+      year       = {2009},
+      pages      = {117-126},
+      address    = {Berkeley, California},
+      month      = {October},
+      cvsidenote = {25\%},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/magerko-cc09.pdf},
+      }
     BOOKTITLE: Proceedings of the 7th Creativity and Cognition Conference
     CATEGORY: INPROCEEDINGS
     CVSIDENOTE: 25\%
@@ -1909,6 +3182,17 @@ bibs:
       - name: "Brian~S. Magerko"
       - name: "Mark O. Riedl"
     BIBTEXKEY: magerko:cc2008
+    BIBTEX: |
+      @InProceedings{magerko:cc2008,
+      author    = {Brian~S. Magerko and Riedl, Mark O.},
+      title     = {What Happens Next?: Toward an Empirical Investigation of Improvisational Theatre},
+      booktitle = {Proceedings of the 5th International Joint Workshop on Computational Creativity},
+      year      = {2008},
+      address   = {Madrid, Spain},
+      month     = {September},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/magerko-ijwcc08.pdf},
+      venue     = {CC},
+      }
     BOOKTITLE: Proceedings of the 5th International Joint Workshop on Computational
       Creativity
     CATEGORY: INPROCEEDINGS
@@ -1926,6 +3210,16 @@ bibs:
       - name: "Srijan Sood"
       - name: "Mark Riedl"
     BIBTEXKEY: martin:int2018
+    BIBTEX: |
+      @InProceedings{martin:int2018,
+      author    = {Lara Martin and Srijan Sood and Mark Riedl},
+      title     = {Dungeons and {DQNs}: Toward Reinforcement Learning Agents that Play Tabletop Roleplaying Games},
+      booktitle = {Proceedings of the 2018 Joint Workshop on Workshop on Intelligent Cinematography and Editing and Intelligent Narrative Technologies},
+      year      = {2018},
+      owner     = {riedl},
+      timestamp = {2018.11.12},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/int18.pdf},
+      }
     BOOKTITLE: Proceedings of the 2018 Joint Workshop on Workshop on Intelligent Cinematography
       and Editing and Intelligent Narrative Technologies
     CATEGORY: INPROCEEDINGS
@@ -1946,6 +3240,16 @@ bibs:
       - name: "Brent Harrison"
       - name: "Mark O. Riedl"
     BIBTEXKEY: martin:kdd-mlc2017
+    BIBTEX: |
+      @InProceedings{martin:kdd-mlc2017,
+      Title                    = {Event Representations for Automated Story Generation with Deep Neural Nets},
+      Author                   = {Martin, Lara J. and Prithviraj Ammanabrolu and William Hancock and Shruti Singh and Brent Harrison and Riedl, Mark O.},
+      Booktitle                = {Proceedings of the KDD 2017 Workshop on Machine Learning for Creativity},
+      Year                     = {2017},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2017.07.08}
+      }
     BOOKTITLE: Proceedings of the KDD 2017 Workshop on Machine Learning for Creativity
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -1964,6 +3268,16 @@ bibs:
       - name: "Brent Harrison"
       - name: "Mark O. Riedl"
     BIBTEXKEY: martin:aaai2018
+    BIBTEX: |
+      @InProceedings{martin:aaai2018,
+      author    = {Martin, Lara J. and Prithviraj Ammanabrolu and Xinyu Wang and William Hancock and Shruti Singh and Brent Harrison and Riedl, Mark O.},
+      title     = {Event Representations for Automated Story Generation with Deep Neural Nets},
+      booktitle = {Proceedings of the 2018 Conference of the Association for the Advancement of Artificial Intelligence},
+      year      = {2018},
+      owner     = {riedl},
+      timestamp = {2017.09.12},
+      url       = {https://arxiv.org/abs/1706.01331},
+      }
     BOOKTITLE: Proceedings of the 2018 Conference of the Association for the Advancement
       of Artificial Intelligence
     CATEGORY: INPROCEEDINGS
@@ -1989,6 +3303,16 @@ bibs:
       - name: "Chris Purdy"
       - name: "Mark O. Riedl"
     BIBTEXKEY: martin:nips-mlcd2017
+    BIBTEX: |
+      @InProceedings{martin:nips-mlcd2017,
+      author    = {Martin, Lara J. and Prithviraj Ammanabrolu and Xinyu Wang and Shruti Singh and Brent Harrison and Murtaza Dhuliawala and Pradyumna Tambwekar and Animesh Mehta and Richa Arora and Nathan Dass and Chris Purdy and Riedl, Mark O.},
+      title     = {Improvisational Storytelling Agents},
+      booktitle = {Proceedings of the NIPS 2017 Workshop on Machine Learning for Creativity and Design},
+      year      = {2017},
+      owner     = {riedl},
+      timestamp = {2017.11.29},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/martin-nips-mlcd17.pdf},
+      }
     BOOKTITLE: Proceedings of the NIPS 2017 Workshop on Machine Learning for Creativity
       and Design
     CATEGORY: INPROCEEDINGS
@@ -2005,6 +3329,16 @@ bibs:
       - name: "Brent Harrison"
       - name: "Mark O. Riedl"
     BIBTEXKEY: martin:icids2016
+    BIBTEX: |
+      @InProceedings{martin:icids2016,
+      author    = {Martin, Laura J. and Harrison, Brent and Riedl, Mark O.},
+      title     = {Improvisational Computational Storytelling in Open Worlds},
+      booktitle = {Proceedings of the 2016 International Conference on Interactive Digital Storytelling},
+      year      = {2016},
+      owner     = {riedl},
+      timestamp = {2016.06.30},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/martin-icids16.pdf},
+      }
     BOOKTITLE: Proceedings of the 2016 International Conference on Interactive Digital
       Storytelling
     CATEGORY: INPROCEEDINGS
@@ -2021,6 +3355,16 @@ bibs:
       - name: "Brent Harrison"
       - name: "Mark O. Riedl"
     BIBTEXKEY: Martin2016
+    BIBTEX: |
+      @InProceedings{Martin2016,
+      author    = {Martin, Laura J. and Harrison, Brent and Riedl, Mark O.},
+      title     = {Improvisational Computational Storytelling in Open Worlds},
+      booktitle = {Proceedings of the 2016 International Conference on Interactive Digital Storytelling},
+      year      = {2016},
+      owner     = {riedl},
+      timestamp = {2016.06.30},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/martin-icids16.pdf},
+      }
     BOOKTITLE: Proceedings of the 2016 International Conference on Interactive Digital
       Storytelling
     CATEGORY: INPROCEEDINGS
@@ -2037,6 +3381,17 @@ bibs:
       - name: "James Niehaus"
       - name: "Mark O. Riedl"
     BIBTEXKEY: niehaus:aied2009
+    BIBTEX: |
+      @InProceedings{niehaus:aied2009,
+      author     = {James Niehaus and Riedl, Mark O.},
+      title      = {Toward Scenario Adaptation for Learning},
+      booktitle  = {Proceedings of the 14th International Conference on Artificial Intelligence in Education (AIED)},
+      year       = {2009},
+      address    = {Brighton, England},
+      month      = {July},
+      cvsidenote = {30\%},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/aied09.pdf},
+      }
     BOOKTITLE: Proceedings of the 14th International Conference on Artificial Intelligence
       in Education (AIED)
     CATEGORY: INPROCEEDINGS
@@ -2053,6 +3408,16 @@ bibs:
       - name: "James Niehaus"
       - name: "Mark O. Riedl"
     BIBTEXKEY: niehaus:aied-ieg2009
+    BIBTEX: |
+      @InProceedings{niehaus:aied-ieg2009,
+      author    = {James Niehaus and Riedl, Mark O.},
+      title     = {Scenario Adaptation: An Approach to Customizing Computer-Based Training Games and Simulations},
+      booktitle = {Proceedings of the 14th International Conference on Artificial Intelligence in Education Workshop on Intelligent Educational Games},
+      year      = {2009},
+      address   = {Brighton, England},
+      month     = {July},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aied-ieg09.pdf},
+      }
     BOOKTITLE: Proceedings of the 14th International Conference on Artificial Intelligence
       in Education Workshop on Intelligent Educational Games
     CATEGORY: INPROCEEDINGS
@@ -2070,6 +3435,20 @@ bibs:
       - name: "Boyang Li"
       - name: "Mark Riedl"
     BIBTEXKEY: niehaus:flairs2011
+    BIBTEX: |
+      @InProceedings{niehaus:flairs2011,
+      author     = {Niehaus, James and Li, Boyang and Riedl, Mark},
+      title      = {Automated Scenario Adaptation in Support of Intelligent Tutoring Systems},
+      booktitle  = {Proceedings of the 24th Conference of the Florida Artificial Intelligence Research Society, Special Track on Intelligent Tutoring Systems},
+      year       = {2011},
+      pages      = {531-536},
+      address    = {Palm Beach, Florida},
+      month      = {May},
+      cvsidenote = {50\%},
+      owner      = {riedl},
+      timestamp  = {2010.11.23},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/niehaus-flairs11.pdf},
+      }
     BOOKTITLE: Proceedings of the 24th Conference of the Florida Artificial Intelligence
       Research Society, Special Track on Intelligent Tutoring Systems
     CATEGORY: INPROCEEDINGS
@@ -2089,6 +3468,18 @@ bibs:
       - name: "Mark Riedl"
       - name: "Nicholas Davis"
     BIBTEXKEY: nitsche:animation2012
+    BIBTEX: |
+      @Article{nitsche:animation2012,
+      Title                    = {Creativity, Cognition, and Machinima},
+      Author                   = {Michael Nitsche and Mark Riedl and Nicholas Davis},
+      Journal                  = {Animation Journal},
+      Year                     = {2011},
+      Pages                    = {50--66},
+      Volume                   = {19},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2011.10.21}
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -2103,6 +3494,16 @@ bibs:
     AUTHOR:
       - name: "Brian O'Neill"
     BIBTEXKEY: oneill:dissertation2013
+    BIBTEX: |
+      @PhdThesis{oneill:dissertation2013,
+      author    = {Brian O'Neill},
+      title     = {A Computational Model of Suspense for the Augmentation of Intelligent Story Generation},
+      school    = {Georgia Institute of Technology},
+      year      = {2013},
+      owner     = {riedl},
+      timestamp = {2014.12.29},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/oneill-thesis.pdf},
+      }
     CATEGORY: PHDTHESIS
     EDITOR:
       - name: "null"
@@ -2117,6 +3518,17 @@ bibs:
     AUTHOR:
       - name: "Brian O'Neill"
     BIBTEXKEY: oneill:acii-dc2011
+    BIBTEX: |
+      @InProceedings{oneill:acii-dc2011,
+      author    = {O'Neill, Brian},
+      title     = {Toward a Computational Model of Affective Responses to Stories for Augmenting Narrative Generation},
+      booktitle = {Proceedings of the 4th Conference on Affective Computing and Intelligent Interaction, Doctoral Consortium},
+      year      = {2011},
+      month     = {October},
+      owner     = {riedl},
+      timestamp = {2011.06.01},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/acii-dc11.pdf},
+      }
     BOOKTITLE: Proceedings of the 4th Conference on Affective Computing and Intelligent
       Interaction, Doctoral Consortium
     CATEGORY: INPROCEEDINGS
@@ -2135,6 +3547,16 @@ bibs:
       - name: "Brian O'Neill"
       - name: "Mark O. Riedl"
     BIBTEXKEY: oneill:cc2009
+    BIBTEX: |
+      @InProceedings{oneill:cc2009,
+      author    = {Brian O'Neill and Riedl, Mark O.},
+      title     = {Supporting Human Creative Story Authoring with a Synthetic Audience},
+      booktitle = {Proceedings of the 7th Creativity and Cognition Conference},
+      year      = {2009},
+      address   = {Berkeley, California},
+      month     = {October},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/oneill-cc09.pdf},
+      }
     BOOKTITLE: Proceedings of the 7th Creativity and Cognition Conference
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2151,6 +3573,19 @@ bibs:
       - name: "Daniel Fuller"
       - name: "Brian Magerko"
     BIBTEXKEY: oneill:icids2011
+    BIBTEX: |
+      @InProceedings{oneill:icids2011,
+      Title                    = {A Knowledge-Based Framework for the Collaborative Improvisation of Scene Introductions},
+      Author                   = {O'Neill, Brian and Piplica, Andrea and Fuller, Daniel and Magerko, Brian},
+      Booktitle                = {Proceedings of the 4th International Conference on Interactive Digital Storytelling},
+      Year                     = {2011},
+      
+      Address                  = {Vancouver, Canada},
+      Month                    = {November},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2012.07.12}
+      }
     BOOKTITLE: Proceedings of the 4th International Conference on Interactive Digital
       Storytelling
     CATEGORY: INPROCEEDINGS
@@ -2168,6 +3603,21 @@ bibs:
       - name: "Brian O'Neill"
       - name: "Mark Riedl"
     BIBTEXKEY: oneill:acii2011
+    BIBTEX: |
+      @InProceedings{oneill:acii2011,
+      author     = {Brian O'Neill and Mark Riedl},
+      title      = {Toward a Computational Framework of Suspense and Dramatic Arc},
+      booktitle  = {Proceedings of the 4th International Conference on Affective Computing and Intelligent Interaction},
+      year       = {2011},
+      pages      = {246-255},
+      address    = {Memphis, Tennessee},
+      month      = {October},
+      cvnote     = {Nominated for Outstanding Paper Award (3\% of papers nominated).},
+      cvsidenote = {35\%},
+      owner      = {riedl},
+      timestamp  = {2011.04.24},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/acii11.pdf},
+      }
     BOOKTITLE: Proceedings of the 4th International Conference on Affective Computing
       and Intelligent Interaction
     CATEGORY: INPROCEEDINGS
@@ -2189,6 +3639,16 @@ bibs:
       - name: "Mark Riedl"
       - name: "Michael Nitsche"
     BIBTEXKEY: oneill:chi-wip2009
+    BIBTEX: |
+      @InProceedings{oneill:chi-wip2009,
+      author    = {Brian O'Neill and Mark Riedl and Michael Nitsche},
+      title     = {Towards Intelligent Authoring Tools for Machinima Creation},
+      booktitle = {Proceedings of the 27th CHI Conference, Works in Progress Track},
+      year      = {2009},
+      address   = {Boston, Massachusetts},
+      month     = {April},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/chi-wip09.pdf},
+      }
     BOOKTITLE: Proceedings of the 27th CHI Conference, Works in Progress Track
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2202,6 +3662,18 @@ bibs:
       - name: "Brian O'Neill"
       - name: "Mark O. Riedl"
     BIBTEXKEY: oneill:chapter2015
+    BIBTEX: |
+      @InCollection{oneill:chapter2015,
+      Title                    = {Emotion-Driven Narrative Generation},
+      Author                   = {O'Neill, Brian and Riedl, Mark O.},
+      Booktitle                = {Emotion in Games--Theory and Practice},
+      Publisher                = {Springer},
+      Year                     = {2015},
+      Editor                   = {Georgios Yannakakis and Kostas Karpouzis},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2015.03.23}
+      }
     BOOKTITLE: Emotion in Games--Theory and Practice
     CATEGORY: INCOLLECTION
     EDITOR:
@@ -2218,6 +3690,20 @@ bibs:
       - name: "Brian O'Neill"
       - name: "Mark O. Riedl"
     BIBTEXKEY: oneill:iccc2011
+    BIBTEX: |
+      @InProceedings{oneill:iccc2011,
+      author     = {O'Neill, Brian and Riedl, Mark O.},
+      title      = {Simulating the Everyday Creativity of Readers},
+      booktitle  = {Proceedings of the 2nd International Conference on Computational Creativity},
+      year       = {2011},
+      pages      = {153-158},
+      address    = {Mexio City, Mexico},
+      month      = {April},
+      cvsidenote = {67\%},
+      owner      = {riedl},
+      timestamp  = {2010.11.23},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/oneill-iccc11.pdf},
+      }
     BOOKTITLE: Proceedings of the 2nd International Conference on Computational Creativity
     CATEGORY: INPROCEEDINGS
     CVSIDENOTE: 67\%
@@ -2235,6 +3721,17 @@ bibs:
       - name: "Brian C. O'Neill"
       - name: "Mark O. Riedl"
     BIBTEXKEY: oneill:aaai2014
+    BIBTEX: |
+      @InProceedings{oneill:aaai2014,
+      author     = {O'Neill, Brian C. and Riedl, Mark O.},
+      title      = {Dramatis: A Computational Model of Suspense},
+      booktitle  = {Proceedings of the 28th AAAI Conference on Artificial Intelligence},
+      year       = {2014},
+      cvsidenote = {28\%},
+      owner      = {riedl},
+      timestamp  = {2014.01.30},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/oneill-aaai14.pdf},
+      }
     BOOKTITLE: Proceedings of the 28th AAAI Conference on Artificial Intelligence
     CATEGORY: INPROCEEDINGS
     CVSIDENOTE: 28\%
@@ -2250,6 +3747,16 @@ bibs:
       - name: "Brian C. O'Neill"
       - name: "Mark O. Riedl"
     BIBTEXKEY: oneill:cmn2014
+    BIBTEX: |
+      @InProceedings{oneill:cmn2014,
+      author    = {O'Neill, Brian C. and Riedl, Mark O.},
+      title     = {Applying Qualitative Research Methods to Narrative Knowledge Engineering},
+      booktitle = {Proceedings of the 2014 Workshop on Computational Models of Narrative},
+      year      = {2014},
+      owner     = {riedl},
+      timestamp = {2014.04.05},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/cmn14.pdf},
+      }
     BOOKTITLE: Proceedings of the 2014 Workshop on Computational Models of Narrative
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2265,6 +3772,14 @@ bibs:
       - name: "Robert St.~Amant"
       - name: "Mark O. Riedl"
     BIBTEXKEY: pegram:mi1999
+    BIBTEX: |
+      @InProceedings{pegram:mi1999,
+      author    = {David~A. Pegram and Robert St.~Amant and Riedl, Mark O.},
+      title     = {An Approach to Visual Interaction in Mixed-Initiative Planning},
+      booktitle = {Proceedings of the 1999 AAAI Mixed-Initiative Intelligence Workshop},
+      year      = {1999},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/mii99.pdf},
+      }
     BOOKTITLE: Proceedings of the 1999 AAAI Mixed-Initiative Intelligence Workshop
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2277,6 +3792,16 @@ bibs:
       - name: "Christopher Purdy"
       - name: "Mark O. Riedl"
     BIBTEXKEY: purdy:icids2016
+    BIBTEX: |
+      @InProceedings{purdy:icids2016,
+      author    = {Purdy, Christopher and Riedl, Mark O.},
+      title     = {Reading Between the Lines: Using Plot Graphs to Draw Inferences From Stories},
+      booktitle = {Proceedings of the 2016 International Conference on Interactive Digital Storytelling},
+      year      = {2016},
+      owner     = {riedl},
+      timestamp = {2016.06.30},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/purdy-icids16.pdf},
+      }
     BOOKTITLE: Proceedings of the 2016 International Conference on Interactive Digital
       Storytelling
     CATEGORY: INPROCEEDINGS
@@ -2294,6 +3819,17 @@ bibs:
       - name: "Larry He"
       - name: "Mark O. Riedl"
     BIBTEXKEY: purdy:aiide2018
+    BIBTEX: |
+      @InProceedings{purdy:aiide2018,
+      author    = {Purdy, Christopher and Wang, Xinyu and He, Larry and Riedl, Mark O.},
+      title     = {Predicting Generated Story Quality with Quantitative Measures},
+      booktitle = {Proceedings of the 2018 AAAI Conference on AI and Interactive Digital Entertainment},
+      year      = {2018},
+      cvnote    = {Best Student Paper},
+      owner     = {riedl},
+      timestamp = {2018.07.19},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/purdy-aiide18.pdf},
+      }
     BOOKTITLE: Proceedings of the 2018 AAAI Conference on AI and Interactive Digital
       Entertainment
     CATEGORY: INPROCEEDINGS
@@ -2309,6 +3845,18 @@ bibs:
     AUTHOR:
       - name: "Mark Riedl"
     BIBTEXKEY: riedl:cie2010
+    BIBTEX: |
+      @Article{riedl:cie2010,
+      author    = {Riedl, Mark},
+      title     = {Scalable Personalization of Interactive Experiences through Creative Automation},
+      journal   = {Computers In Entertainment},
+      year      = {2010},
+      volume    = {8},
+      number    = {4},
+      owner     = {riedl},
+      timestamp = {2010.09.20},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/cie.pdf},
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -2325,6 +3873,16 @@ bibs:
       - name: "Mark Riedl"
       - name: "Brent Harrison"
     BIBTEXKEY: riedl:aaai-ethics2016
+    BIBTEX: |
+      @InProceedings{riedl:aaai-ethics2016,
+      author    = {Riedl, Mark and Harrison, Brent},
+      title     = {Using Stories to Teach Human Values to Artificial Agents},
+      booktitle = {Proceedings of the 2nd International Workshop on {AI}, Ethics and Society},
+      year      = {2016},
+      owner     = {riedl},
+      timestamp = {2015.10.23},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aaai-ethics16.pdf},
+      }
     BOOKTITLE: Proceedings of the 2nd International Workshop on AI, Ethics and Society
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2339,6 +3897,18 @@ bibs:
       - name: "M.O. Riedl"
       - name: "R. Michael Young"
     BIBTEXKEY: riedl:gift2014
+    BIBTEX: |
+      @InCollection{riedl:gift2014,
+      author    = {Riedl, M.O. and Young, R. Michael},
+      title     = {The Importance of Narrative as an Affective Instructional Strategy},
+      booktitle = {Design Recommendations for Adaptive Intelligent Tutoring Systems: Adaptive Instructional Strategies},
+      publisher = {Army Science Lab},
+      year      = {2014},
+      volume    = {2},
+      owner     = {riedl},
+      timestamp = {2014.02.19},
+      url       = {https://www.gifttutoring.org/attachments/627/Design%20Recommendations%20for%20ITSs_Instructional%20Management%20Book%20-%20Volume%202.pdf},
+      }
     BOOKTITLE: 'Design Recommendations for Adaptive Intelligent Tutoring Systems: Adaptive
       Instructional Strategies'
     CATEGORY: INCOLLECTION
@@ -2355,6 +3925,17 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:hbet2019
+    BIBTEX: |
+      @Article{riedl:hbet2019,
+      author    = {Riedl, Mark O.},
+      title     = {Human-Centered Artificial Intelligence and Machine Learning},
+      journal   = {Human Behavior and Emerging Technologies},
+      year      = {2019},
+      volume    = {1},
+      owner     = {riedl},
+      timestamp = {2019.01.11},
+      url       = {https://arxiv.org/abs/1901.11184},
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -2369,6 +3950,16 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:chi-hcml2016
+    BIBTEX: |
+      @InProceedings{riedl:chi-hcml2016,
+      author    = {Riedl, Mark O.},
+      title     = {Computational Narrative Intelligence: A Human-Centered Goal for Artificial Intelligence},
+      booktitle = {Proceedings of the CHI 2016 Workshop on Human Centered Machine Learning},
+      year      = {2016},
+      owner     = {riedl},
+      timestamp = {2016.01.13},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/chi-hcml16.pdf},
+      }
     BOOKTITLE: Proceedings of the CHI 2016 Workshop on Human Centered Machine Learning
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2383,6 +3974,16 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:aaai-turing2015
+    BIBTEX: |
+      @InProceedings{riedl:aaai-turing2015,
+      author    = {Riedl, Mark O.},
+      title     = {The {Lovelace 2.0 Test} of Artificial Creativity and Intelligence},
+      booktitle = {Proceedings of the AAAI Workshop: Beyond the Turing Test},
+      year      = {2015},
+      owner     = {riedl},
+      timestamp = {2014.10.22},
+      url       = {https://arxiv.org/abs/1410.6142v3},
+      }
     BOOKTITLE: 'Proceedings of the AAAI Workshop: Beyond the Turing Test'
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2396,6 +3997,16 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:pit2013
+    BIBTEX: |
+      @InProceedings{riedl:pit2013,
+      Title                    = {Intelligent Narrative Generation: Creativity, Engagement, and Cognition},
+      Author                   = {Riedl, Mark O.},
+      Booktitle                = {International Workshop on Perspectives of Information Technology},
+      Year                     = {2013},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2013.04.21}
+      }
     BOOKTITLE: International Workshop on Perspectives of Information Technology
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2409,6 +4020,19 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:aaai2012
+    BIBTEX: |
+      @InProceedings{riedl:aaai2012,
+      author    = {Riedl, Mark O.},
+      title     = {Interactive Narrative: A Novel Application of Artificial Intelligence for Computer Games},
+      booktitle = {Proceedings of the 26th AAAI Conference on Artificial Intelligence},
+      year      = {2012},
+      address   = {Toronto, Canada},
+      month     = {July},
+      note      = {(Invited paper)},
+      owner     = {riedl},
+      timestamp = {2012.04.18},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aaai12.pdf},
+      }
     BOOKTITLE: Proceedings of the 26th AAAI Conference on Artificial Intelligence
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2425,6 +4049,16 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:catea2011
+    BIBTEX: |
+      @InProceedings{riedl:catea2011,
+      Title                    = {Interactive Social Stories for Young Adults with High-Functioning Autism Spectrum Disorders},
+      Author                   = {Riedl, Mark O.},
+      Booktitle                = {Conference on the State of the Science on Work Accommodations},
+      Year                     = {2011},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2013.04.21}
+      }
     BOOKTITLE: Conference on the State of the Science on Work Accommodations
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2438,6 +4072,16 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:ecgc2011
+    BIBTEX: |
+      @InProceedings{riedl:ecgc2011,
+      Title                    = {Just-in-time Procedural Content Generation of Game Plots},
+      Author                   = {Riedl, Mark O.},
+      Booktitle                = {2011 East Coast Game Conference},
+      Year                     = {2011},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2011.02.25}
+      }
     BOOKTITLE: 2011 East Coast Game Conference
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2451,6 +4095,18 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:fdg-int2010
+    BIBTEX: |
+      @InProceedings{riedl:fdg-int2010,
+      author    = {Mark O. Riedl},
+      title     = {A Comparison of Interactive Narrative System Approaches Using Human Improvisational Actors},
+      booktitle = {Workshop on Intelligent Narrative Technologies III},
+      year      = {2010},
+      address   = {Monterey, California},
+      month     = {June},
+      owner     = {riedl},
+      timestamp = {2010.02.28},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/fdg-int10.pdf},
+      }
     BOOKTITLE: Workshop on Intelligent Narrative Technologies III
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2466,6 +4122,15 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:mm2010
+    BIBTEX: |
+      @Article{riedl:mm2010,
+      Title                    = {Case-Based Story Planning: Creativity Through Exploration, Retrieval, and Analogical Transformation},
+      Author                   = {Mark O. Riedl},
+      Journal                  = {Minds and Machines},
+      Year                     = {2010},
+      Number                   = {4},
+      Volume                   = {20}
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -2480,6 +4145,17 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:dcc2008
+    BIBTEX: |
+      @InProceedings{riedl:dcc2008,
+      author    = {Riedl, Mark O.},
+      title     = {Computationally Creative Search for Stories},
+      booktitle = {Proceedings of the 3rd International Conference on Design Computing and Cognition (DCC)},
+      year      = {2008},
+      address   = {Atlanta, Georgia},
+      month     = {June},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/dcc08.pdf},
+      venue     = {DCC},
+      }
     BOOKTITLE: Proceedings of the 3rd International Conference on Design Computing and
       Cognition (DCC)
     CATEGORY: INPROCEEDINGS
@@ -2494,6 +4170,15 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:tcs2008
+    BIBTEX: |
+      @InProceedings{riedl:tcs2008,
+      author    = {Riedl, Mark O.},
+      title     = {Intelligent Experience Management for Virtual Worlds},
+      booktitle = {TCS Innovation Labs Workshop on Virtual Reality and its Applications to Enterprises},
+      year      = {2008},
+      owner     = {riedl},
+      timestamp = {2013.04.21},
+      }
     BOOKTITLE: TCS Innovation Labs Workshop on Virtual Reality and its Applications
       to Enterprises
     CATEGORY: INPROCEEDINGS
@@ -2507,6 +4192,16 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:itsg2006
+    BIBTEX: |
+      @InProceedings{riedl:itsg2006,
+      Title                    = {Emergent and Guided Narrative for Training and Education in Virtual Worlds},
+      Author                   = {Riedl, Mark O.},
+      Booktitle                = {Institute for Creative Technologies Workshop on Intelligent Tutoring in Serious Games},
+      Year                     = {2006},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2013.04.21}
+      }
     BOOKTITLE: Institute for Creative Technologies Workshop on Intelligent Tutoring
       in Serious Games
     CATEGORY: INPROCEEDINGS
@@ -2520,6 +4215,13 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl04
+    BIBTEX: |
+      @PhdThesis{riedl04,
+      Title                    = {Narrative Generation: Balancing Plot and Character},
+      Author                   = {Riedl, Mark O.},
+      School                   = {North Carolina State University},
+      Year                     = {2004}
+      }
     CATEGORY: PHDTHESIS
     EDITOR:
       - name: "null"
@@ -2531,6 +4233,20 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Vadim Bulitko"
     BIBTEXKEY: riedl:aimag2013
+    BIBTEX: |
+      @Article{riedl:aimag2013,
+      author    = {Riedl, Mark O. and Bulitko, Vadim},
+      title     = {Interactive Narrative: An Intelligent Systems Approach},
+      journal   = {AI Magazine},
+      year      = {2013},
+      volume    = {34},
+      number    = {1},
+      pages     = {67-77},
+      month     = {Spring},
+      owner     = {riedl},
+      timestamp = {2012.10.18},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aimag.pdf},
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -2549,6 +4265,14 @@ bibs:
       - name: "Mark~O. Riedl"
       - name: "Brent. Harrison"
     BIBTEXKEY: riedl:arxiv:matrix2017
+    BIBTEX: |
+      @InProceedings{riedl:arxiv:matrix2017,
+      author    = {Riedl, Mark~O. and Harrison, Brent.},
+      title     = {{Enter the Matrix: A Virtual World Approach to Safely Interruptable Autonomous Systems}},
+      booktitle = {Proceedings of the AAAI 2019 Workshop on SafeAI},
+      year      = {2017},
+      url       = {https://arxiv.org/abs/1703.10284},
+      }
     BOOKTITLE: Proceedings of the AAAI 2019 Workshop on SafeAI
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2565,6 +4289,18 @@ bibs:
       - name: "Alexander Zook"
       - name: "Boyang Li"
     BIBTEXKEY: riedl:aivc2011
+    BIBTEX: |
+      @InProceedings{riedl:aivc2011,
+      Title                    = {{Game Forge}: An Intelligent System that Generates Computer Role Playing Games},
+      Author                   = {Riedl, Mark O. and Hartsook, Ken and Das, Sauvik and Zook, Alexander and Li, Boyang},
+      Booktitle                = {Association for the Advancement of Artificial Intelligence, Video Competition},
+      Year                     = {2011},
+      Month                    = {July},
+      
+      Cvnote                   = {Nominated for most innovative project.},
+      Owner                    = {riedl},
+      Timestamp                = {2011.07.25}
+      }
     BOOKTITLE: Association for the Advancement of Artificial Intelligence, Video Competition
     CATEGORY: INPROCEEDINGS
     CVNOTE: Nominated for most innovative project.
@@ -2582,6 +4318,16 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Carlos Leon"
     BIBTEXKEY: riedl:aiide2009
+    BIBTEX: |
+      @InProceedings{riedl:aiide2009,
+      author    = {Riedl, Mark O. and Carlos Le\'on},
+      title     = {Generating Story Analogues},
+      booktitle = {Proceedings of the 5th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+      year      = {2009},
+      address   = {Palo Alto, California},
+      month     = {October},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aiide09.pdf},
+      }
     BOOKTITLE: Proceedings of the 5th AAAI Conference on Artificial Intelligence and
       Interactive Digital Entertainment
     CATEGORY: INPROCEEDINGS
@@ -2597,6 +4343,18 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Boyang Li"
     BIBTEXKEY: riedl:aamas-chacie2010
+    BIBTEX: |
+      @InProceedings{riedl:aamas-chacie2010,
+      author    = {Mark O. Riedl and Boyang Li},
+      title     = {Creating Customized Virtual Experiences by Leveraging Human Creative Effort: A Desideratum},
+      booktitle = {Workshop on Collaborative Human/AI Control for Interactive Experiences},
+      year      = {2010},
+      address   = {Toronto, Canada},
+      month     = {May},
+      owner     = {riedl},
+      timestamp = {2010.02.28},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aamas-chacie10.pdf},
+      }
     BOOKTITLE: Workshop on Collaborative Human/AI Control for Interactive Experiences
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2616,6 +4374,18 @@ bibs:
       - name: "Hua Ai"
       - name: "Ashwin Ram"
     BIBTEXKEY: riedl:aiide2011
+    BIBTEX: |
+      @InProceedings{riedl:aiide2011,
+      author    = {Riedl, Mark O. and Li, Boyang and Ai, Hua and Ram, Ashwin},
+      title     = {Robust and Authorable Multiplayer Interactive Narrative Experiences},
+      booktitle = {Proceedings of the 7th Conference on Artificial Intelligence for Interactive Digital Entertainment},
+      year      = {2011},
+      address   = {Palo Alto, California},
+      month     = {October},
+      owner     = {riedl},
+      timestamp = {2011.05.17},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aiide11.pdf},
+      }
     BOOKTITLE: Proceedings of the 7th Conference on Artificial Intelligence for Interactive
       Digital Entertainment
     CATEGORY: INPROCEEDINGS
@@ -2633,6 +4403,19 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Andrew Macvean"
     BIBTEXKEY: riedl:ace-nnf2011
+    BIBTEX: |
+      @InProceedings{riedl:ace-nnf2011,
+      Title                    = {Addressing Scalability Limitations of Mobile Alternate Reality Games through End-User Content Authoring},
+      Author                   = {Mark O. Riedl and Andrew Macvean},
+      Booktitle                = {Proceedings of the ACE 2011 Workshop on New Narrative Frontiers: Alternate Reality Games},
+      Year                     = {2011},
+      
+      Address                  = {Lisbon, Portugal},
+      Month                    = {June},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2011.09.20}
+      }
     BOOKTITLE: 'Proceedings of the ACE 2011 Workshop on New Narrative Frontiers: Alternate
       Reality Games'
     CATEGORY: INPROCEEDINGS
@@ -2651,6 +4434,19 @@ bibs:
       - name: "Don~M. Dini"
       - name: "Jason~M. Alderman"
     BIBTEXKEY: riedl:itssa2008
+    BIBTEX: |
+      @Article{riedl:itssa2008,
+      author  = {Riedl, Mark O. and Andrew Stern and Don~M. Dini and Jason~M. Alderman},
+      title   = {Dynamic Experience Management in Virtual Worlds for Entertainment, Education, and Training},
+      journal = {International Transactions on System Science and Applications},
+      year    = {2008},
+      volume  = {3},
+      number  = {1},
+      pages   = {23-42},
+      cvnote  = {Featured article on journal website for issue. A shorter version was presented at AIIDE'05},
+      url     = {http://www.cc.gatech.edu/~riedl/pubs/itssa.pdf},
+      venue   = {ITSSA},
+      }
     CATEGORY: ARTICLE
     CVNOTE: Featured article on journal website for issue. A shorter version was presented
       at AIIDE'05
@@ -2675,6 +4471,19 @@ bibs:
       - name: "Michael Buro"
       - name: "David Churchill"
     BIBTEXKEY: riedl:aimag-aiide2013
+    BIBTEX: |
+      @Article{riedl:aimag-aiide2013,
+      Title                    = {Recap of the Eighth AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+      Author                   = {Riedl, Mark O. and Sukthankar, Gita Reese and Arnav Jhala and Jichen Zhu and Ontanon, Santiago Villar and Michael Buro and David Churchill},
+      Journal                  = {{AI} Magazine},
+      Year                     = {2013},
+      Number                   = {1},
+      Pages                    = {87--89},
+      Volume                   = {34},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2013.04.21}
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -2693,6 +4502,18 @@ bibs:
       - name: "David Thue"
       - name: "Vadim Bulitko"
     BIBTEXKEY: riedl:ai4games2010
+    BIBTEX: |
+      @InCollection{riedl:ai4games2010,
+      author    = {Riedl, Mark O. and Thue, David and Bulitko, Vadim},
+      title     = {Game {AI} as Storytelling},
+      booktitle = {Applied Research in Artificial Intelligence for Computer Games},
+      publisher = {Springer},
+      year      = {2010},
+      editor    = {Pedro Gonz\'alez-Calero},
+      owner     = {riedl},
+      timestamp = {2010.03.07},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/riedl-ai4games.pdf},
+      }
     BOOKTITLE: Applied Research in Artificial Intelligence for Computer Games
     CATEGORY: INCOLLECTION
     EDITOR:
@@ -2709,6 +4530,21 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Alexander Zook"
     BIBTEXKEY: riedl:cig2013
+    BIBTEX: |
+      @InProceedings{riedl:cig2013,
+      Title                    = {Game {AI} as Producer},
+      Author                   = {Riedl, Mark O. and Zook, Alexander},
+      Booktitle                = {Proceedings of the 2013 IEEE Conference on Computational Intelligence in Games},
+      Year                     = {2013},
+      
+      Address                  = {Niagra Falls, Canada},
+      Month                    = {August},
+      
+      Cvnote                   = {Vision papers track. Invited to be presented at the AIIDE 2013 Workshop on Artificial Intelligence and Game Aesthetics, October 2013},
+      Cvsidenote               = {66\%},
+      Owner                    = {riedl},
+      Timestamp                = {2013.05.15}
+      }
     BOOKTITLE: Proceedings of the 2013 IEEE Conference on Computational Intelligence
       in Games
     CATEGORY: INPROCEEDINGS
@@ -2730,6 +4566,20 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Merrick Furst"
     BIBTEXKEY: roberts:is2008
+    BIBTEX: |
+      @InProceedings{roberts:is2008,
+      Title                    = {On the Use of Computational Models of Influence for Managing Interactive Virtual Experiences},
+      Author                   = {David Roberts and Charles Isbell and Riedl, Mark O. and Merrick Furst},
+      Booktitle                = {Proceedings of the 1st Joint International Conference on Interactive Digital Storytelling},
+      Year                     = {2008},
+      
+      Address                  = {Erfurt, Germany},
+      Month                    = {November},
+      Pages                    = {268-272},
+      
+      Cvsidenote               = {30\%},
+      Venue                    = {IS}
+      }
     BOOKTITLE: Proceedings of the 1st Joint International Conference on Interactive
       Digital Storytelling
     CATEGORY: INPROCEEDINGS
@@ -2749,6 +4599,16 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Charles~L. Isbell"
     BIBTEXKEY: roberts:malaga2007
+    BIBTEX: |
+      @InProceedings{roberts:malaga2007,
+      Title                    = {Opportunities for Machine Learning to Impact Interactive Narrative},
+      Author                   = {David~L. Roberts and Riedl, Mark O. and Charles~L. Isbell},
+      Booktitle                = {Proceedings of the 21st Annual Conference on Neural Information Processing Systems, Workshop on Machine Learning and Games (MALAGA)},
+      Year                     = {2007},
+      
+      Address                  = {Whistler, Canada},
+      Month                    = {December}
+      }
     BOOKTITLE: Proceedings of the 21st Annual Conference on Neural Information Processing
       Systems, Workshop on Machine Learning and Games (MALAGA)
     CATEGORY: INPROCEEDINGS
@@ -2764,6 +4624,16 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Charles Isbell"
     BIBTEXKEY: roberts:digra2009
+    BIBTEX: |
+      @InProceedings{roberts:digra2009,
+      author    = {David L. Roberts and Mark O. Riedl and Charles Isbell},
+      title     = {Beyond Adversarial: The Case for Game {AI} as Storytelling},
+      booktitle = {Proceedings of the 2009 Conference of the Digital Games Research Association},
+      year      = {2009},
+      address   = {London, England},
+      month     = {September},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/digra09.pdf},
+      }
     BOOKTITLE: Proceedings of the 2009 Conference of the Digital Games Research Association
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2782,6 +4652,16 @@ bibs:
       - name: "Toni Chociemski"
       - name: "Viraj Master"
     BIBTEXKEY: robertson:hcii2015
+    BIBTEX: |
+      @InProceedings{robertson:hcii2015,
+      Title                    = {The Visual Design and Implementation of an Embodied Conversation Agent in a Shared Decision Context},
+      Author                   = {Scott Robertson and Rob Solomon and Riedl, Mark O. and Theresa Gillespie and Arun Mohan and Toni Chociemski and Viraj Master},
+      Booktitle                = {Proceedings of the 17th International Conference on Human-Computer Interaction},
+      Year                     = {2015},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2014.11.08}
+      }
     BOOKTITLE: Proceedings of the 17th International Conference on Human-Computer Interaction
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2798,6 +4678,19 @@ bibs:
       - name: "Stacy Marsella"
       - name: "Mark O. Riedl"
     BIBTEXKEY: si:aaai-ss2008
+    BIBTEX: |
+      @InProceedings{si:aaai-ss2008,
+      author    = {Mei Si and Stacy Marsella and Riedl, Mark O.},
+      title     = {Interactive Drama Authoring with Plot and Character: An Intelligent System that Fosters Creativity},
+      booktitle = {Creative Intelligent Systems: Papers from the 2008 Spring Symposium},
+      year      = {2008},
+      editor    = {Dan Ventura and Mary Lou Maher and Simon Colton},
+      pages     = {75-81},
+      address   = {Palo Alto, California},
+      month     = {March},
+      publisher = {AAAI Press},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/aaai-ss08.pdf},
+      }
     BOOKTITLE: 'Creative Intelligent Systems: Papers from the 2008 Spring Symposium'
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2818,6 +4711,19 @@ bibs:
       - name: "Stacy Marsella"
       - name: "Mark O. Riedl"
     BIBTEXKEY: si:aiide2008
+    BIBTEX: |
+      @InProceedings{si:aiide2008,
+      author     = {Mei Si and Stacy Marsella and Riedl, Mark O.},
+      title      = {Integrating Plot-Centric and Character-Centric Processes for Authoring Interactive Drama},
+      booktitle  = {Proceedings of the 4th AAAI Conference on AI and Interactive Digital Entertainment},
+      year       = {2008},
+      pages      = {203-208},
+      address    = {Palo Alto, California},
+      month      = {October},
+      cvsidenote = {53\%},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/aiide08.pdf},
+      venue      = {AIIDE},
+      }
     BOOKTITLE: Proceedings of the 4th AAAI Conference on AI and Interactive Digital
       Entertainment
     CATEGORY: INPROCEEDINGS
@@ -2837,6 +4743,16 @@ bibs:
       - name: "Matthew Guzdial"
       - name: "Mark O. Riedl"
     BIBTEXKEY: siu:guzdial:fdg2017
+    BIBTEX: |
+      @InProceedings{siu:guzdial:fdg2017,
+      author    = {Siu, Kristin and Guzdial, Matthew and Riedl, Mark O.},
+      title     = {Evaluating Singleplayer and Multiplayer in Human Computation Games},
+      booktitle = {Proceedings of the 2017 International Conference on the Foundations of Digital Games},
+      year      = {2017},
+      owner     = {riedl},
+      timestamp = {2017.02.26},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/siu-guzdial-fdg17.pdf},
+      }
     BOOKTITLE: Proceedings of the 2017 International Conference on the Foundations of
       Digital Games
     CATEGORY: INPROCEEDINGS
@@ -2852,6 +4768,16 @@ bibs:
       - name: "Kristin Siu"
       - name: "Mark Riedl"
     BIBTEXKEY: siu:chi-play2016
+    BIBTEX: |
+      @InProceedings{siu:chi-play2016,
+      author    = {Siu, Kristin and Riedl, Mark},
+      title     = {Reward Systems in Human Computation Games},
+      booktitle = {Proceedings of the 2016 ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play},
+      year      = {2016},
+      owner     = {riedl},
+      timestamp = {2016.04.25},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/chi-play16.pdf},
+      }
     BOOKTITLE: Proceedings of the 2016 ACM SIGCHI Annual Symposium on Computer-Human
       Interaction in Play
     CATEGORY: INPROCEEDINGS
@@ -2868,6 +4794,16 @@ bibs:
       - name: "Alexander Zook"
       - name: "Mark O. Riedl"
     BIBTEXKEY: siu:zook:fdg2017
+    BIBTEX: |
+      @InProceedings{siu:zook:fdg2017,
+      Title                    = {The Role of Artificial Intelligence in the Creation of a Science of Game Design for Human Computation Games},
+      Author                   = {Siu, Kristin and Zook, Alexander and Riedl, Mark O.},
+      Booktitle                = {Proceedings of the 2017 International Conference on the Foundations of Digital Games},
+      Year                     = {2017},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2017.02.26}
+      }
     BOOKTITLE: Proceedings of the 2017 International Conference on the Foundations of
       Digital Games
     CATEGORY: INPROCEEDINGS
@@ -2884,6 +4820,17 @@ bibs:
       - name: "Alexander Zook"
       - name: "Mark O. Riedl"
     BIBTEXKEY: siu:fdg2014
+    BIBTEX: |
+      @InProceedings{siu:fdg2014,
+      author     = {Kristin Siu and Alexander Zook and Riedl, Mark O.},
+      title      = {Collaboration versus Competition: Design and Evaluation of Mechanics for Games with a Purpose},
+      booktitle  = {Proceedings of the Ninth International Conference on the Foundations of Digital Games},
+      year       = {2014},
+      cvsidenote = {44\%},
+      owner      = {riedl},
+      timestamp  = {2013.12.20},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/siu-fdg14.pdf},
+      }
     BOOKTITLE: Proceedings of the Ninth International Conference on the Foundations
       of Digital Games
     CATEGORY: INPROCEEDINGS
@@ -2902,6 +4849,16 @@ bibs:
       - name: "Richa Arora"
       - name: "Mark O. Riedl"
     BIBTEXKEY: srinivasan:naacl2018
+    BIBTEX: |
+      @InProceedings{srinivasan:naacl2018,
+      author    = {Srinivasan, Siddharth and Richa Arora and Riedl, Mark O.},
+      title     = {A Simple and Effective Approach to the Story Cloze Test},
+      booktitle = {Proceedings of NAACL 2018},
+      year      = {2018},
+      owner     = {riedl},
+      timestamp = {2018.02.27},
+      url       = {https://arxiv.org/abs/1803.05547},
+      }
     BOOKTITLE: Proceedings of NAACL 2018
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2921,6 +4878,17 @@ bibs:
       - name: "David~A. Pegram"
       - name: "Mika Torhola"
     BIBTEXKEY: stamant:iui2001
+    BIBTEX: |
+      @InProceedings{stamant:iui2001,
+      author    = {St. Amant, Robert and Healey, Christopher~G. and Riedl, Mark O. and Kocherlakota, Sarat and Pegram, David~A. and Torhola, Mika},
+      title     = {Intelligent Visualization in a Planning Simulation},
+      booktitle = {Proceedings of the 6th International Conference on Intelligent User Interfaces},
+      year      = {2001},
+      pages     = {153-159},
+      address   = {Santa Fe, New Mexico},
+      month     = {January},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/stamant-iui01.pdf},
+      }
     BOOKTITLE: Proceedings of the 6th International Conference on Intelligent User Interfaces
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -2937,6 +4905,16 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Michael Mateas"
     BIBTEXKEY: summerville:aiide-exag2016
+    BIBTEX: |
+      @InProceedings{summerville:aiide-exag2016,
+      Title                    = {Learning Player Tailored Content From Observation: Platformer Level Generation from Video Traces using {LSTMs}},
+      Author                   = {Summerville, Adam and Guzdial, Matthew and Riedl, Mark O. and Mateas, Michael},
+      Booktitle                = {Proceedings of the 2016 AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+      Year                     = {2016},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2016.06.08}
+      }
     BOOKTITLE: Proceedings of the 2016 AAAI Conference on Artificial Intelligence and
       Interactive Digital Entertainment
     CATEGORY: INPROCEEDINGS
@@ -2956,6 +4934,17 @@ bibs:
       - name: "R.J. Martin"
       - name: "C.J. Saretto"
     BIBTEXKEY: young:jogd2004
+    BIBTEX: |
+      @Article{young:jogd2004,
+      Title                    = {An Architecture for Integrating Plan-Based Behavior Generation with Interactive Game Environments},
+      Author                   = {R.~Michael Young and Riedl, Mark O. and Mark Branly and Arnav Jhala and R.J. Martin and C.J. Saretto},
+      Journal                  = {Journal of Game Development},
+      Year                     = {2004},
+      Pages                    = {51--70},
+      Volume                   = {1},
+      
+      Venue                    = {JOGD}
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -2972,6 +4961,18 @@ bibs:
       - name: "R. Michael Young"
       - name: "Mark O. Riedl"
     BIBTEXKEY: young:iui2003
+    BIBTEX: |
+      @InProceedings{young:iui2003,
+      author    = {R. Michael Young and Riedl, Mark O.},
+      title     = {Towards an Architecture for Intelligent Control of Narrative in Interactive Virtual Worlds},
+      booktitle = {Proceedings of the 2003 International Conference on Intelligent User Interfaces},
+      year      = {2003},
+      address   = {Miama, Florida},
+      month     = {January},
+      owner     = {riedl},
+      timestamp = {2012.12.28},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/iui03.pdf},
+      }
     BOOKTITLE: Proceedings of the 2003 International Conference on Intelligent User
       Interfaces
     CATEGORY: INPROCEEDINGS
@@ -2989,6 +4990,17 @@ bibs:
       - name: "Hong Yu"
       - name: "Mark O. Riedl"
     BIBTEXKEY: yu:aiide2015
+    BIBTEX: |
+      @InProceedings{yu:aiide2015,
+      author     = {Yu, Hong and Riedl, Mark O.},
+      title      = {Optimizing Players' Expected Enjoyment in Interactive Stories},
+      booktitle  = {Proceedings of the 11th Annual AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+      year       = {2015},
+      cvsidenote = {28\%},
+      owner      = {riedl},
+      timestamp  = {2015.07.01},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/aiide15.pdf},
+      }
     BOOKTITLE: Proceedings of the 11th Annual AAAI Conference on Artificial Intelligence
       and Interactive Digital Entertainment
     CATEGORY: INPROCEEDINGS
@@ -3005,6 +5017,16 @@ bibs:
       - name: "Hong Yu"
       - name: "Mark O. Riedl"
     BIBTEXKEY: yu:fdg-pcg2015
+    BIBTEX: |
+      @InProceedings{yu:fdg-pcg2015,
+      author    = {Yu, Hong and Riedl, Mark O.},
+      title     = {Automatic Generation of Game-based {CAPTCHAs}},
+      booktitle = {Proceedings of the 2015 Workshop on Procedural Content Generation},
+      year      = {2015},
+      owner     = {riedl},
+      timestamp = {2015.05.14},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/yu-pcg15.pdf},
+      }
     BOOKTITLE: Proceedings of the 2015 Workshop on Procedural Content Generation
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -3019,6 +5041,18 @@ bibs:
       - name: "Hong Yu"
       - name: "Mark O. Riedl"
     BIBTEXKEY: yu:tciaig2014
+    BIBTEX: |
+      @Article{yu:tciaig2014,
+      author    = {Yu, Hong and Riedl, Mark O.},
+      title     = {Personalized Interactive Narratives via Sequential Recommendation of Plot Points},
+      journal   = {IEEE Transactions on Computational Intelligence and Artificial Intelligence in Games},
+      year      = {2014},
+      volume    = {6},
+      number    = {2},
+      owner     = {riedl},
+      timestamp = {2012.10.18},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/tciaig14-yu.pdf},
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -3037,6 +5071,18 @@ bibs:
       - name: "Hong Yu"
       - name: "Mark O. Riedl"
     BIBTEXKEY: yu:aiide2013
+    BIBTEX: |
+      @InProceedings{yu:aiide2013,
+      author     = {Yu, Hong and Riedl, Mark O.},
+      title      = {Data-Driven Personalized Drama Management},
+      booktitle  = {Proceedings of the Ninth AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+      year       = {2013},
+      month      = {October},
+      cvsidenote = {56\%},
+      owner      = {riedl},
+      timestamp  = {2013.05.09},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/aiide13.pdf},
+      }
     BOOKTITLE: Proceedings of the Ninth AAAI Conference on Artificial Intelligence and
       Interactive Digital Entertainment
     CATEGORY: INPROCEEDINGS
@@ -3055,6 +5101,18 @@ bibs:
       - name: "Hong Yu"
       - name: "Mark O. Riedl"
     BIBTEXKEY: yu:fdg2013
+    BIBTEX: |
+      @InProceedings{yu:fdg2013,
+      author    = {Yu, Hong and Riedl, Mark O.},
+      title     = {Toward Personalized Guidance in Interactive Narratives},
+      booktitle = {Proceedings of the 8th International Conference on the Foundations of Digital Games},
+      year      = {2013},
+      address   = {Chaina, Crete, Greece},
+      month     = {May},
+      owner     = {riedl},
+      timestamp = {2013.03.07},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/yu-fdg13.pdf},
+      }
     BOOKTITLE: Proceedings of the 8th International Conference on the Foundations of
       Digital Games
     CATEGORY: INPROCEEDINGS
@@ -3072,6 +5130,21 @@ bibs:
       - name: "Hong Yu"
       - name: "Mark O. Riedl"
     BIBTEXKEY: yu:aamas2012
+    BIBTEX: |
+      @InProceedings{yu:aamas2012,
+      author     = {Yu, Hong and Riedl, Mark O.},
+      title      = {A Sequential Recommendation Approach for Interactive Personalized Story Generation},
+      booktitle  = {Proceedings of the 11th International Conference on Autonomous Agents and Multi Agent Systems},
+      year       = {2012},
+      pages      = {71-78},
+      address    = {Valencia, Spain},
+      month      = {June},
+      cvnote     = {The Virtual Human track acceptance rate is 11\%},
+      cvsidenote = {20\%},
+      owner      = {riedl},
+      timestamp  = {2011.10.21},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/aamas12.pdf},
+      }
     BOOKTITLE: Proceedings of the 11th International Conference on Autonomous Agents
       and Multi Agent Systems
     CATEGORY: INPROCEEDINGS
@@ -3091,6 +5164,16 @@ bibs:
       - name: "Hong Yu"
       - name: "Tyler Trawick"
     BIBTEXKEY: yu:aiide2011
+    BIBTEX: |
+      @InProceedings{yu:aiide2011,
+      Title                    = {Personalized Procedural Content Generation to Minimize Frustration and Boredom based on Ranking Algorithm},
+      Author                   = {Hong Yu and Tyler Trawick},
+      Booktitle                = {Proceedings of the 7th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+      Year                     = {2011},
+      
+      Owner                    = {riedl},
+      Timestamp                = {2014.01.03}
+      }
     BOOKTITLE: Proceedings of the 7th AAAI Conference on Artificial Intelligence and
       Interactive Digital Entertainment
     CATEGORY: INPROCEEDINGS
@@ -3107,6 +5190,18 @@ bibs:
       - name: "Eric Fruchter"
       - name: "Mark O. Riedl"
     BIBTEXKEY: zook:fdg2014
+    BIBTEX: |
+      @InProceedings{zook:fdg2014,
+      author     = {Zook, Alexander and Fruchter, Eric and Riedl, Mark O.},
+      title      = {Automatic Playtesting for Game Parameter Tuning via Active Learning},
+      booktitle  = {Proceedings of the Ninth International Conference on the Foundations of Digital Games},
+      year       = {2014},
+      cvnote     = {Exemplary paper (16\% acceptance rate in exemplary paper track)},
+      cvsidenote = {44\%},
+      owner      = {riedl},
+      timestamp  = {2013.09.16},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/zook-fdg14.pdf},
+      }
     BOOKTITLE: Proceedings of the Ninth International Conference on the Foundations
       of Digital Games
     CATEGORY: INPROCEEDINGS
@@ -3125,6 +5220,18 @@ bibs:
       - name: "Brent Harrison"
       - name: "Mark O. Riedl"
     BIBTEXKEY: zook:fdg2015
+    BIBTEX: |
+      @InProceedings{zook:fdg2015,
+      author     = {Zook, Alexander and Harrison, Brent and Riedl, Mark O.},
+      title      = {Monte-Carlo Tree Search for Simulation-based Play Strategy Analysis},
+      booktitle  = {Proceedings of the 2015 Conference on the Foundations of Digital Games},
+      year       = {2015},
+      cvnote     = {Nominated for Best Paper, 17\% acceptance rate for nominated papers.},
+      cvsidenote = {53\%},
+      owner      = {riedl},
+      timestamp  = {2015.02.23},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/zook-fdg15.pdf},
+      }
     BOOKTITLE: Proceedings of the 2015 Conference on the Foundations of Digital Games
     CATEGORY: INPROCEEDINGS
     CVNOTE: Nominated for Best Paper, 17\% acceptance rate for nominated papers.
@@ -3144,6 +5251,18 @@ bibs:
       - name: "Michael Drinkwater"
       - name: "Mark O. Riedl"
     BIBTEXKEY: zook:fdg-pcg2012
+    BIBTEX: |
+      @InProceedings{zook:fdg-pcg2012,
+      author    = {Zook, Alexander and Lee-Urban, Steve and Drinkwater, Michael and Riedl, Mark O.},
+      title     = {Skill-based Mission Generation: A Data-driven Temporal Player Modeling Approach},
+      booktitle = {Proceedings of the Foundations of Digital Games 2012 Workshop On Procedural Content Generation in Games},
+      year      = {2012},
+      address   = {Raleigh, North Carolina},
+      month     = {May},
+      owner     = {riedl},
+      timestamp = {2012.03.18},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/fdg-pcg12.pdf},
+      }
     BOOKTITLE: Proceedings of the Foundations of Digital Games 2012 Workshop On Procedural
       Content Generation in Games
     CATEGORY: INPROCEEDINGS
@@ -3160,6 +5279,17 @@ bibs:
       - name: "Alexander Zook"
       - name: "Mark O. Riedl"
     BIBTEXKEY: zook:tog2018
+    BIBTEX: |
+      @Article{zook:tog2018,
+      author    = {Zook, Alexander and Riedl, Mark O.},
+      title     = {Learning How Design Choices Impact Gameplay Behavior},
+      journal   = {IEEE Transactions on Games},
+      year      = {2018},
+      volume    = {forthcoming},
+      owner     = {riedl},
+      timestamp = {2018.03.12},
+      url       = {https://ieeexplore.ieee.org/document/8307175},
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -3175,6 +5305,17 @@ bibs:
       - name: "Alexander Zook"
       - name: "Mark O. Riedl"
     BIBTEXKEY: zook:aaai2014
+    BIBTEX: |
+      @InProceedings{zook:aaai2014,
+      author     = {Zook, Alexander and Riedl, Mark O.},
+      title      = {Automatic Game Design via Mechanic Generation},
+      booktitle  = {Proceedings of the 28th AAAI Conference on Artificial Intelligence},
+      year       = {2014},
+      cvsidenote = {28\%},
+      owner      = {riedl},
+      timestamp  = {2014.01.30},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/zook-aaai14.pdf},
+      }
     BOOKTITLE: Proceedings of the 28th AAAI Conference on Artificial Intelligence
     CATEGORY: INPROCEEDINGS
     CVSIDENOTE: 28\%
@@ -3190,6 +5331,16 @@ bibs:
       - name: "Alexander Zook"
       - name: "Mark O. Riedl"
     BIBTEXKEY: zook:fdg-pcg2014
+    BIBTEX: |
+      @InProceedings{zook:fdg-pcg2014,
+      author    = {Zook, Alexander and Riedl, Mark O.},
+      title     = {Generating and Adapting Game Mechanics},
+      booktitle = {Proceedings of the 2014 Foundations of Digital Games workshop on Procedural Content Generation in Games},
+      year      = {2014},
+      owner     = {riedl},
+      timestamp = {2014.01.27},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/pcg14.pdf},
+      }
     BOOKTITLE: Proceedings of the 2014 Foundations of Digital Games workshop on Procedural
       Content Generation in Games
     CATEGORY: INPROCEEDINGS
@@ -3205,6 +5356,16 @@ bibs:
       - name: "Alexander Zook"
       - name: "Mark O. Riedl"
     BIBTEXKEY: zook:tciaig2014
+    BIBTEX: |
+      @Article{zook:tciaig2014,
+      author    = {Zook, Alexander and Riedl, Mark O.},
+      title     = {Temporal Game Challenge Tailoring},
+      journal   = {IEEE Transactions on Computational Intelligence and Artificial Intelligence in Games},
+      year      = {2014},
+      owner     = {riedl},
+      timestamp = {2013.07.12},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/tciaig14-zook.pdf},
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -3221,6 +5382,18 @@ bibs:
       - name: "Alexander Zook"
       - name: "Mark O. Riedl"
     BIBTEXKEY: zook:fdg-ggj2013
+    BIBTEX: |
+      @InProceedings{zook:fdg-ggj2013,
+      author    = {Zook, Alexander and Riedl, Mark O.},
+      title     = {Game Conceptualization and Development Processes in the Global Game Jam},
+      booktitle = {Proceedings of the FDG'13 Workshop on the {Global Game Jam}},
+      year      = {2013},
+      address   = {Chaina, Crete, Greece},
+      month     = {May},
+      owner     = {riedl},
+      timestamp = {2013.03.25},
+      url       = {http://www.cc.gatech.edu/~riedl/pubs/fdg-ggj13.pdf},
+      }
     BOOKTITLE: Proceedings of the FDG'13 Workshop on the Global Game Jam
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -3237,6 +5410,20 @@ bibs:
       - name: "Alexander Zook"
       - name: "Mark O. Riedl"
     BIBTEXKEY: zook:aiide2012
+    BIBTEX: |
+      @InProceedings{zook:aiide2012,
+      author     = {Zook, Alexander and Riedl, Mark O.},
+      title      = {A Temporal Data-Driven Player Model for Dynamic Difficulty Adjustment},
+      booktitle  = {Proceedings of the 8th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+      year       = {2012},
+      pages      = {93-98},
+      address    = {Palo Alto, California},
+      month      = {October},
+      cvsidenote = {27\%},
+      owner      = {riedl},
+      timestamp  = {2012.05.23},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/aiide12.pdf},
+      }
     BOOKTITLE: Proceedings of the 8th AAAI Conference on Artificial Intelligence and
       Interactive Digital Entertainment
     CATEGORY: INPROCEEDINGS
@@ -3259,6 +5446,20 @@ bibs:
       - name: "Robert A. Sottilare"
       - name: "Keith W. Brawner"
     BIBTEXKEY: zook:fdg2012
+    BIBTEX: |
+      @InProceedings{zook:fdg2012,
+      author     = {Zook, Alexander and Riedl, Mark O. and Holden, Heather K. and Sottilare, Robert A. and Brawner, Keith W.},
+      title      = {Automated Scenario Generation: Toward Tailored and Optimized Military Training in Virtual Environments},
+      booktitle  = {Proceedings of the 7th International Conference on the Foundations of Digital Games},
+      year       = {2012},
+      pages      = {164-171},
+      address    = {Raleigh, North Carolina},
+      month      = {May},
+      cvsidenote = {30\%},
+      owner      = {riedl},
+      timestamp  = {2011.12.30},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/fdg12.pdf},
+      }
     BOOKTITLE: Proceedings of the 7th International Conference on the Foundations of
       Digital Games
     CATEGORY: INPROCEEDINGS
@@ -3280,6 +5481,21 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Brian Magerko"
     BIBTEXKEY: zook:cc2011
+    BIBTEX: |
+      @InProceedings{zook:cc2011,
+      author     = {Alexander Zook and Mark O. Riedl and Brian Magerko},
+      title      = {Formally Modeling Pretend Object Play},
+      booktitle  = {Proceedings of the 8th ACM Conference on Creativity and Cognition},
+      year       = {2011},
+      pages      = {147-156},
+      address    = {Atlanta, Georga},
+      month      = {November},
+      cvnote     = {Nominated for Best Paper},
+      cvsidenote = {23\%},
+      owner      = {riedl},
+      timestamp  = {2011.04.29},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/zook-cc11.pdf},
+      }
     BOOKTITLE: Proceedings of the 8th ACM Conference on Creativity and Cognition
     CATEGORY: INPROCEEDINGS
     CVNOTE: Nominated for Best Paper
@@ -3300,6 +5516,20 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Brian Magerko"
     BIBTEXKEY: zook:iccc2011
+    BIBTEX: |
+      @InProceedings{zook:iccc2011,
+      author     = {Zook, Alexander and Riedl, Mark O. and Magerko, Brian},
+      title      = {Understanding Human Creativity for Computational Play},
+      booktitle  = {Proceedings of the 2nd International Conference on Computational Creativity},
+      year       = {2011},
+      pages      = {42-47},
+      address    = {Mexico City, Mexico},
+      month      = {April},
+      cvsidenote = {67\%},
+      owner      = {riedl},
+      timestamp  = {2011.01.18},
+      url        = {http://www.cc.gatech.edu/~riedl/pubs/zook-iccc11.pdf},
+      }
     BOOKTITLE: Proceedings of the 2nd International Conference on Computational Creativity
     CATEGORY: INPROCEEDINGS
     CVSIDENOTE: 67\%
@@ -3317,6 +5547,17 @@ bibs:
       - name: "Matthew Guzdial"
       - name: "Mark O. Riedl"
     BIBTEXKEY: guzdial:iccc2019
+    BIBTEX: |
+      @InProceedings{guzdial:iccc2019,
+      author    = {Matthew Guzdial and Riedl, Mark O.},
+      title     = {Combinets: Creativity via Recombination of Neural Networks},
+      booktitle = {Proceedings of the 2019 International Conference on Computational Creativity},
+      year      = {2019},
+      cvnote    = {Best Paper Award},
+      owner     = {riedl},
+      timestamp = {2019.07.16},
+      url       = {https://arxiv.org/abs/1802.03605},
+      }
     BOOKTITLE: Proceedings of the 2019 International Conference on Computational Creativity
     CATEGORY: INPROCEEDINGS
     CVNOTE: Best Paper Award
@@ -3333,6 +5574,17 @@ bibs:
       - name: "Kyle Xiao"
       - name: "Mark O. Riedl"
     BIBTEXKEY: lin:aiide2019
+    BIBTEX: |
+      @InProceedings{lin:aiide2019,
+      author    = {Lin, Zhiyu and Xiao, Kyle and Riedl, Mark O.},
+      title     = {{GenerationMania}: Learning to Semantically Choreograph},
+      booktitle = {Proceedings of the 2019 AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+      year      = {2019},
+      cvnote    = {Best Paper Nominee},
+      owner     = {riedl},
+      timestamp = {2019.07.16},
+      url       = {https://arxiv.org/abs/1806.11170},
+      }
     BOOKTITLE: Proceedings of the 2019 AAAI Conference on Artificial Intelligence and
       Interactive Digital Entertainment
     CATEGORY: INPROCEEDINGS
@@ -3349,6 +5601,16 @@ bibs:
       - name: "Spencer Frazier"
       - name: "Mark O. Riedl"
     BIBTEXKEY: frazier:aiide2019
+    BIBTEX: |
+      @InProceedings{frazier:aiide2019,
+      author    = {Frazier, Spencer and Riedl, Mark O.},
+      title     = {Improving Deep Reinforcement Learning in {Minecraft} with Action Advice},
+      booktitle = {Proceedings of the 2019 AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+      year      = {2019},
+      owner     = {riedl},
+      timestamp = {2019.07.16},
+      url       = {https://arxiv.org/abs/1908.01007},
+      }
     BOOKTITLE: Proceedings of the 2019 AAAI Conference on Artificial Intelligence and
       Interactive Digital Entertainment
     CATEGORY: INPROCEEDINGS
@@ -3369,6 +5631,15 @@ bibs:
       - name: "Lara J. Martin"
       - name: "Mark O. Riedl"
     BIBTEXKEY: ammanabrolu:acl-storynlp2019
+    BIBTEX: |
+      @InProceedings{ammanabrolu:acl-storynlp2019,
+      author    = {Ammanabrolu, Prithviraj and Ethan Tien and Wesley Cheung and Zhaochen Luo and William Ma and Martin, Lara J. and Riedl, Mark O.},
+      title     = {Guided Neural Language Generation for Automated Storytelling},
+      booktitle = {Proceedings of the 2019 ACL Workshop on Storytelling (StoryNLP)},
+      year      = {2019},
+      owner     = {riedl},
+      timestamp = {2019.07.16},
+      }
     BOOKTITLE: Proceedings of the 2019 ACL Workshop on Storytelling (StoryNLP)
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -3386,6 +5657,16 @@ bibs:
       - name: "Brent Harrison"
       - name: "Mark O. Riedl"
     BIBTEXKEY: tambwekar:ijcai2019
+    BIBTEX: |
+      @InProceedings{tambwekar:ijcai2019,
+      author    = {Pradyumna Tambwekar and Murtaza Dhuliawala and Martin, Lara J. and Animesh Mehta and Brent Harrison and Riedl, Mark O.},
+      title     = {Controllable Neural Story Plot Generation via Reward Shaping},
+      booktitle = {Proceedings of the 2019 International Joint Conference on Artificial Intelligence},
+      year      = {2019},
+      owner     = {riedl},
+      timestamp = {2019.07.16},
+      url       = {https://arxiv.org/abs/1809.10736},
+      }
     BOOKTITLE: Proceedings of the 2019 International Joint Conference on Artificial
       Intelligence
     CATEGORY: INPROCEEDINGS
@@ -3402,6 +5683,15 @@ bibs:
       - name: "Matthew Guzdial"
       - name: "Mark O. Riedl"
     BIBTEXKEY: luo:fdg2019
+    BIBTEX: |
+      @InProceedings{luo:fdg2019,
+      author    = {Zijin Lou and Matthew Guzdial and Riedl, Mark O.},
+      title     = {Making {CNNs} for Video Parsing Accessible},
+      booktitle = {Proceedings of the 2019 International Conference on the Foundations of Digital Games},
+      year      = {2019},
+      owner     = {riedl},
+      timestamp = {2019.07.16},
+      }
     BOOKTITLE: Proceedings of the 2019 International Conference on the Foundations of
       Digital Games
     CATEGORY: INPROCEEDINGS
@@ -3416,6 +5706,16 @@ bibs:
       - name: "Prithviraj Ammanabrolu"
       - name: "Mark O. Riedl"
     BIBTEXKEY: ammanabrolu:emnlp-textgraphs2019
+    BIBTEX: |
+      @InProceedings{ammanabrolu:emnlp-textgraphs2019,
+      author    = {Ammanabrolu, Prithviraj and Riedl, Mark O.},
+      title     = {Transfer in Deep Reinforcement Learning using Knowledge Graphs},
+      booktitle = {Proceedings of the EMNLP Workshop on TextGraphs: Graph-based Methods for Natural Language Processing},
+      year      = {2019},
+      owner     = {riedl},
+      timestamp = {2019.07.16},
+      url       = {https://arxiv.org/abs/1908.06556},
+      }
     BOOKTITLE: 'Proceedings of the EMNLP Workshop on TextGraphs: Graph-based Methods
       for Natural Language Processing'
     CATEGORY: INPROCEEDINGS
@@ -3436,6 +5736,16 @@ bibs:
       - name: "Lara J. Martin"
       - name: "Mark O. Riedl"
     BIBTEXKEY: ammanabrolu:aaai2020
+    BIBTEX: |
+      @InProceedings{ammanabrolu:aaai2020,
+      author    = {Ammanabrolu, Prithviraj and Ethan Tien and Wesley Cheung and Zhaochen Luo and William Ma and Martin, Lara J. and Riedl, Mark O.},
+      title     = {Story Realization: Expanding Plot Events into Sentences},
+      booktitle = {Proceedings of AAAI 2020},
+      year      = {2019},
+      owner     = {riedl},
+      timestamp = {2019.07.16},
+      url       = {https://arxiv.org/abs/1909.03480},
+      }
     BOOKTITLE: Proceedings of AAAI 2020
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -3452,6 +5762,16 @@ bibs:
       - name: "Alex Mueller"
       - name: "Riedl Jeremy Paul"
     BIBTEXKEY: ammanabrolu:inlg-cc2019
+    BIBTEX: |
+      @InProceedings{ammanabrolu:inlg-cc2019,
+      author    = {Prithviraj Ammanabrolu and William Broniec and Alex Mueller and Jeremy Paul, Riedl, Mark O.},
+      title     = {Toward Automated Quest Generation in Text-Adventure Games},
+      booktitle = {Proceedings of the INLG Workshop on Computational Creativity in Natural Language Generation},
+      year      = {2019},
+      owner     = {riedl},
+      timestamp = {2019.11.17},
+      url       = {https://arxiv.org/abs/1909.06283},
+      }
     BOOKTITLE: Proceedings of the INLG Workshop on Computational Creativity in Natural
       Language Generation
     CATEGORY: INPROCEEDINGS
@@ -3473,6 +5793,14 @@ bibs:
       - name: "A. Riener"
       - name: "Mark O. Riedl"
     BIBTEXKEY: Ehsan2021OperationalizingHP
+    BIBTEX: |
+      @InProceedings{Ehsan2021OperationalizingHP,
+      author    = {Upol Ehsan and Philipp Wintersberger and Q. V. Liao and Martina Mara and M. Streit and Sandra Wachter and A. Riener and Mark O. Riedl},
+      title     = {Operationalizing Human-Centered Perspectives in Explainable AI},
+      booktitle = {Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems},
+      year      = {2021},
+      url       = {https://dl.acm.org/doi/10.1145/3411763.3441342},
+      }
     BOOKTITLE: Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing
       Systems
     CATEGORY: INPROCEEDINGS
@@ -3486,6 +5814,14 @@ bibs:
       - name: "Prithviraj Ammanabrolu"
       - name: "Mark O Riedl"
     BIBTEXKEY: ammanabrolu2020situated
+    BIBTEX: |
+      @Article{ammanabrolu2020situated,
+      author  = {Ammanabrolu, Prithviraj and Riedl, Mark O},
+      title   = {Situated Language Learning via Interactive Narratives},
+      journal = {arXiv preprint arXiv:2103.09977},
+      year    = {2021},
+      url     = {https://arxiv.org/abs/2103.09977},
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -3501,6 +5837,14 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Justin D. Weisz"
     BIBTEXKEY: Ehsan2021ExpandingET
+    BIBTEX: |
+      @InProceedings{Ehsan2021ExpandingET,
+      author    = {Upol Ehsan and Q. Liao and Michael J. Muller and Mark O. Riedl and Justin D. Weisz},
+      title     = {Expanding Explainability: Towards Social Transparency in AI systems},
+      booktitle = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},
+      year      = {2021},
+      url       = {https://arxiv.org/abs/2101.04719},
+      }
     BOOKTITLE: Proceedings of the 2021 CHI Conference on Human Factors in Computing
       Systems
     CATEGORY: INPROCEEDINGS
@@ -3520,6 +5864,16 @@ bibs:
       - name: "J. Rizzo"
       - name: "B. Wiesenfeld"
     BIBTEXKEY: Nov2021TheTO
+    BIBTEX: |
+      @Article{Nov2021TheTO,
+      author  = {O. Nov and Y. Aphinyanaphongs and Y. Lui and D. Mann and M. Porfiri and Mark O. Riedl and J. Rizzo and B. Wiesenfeld},
+      title   = {The transformation of patient-clinician relationships with AI-based medical advice},
+      journal = {Communications of the ACM},
+      year    = {2021},
+      volume  = {64},
+      pages   = {46 - 48},
+      url     = {https://dl.acm.org/doi/10.1145/3417518},
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -3537,6 +5891,13 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "K. Feigh"
     BIBTEXKEY: Srivastava2021EffectOI
+    BIBTEX: |
+      @InProceedings{Srivastava2021EffectOI,
+      author    = {D. Srivastava and Spencer Frazier and Mark O. Riedl and K. Feigh},
+      title     = {Effect of Interaction Design of Reinforcement Learning Agents on Human Satisfaction in Partially Observable Domains},
+      booktitle = {International Joint Conference on Computer Vision, Imaging, and Computer Graphics Theory and Applications},
+      year      = {2021},
+      }
     BOOKTITLE: International Joint Conference on Computer Vision, Imaging, and Computer
       Graphics Theory and Applications
     CATEGORY: INPROCEEDINGS
@@ -3552,6 +5913,14 @@ bibs:
       - name: "Prithviraj Ammanabrolu"
       - name: "Mark O Riedl"
     BIBTEXKEY: dambekodi20commonsense
+    BIBTEX: |
+      @InProceedings{dambekodi20commonsense,
+      author    = {Dambekodi, Sahith and Frazier, Spencer and Ammanabrolu, Prithviraj and Riedl, Mark O},
+      title     = {NeurIPS Workshop on Wordplay: When Language Meets Games},
+      booktitle = {arXiv preprint arXiv:2012.02757},
+      year      = {2020},
+      url       = {https://arxiv.org/abs/2012.02757},
+      }
     BOOKTITLE: arXiv preprint arXiv:2012.02757
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -3566,6 +5935,14 @@ bibs:
       - name: "Spencer Frazier"
       - name: "Mark O. Riedl"
     BIBTEXKEY: Peng2020ReducingNT
+    BIBTEX: |
+      @InProceedings{Peng2020ReducingNT,
+      author    = {Xiangyu Peng and S. Li and Spencer Frazier and Mark O. Riedl},
+      title     = {Reducing Non-Normative Text Generation from Language Models},
+      booktitle = {International Conference on Natural Language Generation},
+      year      = {2020},
+      url       = {https://arxiv.org/abs/2001.08764},
+      }
     BOOKTITLE: International Conference on Natural Language Generation
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -3577,6 +5954,14 @@ bibs:
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: Riedl2020WeirdAY
+    BIBTEX: |
+      @InProceedings{Riedl2020WeirdAY,
+      author    = {Mark O. Riedl},
+      title     = {Weird AI Yankovic: Generating Parody Lyrics},
+      booktitle = {Proceedings of the NeurIPS Workshop on Machine Learning for Creativity and Design},
+      year      = {2020},
+      url       = {https://arxiv.org/abs/2009.12240},
+      }
     BOOKTITLE: Proceedings of the NeurIPS Workshop on Machine Learning for Creativity
       and Design
     CATEGORY: INPROCEEDINGS
@@ -3592,6 +5977,14 @@ bibs:
       - name: "William Broniec"
       - name: "Mark O Riedl"
     BIBTEXKEY: ammanabrolu2020automated
+    BIBTEX: |
+      @InProceedings{ammanabrolu2020automated,
+      author    = {Ammanabrolu, Prithviraj and Cheung, Wesley and Broniec, William and Riedl, Mark O},
+      title     = {Automated Storytelling via Causal, Commonsense Plot Ordering},
+      booktitle = {AAAI Conference on Artificial Intelligence},
+      year      = {2020},
+      url       = {https://arxiv.org/abs/2009.00829},
+      }
     BOOKTITLE: AAAI Conference on Artificial Intelligence
     CATEGORY: INPROCEEDINGS
     EDITOR:
@@ -3606,6 +5999,14 @@ bibs:
       - name: "Matthew Hausknecht"
       - name: "Mark O Riedl"
     BIBTEXKEY: ammanabrolu2020avoid
+    BIBTEX: |
+      @Article{ammanabrolu2020avoid,
+      author  = {Ammanabrolu, Prithviraj and Tien, Ethan and Hausknecht, Matthew and Riedl, Mark O},
+      title   = {How to avoid being eaten by a grue: Structured exploration strategies for textual worlds},
+      journal = {arXiv preprint arXiv:2006.07409},
+      year    = {2020},
+      url     = {https://arxiv.org/abs/2006.07409},
+      }
     CATEGORY: ARTICLE
     EDITOR:
       - name: "null"
@@ -3619,6 +6020,14 @@ bibs:
       - name: "Upol Ehsan"
       - name: "Mark O. Riedl"
     BIBTEXKEY: Ehsan2020HumancenteredEA
+    BIBTEX: |
+      @InProceedings{Ehsan2020HumancenteredEA,
+      author    = {Upol Ehsan and Mark O. Riedl},
+      title     = {Human-centered Explainable AI: Towards a Reflective Sociotechnical Approach},
+      booktitle = {Proceedings of HCI International 2020: 22nd International Conference On Human-Computer Interaction},
+      year      = {2020},
+      url       = {https://arxiv.org/abs/2002.01092},
+      }
     BOOKTITLE: 'Proceedings of HCI International 2020: 22nd International Conference
       On Human-Computer Interaction'
     CATEGORY: INPROCEEDINGS
@@ -3635,6 +6044,14 @@ bibs:
       - name: "William Broniec"
       - name: "Mark O Riedl"
     BIBTEXKEY: ammanabrolu2020bringing
+    BIBTEX: |
+      @InProceedings{ammanabrolu2020bringing,
+      author    = {Ammanabrolu, Prithviraj and Cheung, Wesley and Tu, Dan and Broniec, William and Riedl, Mark O},
+      title     = {Bringing stories alive: Generating interactive fiction worlds},
+      booktitle = {Proceedings of the Sixteenth AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE-20)},
+      year      = {2020},
+      url       = {https://arxiv.org/abs/2001.10161},
+      }
     BOOKTITLE: Proceedings of the Sixteenth AAAI Conference on Artificial Intelligence
       and Interactive Digital Entertainment (AIIDE-20)
     CATEGORY: INPROCEEDINGS
@@ -3650,6 +6067,14 @@ bibs:
       - name: "Mark O. Riedl"
       - name: "Brent Harrison"
     BIBTEXKEY: Frazier2020LearningNF
+    BIBTEX: |
+      @InProceedings{Frazier2020LearningNF,
+      author    = {Spencer Frazier and Md Sultan Al Nahian and Mark O. Riedl and Brent Harrison},
+      title     = {Learning Norms from Stories: A Prior for Value Aligned Agents},
+      booktitle = {Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society},
+      year      = {2020},
+      url       = {https://arxiv.org/abs/1912.03553},
+      }
     BOOKTITLE: Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society
     CATEGORY: INPROCEEDINGS
     EDITOR:
