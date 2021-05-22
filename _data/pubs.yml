@@ -6084,6 +6084,181 @@ bibs:
     YEAR: '2020'
   - bib: "222"
     AUTHOR:
+      - name: "Andrew Hoyt"
+      - name: "Matthew J. Guzdial"
+      - name: "Yalini Kumar"
+      - name: "Gillian Smith"
+      - name: "Mark O. Riedl"
+    BIBTEXKEY: Hoyt2019IntegratingAP
+    BIBTEX: |
+      @InProceedings{Hoyt2019IntegratingAP,
+      author    = {Andrew Hoyt and Matthew J. Guzdial and Yalini Kumar and Gillian Smith and Mark O. Riedl},
+      title     = {Integrating Automated Play in Level Co-Creation},
+      booktitle = {Proceedings of the AAAI Workshop on Experimental AI in Games},
+      year      = {2019},
+      url       = {https://arxiv.org/abs/1911.09219},
+      }
+    BOOKTITLE: Proceedings of the AAAI Workshop on Experimental AI in Games
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    TITLE: Integrating Automated Play in Level Co-Creation
+    URL: https://arxiv.org/abs/1911.09219
+    YEAR: '2019'
+  - bib: "223"
+    AUTHOR:
+      - name: "Matthew J. Guzdial"
+      - name: "Mark O. Riedl"
+    BIBTEXKEY: Guzdial2020ConceptualGE
+    BIBTEX: |
+      @Article{Guzdial2020ConceptualGE,
+      author  = {Matthew J. Guzdial and Mark O. Riedl},
+      title   = {Conceptual Game Expansion},
+      journal = {ArXiv:2002.09636},
+      year    = {2020},
+      url     = {https://arxiv.org/abs/2002.09636},
+      }
+    CATEGORY: ARTICLE
+    EDITOR:
+      - name: "null"
+    JOURNAL: ArXiv:2002.09636
+    TITLE: Conceptual Game Expansion
+    URL: https://arxiv.org/abs/2002.09636
+    YEAR: '2020'
+  - bib: "224"
+    AUTHOR:
+      - name: "Xiangyu Peng"
+      - name: "Siyan Li"
+      - name: "Sarah Wiegreffe"
+      - name: "Mark O. Riedl"
+    BIBTEXKEY: PengInferring2021
+    BIBTEX: |
+      @InProceedings{PengInferring2021,
+      author    = {Xiangyu Peng and Siyan Li and Sarah Wiegreffe and Riedl, Mark O.},
+      title     = {Inferring the Reader: Guiding Automated Story Generation with Commonsense Reasoning},
+      booktitle = {Proceedings of the 3rd Workshop on Narrative Understanding},
+      year      = {2021},
+      owner     = {riedl},
+      timestamp = {2021.05.21},
+      url       = {https://arxiv.org/abs/2105.01311},
+      }
+    BOOKTITLE: Proceedings of the 3rd Workshop on Narrative Understanding
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    OWNER: riedl
+    TIMESTAMP: 2021.05.21
+    TITLE: 'Inferring the Reader: Guiding Automated Story Generation with Commonsense
+      Reasoning'
+    URL: https://arxiv.org/abs/2105.01311
+    YEAR: '2021'
+  - bib: "225"
+    AUTHOR:
+      - name: "Ronal Singh"
+      - name: "Upol Ehsan"
+      - name: "Marc Cheong"
+      - name: "Mark O. Riedl"
+      - name: "Tim Miller"
+    BIBTEXKEY: SinghLEX2021
+    BIBTEX: |
+      @InProceedings{SinghLEX2021,
+      author    = {Ronal Singh and Upol Ehsan and Marc Cheong and Riedl, Mark O. and Tim Miller},
+      title     = {LEx: A Framework for Operationalising Layers of Machine Learning Explanations},
+      booktitle = {Proceedings of the CHI Workshop on Operationalizing Human-Centered Perspectives in Explainable AI},
+      year      = {2021},
+      owner     = {riedl},
+      timestamp = {2021.05.21},
+      url       = {https://arxiv.org/abs/2104.09612},
+      }
+    BOOKTITLE: Proceedings of the CHI Workshop on Operationalizing Human-Centered Perspectives
+      in Explainable AI
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    OWNER: riedl
+    TIMESTAMP: 2021.05.21
+    TITLE: 'LEx: A Framework for Operationalising Layers of Machine Learning Explanations'
+    URL: https://arxiv.org/abs/2104.09612
+    YEAR: '2021'
+  - bib: "226"
+    AUTHOR:
+      - name: "Md Sultan Al Nahian"
+      - name: "Spencer Frazier"
+      - name: "Brent Harrison"
+      - name: "Mark O. Riedl"
+    BIBTEXKEY: NahianTraining2021
+    BIBTEX: |
+      @Article{NahianTraining2021,
+      author    = {Md Sultan Al Nahian and Spencer Frazier and Brent Harrison and Riedl, Mark O.},
+      title     = {Training Value-Aligned Reinforcement Learning Agents Using a Normative Prior},
+      journal   = {arXiv:2104.09469},
+      year      = {2021},
+      owner     = {riedl},
+      timestamp = {2021.05.21},
+      url       = {https://arxiv.org/abs/2104.09469},
+      }
+    CATEGORY: ARTICLE
+    EDITOR:
+      - name: "null"
+    JOURNAL: arXiv:2104.09469
+    OWNER: riedl
+    TIMESTAMP: 2021.05.21
+    TITLE: Training Value-Aligned Reinforcement Learning Agents Using a Normative Prior
+    URL: https://arxiv.org/abs/2104.09469
+    YEAR: '2021'
+  - bib: "227"
+    AUTHOR:
+      - name: "Louis Castricato"
+      - name: "Spencer Frazier"
+      - name: "Jonathan Balloch"
+      - name: "Mark O. Riedl"
+    BIBTEXKEY: CastricatoFabula2021
+    BIBTEX: |
+      @InProceedings{CastricatoFabula2021,
+      author    = {Louis Castricato and Spencer Frazier and Jonathan Balloch and Riedl, Mark O.},
+      title     = {Fabula Entropy Indexing: Objective Measures of Story Coherence},
+      booktitle = {Proceedings of the 3rd Workshop on Narrative Understanding},
+      year      = {2021},
+      owner     = {riedl},
+      timestamp = {2021.05.21},
+      url       = {https://arxiv.org/abs/2104.07472},
+      }
+    BOOKTITLE: Proceedings of the 3rd Workshop on Narrative Understanding
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    OWNER: riedl
+    TIMESTAMP: 2021.05.21
+    TITLE: 'Fabula Entropy Indexing: Objective Measures of Story Coherence'
+    URL: https://arxiv.org/abs/2104.07472
+    YEAR: '2021'
+  - bib: "228"
+    AUTHOR:
+      - name: "Zhiyu Lin"
+      - name: "Mark O. Riedl"
+    BIBTEXKEY: LinPlug2021
+    BIBTEX: |
+      @InProceedings{LinPlug2021,
+      author    = {Zhiyu Lin and Riedl, Mark O.},
+      title     = {Plug-and-Blend: A Framework for Controllable Story Generation with Blended Control Codes},
+      booktitle = {Proceedings of the 3rd Workshop on Narrative Understanding},
+      year      = {2021},
+      owner     = {riedl},
+      timestamp = {2021.05.21},
+      url       = {https://arxiv.org/abs/2104.04039},
+      }
+    BOOKTITLE: Proceedings of the 3rd Workshop on Narrative Understanding
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    OWNER: riedl
+    TIMESTAMP: 2021.05.21
+    TITLE: 'Plug-and-Blend: A Framework for Controllable Story Generation with Blended
+      Control Codes'
+    URL: https://arxiv.org/abs/2104.04039
+    YEAR: '2021'
+  - bib: "229"
+    AUTHOR:
       - name: "null"
     BIBTEXKEY: 'jabref-meta: databaseType:bibtex;'
     CATEGORY: COMMENT
