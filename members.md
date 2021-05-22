@@ -1,8 +1,10 @@
 ---
-layout: single
+layout: splash
 title: Members
 
 ---
+
+# Members
 
 **Faculty**
 

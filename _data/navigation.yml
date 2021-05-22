@@ -1,10 +1,10 @@
 main:
-  - title: "Mark Riedl"
-    url: riedl.html
-  - title: "Members"
-    url: members.html
   - title: "Publications"
     url: publications.html
+  - title: "Members"
+    url: members.html
   - title: "Theses"
     url: theses.html
+  - title: "Mark Riedl"
+    url: riedl.html
 

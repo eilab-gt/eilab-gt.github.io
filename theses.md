@@ -1,8 +1,11 @@
 ---
-layout: single
+layout: splash
 title: Theses
+classes: wide
 
 ---
+
+# Theses
 
 **Matthew Guzdial. [Combinational machine learning creativity](https://smartech.gatech.edu/handle/1853/61790). Ph.D. Dissertation, Georgia Institute of Technology, 2019.**
 
