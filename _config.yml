@@ -37,11 +37,14 @@ minimal_mistakes_skin: "contrast"
 masthead_title: "EI & HCAI"
 subtitle: "Labs"
 logo: "/assets/images/ei-logo.gif"
-#footer:
-#  links:
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/mark_riedl"
+twitter:
+  username: "mark_riedl"
+og_image: /assets/images/ei-logo.gif
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mark_riedl"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/mmistakes"
