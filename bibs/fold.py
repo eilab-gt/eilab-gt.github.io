@@ -13,7 +13,7 @@ bibs_hash = {}
 
 ### Get all the bibs into the bib_hash
 bib = ''
-for line in open(sys.argv[1], 'r'):
+for line in codecs.open(sys.argv[1], 'r', 'utf-8'):
    if '@' in line:
       # Ending a previous bib and starting a new one
       if len(bib) > 0:
@@ -30,7 +30,7 @@ for line in open(sys.argv[1], 'r'):
       bib = bib + line
 
 yaml = ''
-for line in open(sys.argv[2], 'r'):
+for line in codecs.open(sys.argv[2], 'r', "utf-8"):
    # Add the line to the yaml
    yaml = yaml + line
    # Look for a bibtexkey
