@@ -8,4 +8,4 @@ jobs:
       - uses: actions/setup-node@v1
       - run: pwd
       - run: ls
-      - run: bash workflow.sh 
+      - run: bash test.sh 
