@@ -59,7 +59,7 @@ bibs:
     VENUE: CC
     YEAR: '2008'
   - bib: "2"
-    ADDRESS: Mexico City, Mexico
+    ADDRESS: M'exico City, M'exico
     AUTHOR:
       - name: "Mark O. Riedl"
     BIBTEXKEY: riedl:icccc2008
@@ -77,7 +77,7 @@ bibs:
     CATEGORY: INPROCEEDINGS
     EDITOR:
       - name: "null"
-    PUBLISHER: Universidad Autonoma Metropolitana, Cuajimalpa, Mexico City
+    PUBLISHER: Universidad Aut'onoma Metropolitana, Cuajimalpa, M'exico City
     TITLE: 'Intelligent Narrative Computing: Creativity, Sense-Making, and Engagement'
     YEAR: '2008'
   - bib: "3"
@@ -477,7 +477,7 @@ bibs:
     ADDRESS: Playa del Carmen, Mexico
     AUTHOR:
       - name: "Mark O. Riedl"
-      - name: "Carlos Leon"
+      - name: "Carlos Le'on"
     BIBTEXKEY: riedl:itis2008
     BIBTEX: |
       @InProceedings{riedl:itis2008,
@@ -546,7 +546,7 @@ bibs:
       for Interactive Entertainment (INTETAIN)
     CATEGORY: INPROCEEDINGS
     CVNOTE: Awarded best paper.
-    CVSIDENOTE: 24\%
+    CVSIDENOTE: 24%
     EDITOR:
       - name: "null"
     MONTH: January
@@ -711,7 +711,7 @@ bibs:
     BOOKTITLE: Proceedings of the 1st Joint International Conference on Interactive
       Digital Storytelling
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 30\%
+    CVSIDENOTE: 30%
     EDITOR:
       - name: "null"
     MONTH: November
@@ -830,8 +830,8 @@ bibs:
     BOOKTITLE: Proceedings of the 1st Conference on Artificial Intelligence and Interactive
       Digital Entertainment (AIIDE)
     CATEGORY: INPROCEEDINGS
-    CVNOTE: Invited for submission to CG\&A Special Issue (3 of 24 invited).
-    CVSIDENOTE: 50\%
+    CVNOTE: Invited for submission to CG&A Special Issue (3 of 24 invited).
+    CVSIDENOTE: 50%
     EDITOR:
       - name: "null"
     MONTH: June
@@ -859,7 +859,7 @@ bibs:
     BOOKTITLE: Proceedings of the 19th International Joint Conference on Artificial
       Intelligence (IJCAI)
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 18\%
+    CVSIDENOTE: 18%
     EDITOR:
       - name: "null"
     MONTH: July
@@ -886,7 +886,7 @@ bibs:
     BOOKTITLE: Proceedings of the 5th International Conference on Intelligent Virtual
       Agents (IVA)
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 60\%
+    CVSIDENOTE: 60%
     EDITOR:
       - name: "null"
     MONTH: September
@@ -1128,7 +1128,7 @@ bibs:
     BOOKTITLE: Proceedings of the 6th Annual Conference on Artificial Intelligence for
       Interactive Digital Entertainment Conference
     CATEGORY: INPROCEEDINGS
-    CVNOTE: Submitted and accepted as a demonstration paper (100\% acceptance rate)
+    CVNOTE: Submitted and accepted as a demonstration paper (100% acceptance rate)
     EDITOR:
       - name: "null"
     MONTH: October
@@ -1348,7 +1348,7 @@ bibs:
     BOOKTITLE: Proceedings of the 8th ACM Conference on Creativity and Cognition
     CATEGORY: INPROCEEDINGS
     CVNOTE: Awarded Best Student Paper.
-    CVSIDENOTE: 23\%
+    CVSIDENOTE: 23%
     EDITOR:
       - name: "null"
     MONTH: November
@@ -1415,7 +1415,7 @@ bibs:
       }
     BOOKTITLE: Proceedings of the 2013 ACM SIGCHI Conference on Human-Computer Interaction
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 20\%
+    CVSIDENOTE: 20%
     EDITOR:
       - name: "null"
     MONTH: April
@@ -1501,7 +1501,7 @@ bibs:
     BOOKTITLE: Proceedings of the 3rd AAAI Conference on Artificial Intelligence and
       Interactive Digital Entertainment
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 38\%
+    CVSIDENOTE: 38%
     EDITOR:
       - name: "null"
     MONTH: October
@@ -1510,7 +1510,7 @@ bibs:
     URL: http://www.cc.gatech.edu/~riedl/pubs/aiide07.pdf
     YEAR: '2007'
   - bib: "55"
-    ADDRESS: Guimar\~aes, Portugal
+    ADDRESS: Guimar~aes, Portugal
     AUTHOR:
       - name: "Adam Fitzgerald"
       - name: "Gurlal Kahlon"
@@ -1531,7 +1531,7 @@ bibs:
     BOOKTITLE: Proceedings of the 2nd Joint International Conference on Interactive
       Digital Storytelling
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 40\%
+    CVSIDENOTE: 40%
     EDITOR:
       - name: "null"
     MONTH: December
@@ -1615,7 +1615,7 @@ bibs:
       of Individuals with HFA
     YEAR: '2009'
   - bib: "59"
-    ADDRESS: Compiegne, France
+    ADDRESS: Compi'egne, France
     AUTHOR:
       - name: "Jan Gillesen"
       - name: "Hwajung Hong"
@@ -1642,7 +1642,7 @@ bibs:
       - name: "null"
     MONTH: October
     TITLE: 'Refl-ex: Towards Designing An Interactive and Intelligent Tool for Social
-      Skill Development of Individuals with HFA\/AS'
+      Skill Development of Individuals with HFA/AS'
     YEAR: '2009'
   - bib: "60"
     AUTHOR:
@@ -1690,7 +1690,7 @@ bibs:
       }
     BOOKTITLE: Proceedings of the 2015 Conference on the Foundations of Digital Games
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 53\%
+    CVSIDENOTE: 53%
     EDITOR:
       - name: "null"
     OWNER: riedl
@@ -2030,7 +2030,7 @@ bibs:
       - name: "null"
     OWNER: riedl
     TIMESTAMP: 2018.11.12
-    TITLE: "Towards Automated Let\uFFFDs Play Commentary"
+    TITLE: "Towards Automated LetuFFFDs Play Commentary"
     URL: https://arxiv.org/abs/1909.02195
     YEAR: '2018'
   - bib: "75"
@@ -2090,7 +2090,7 @@ bibs:
     BOOKTITLE: Proceedings of the 4th International Conference on Interactive Digital
       Storytelling
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 44\%
+    CVSIDENOTE: 44%
     EDITOR:
       - name: "null"
     MONTH: November
@@ -2125,7 +2125,7 @@ bibs:
       }
     BOOKTITLE: Proceedings of the 19th International Conference on Case Based Reasoning
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 50\%
+    CVSIDENOTE: 50%
     EDITOR:
       - name: "null"
     MONTH: September
@@ -2316,7 +2316,7 @@ bibs:
     CATEGORY: INPROCEEDINGS
     CVNOTE: Invited to be included as a chapter in a textbook on Procedural Content
       Generation, edited by Togelius et al., 2013.
-    CVSIDENOTE: 60\%
+    CVSIDENOTE: 60%
     EDITOR:
       - name: "null"
     MONTH: August
@@ -2404,7 +2404,7 @@ bibs:
     BOOKTITLE: Proceedings of the 1st Conference on Artificial Intelligence and Interactive
       Digital Entertainment (AIIDE)
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 50\%
+    CVSIDENOTE: 50%
     EDITOR:
       - name: "null"
     MONTH: June
@@ -2570,7 +2570,7 @@ bibs:
       }
     BOOKTITLE: Proceedings of the 27th AAAI Conference on Artificial Intelligence
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 29\%
+    CVSIDENOTE: 29%
     EDITOR:
       - name: "null"
     MONTH: July
@@ -2745,7 +2745,7 @@ bibs:
       }
     BOOKTITLE: Proceedings of the 8th ACM Conference on Creativity and Cognition
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 23\%
+    CVSIDENOTE: 23%
     EDITOR:
       - name: "null"
     MONTH: November
@@ -2776,7 +2776,7 @@ bibs:
     BOOKTITLE: Proceedings of the 6th Conference on Artificial Intelligence for Interactive
       Digital Entertainment Conference
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 29\%
+    CVSIDENOTE: 29%
     EDITOR:
       - name: "null"
     MONTH: October
@@ -2860,7 +2860,7 @@ bibs:
     BOOKTITLE: Proceedings of the 7th International Conference on Interactive Digital
       Storytelling
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 29\%
+    CVSIDENOTE: 29%
     EDITOR:
       - name: "null"
     OWNER: riedl
@@ -2917,7 +2917,7 @@ bibs:
       }
     BOOKTITLE: Proceedings of the 3rd International Conference on Computational Creativity
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 50\%
+    CVSIDENOTE: 50%
     EDITOR:
       - name: "null"
     MONTH: May
@@ -3074,7 +3074,7 @@ bibs:
     BOOKTITLE: Proceedings of the 8th International Conference on Advances in Computer
       Entertainment Technology
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 51\%
+    CVSIDENOTE: 51%
     EDITOR:
       - name: "null"
     MONTH: June
@@ -3134,7 +3134,7 @@ bibs:
     BOOKTITLE: Proceedings of the 38th International Conference on Computer Graphics
       and Interactive Techniques
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 12\%
+    CVSIDENOTE: 12%
     EDITOR:
       - name: "null"
     MONTH: August
@@ -3168,7 +3168,7 @@ bibs:
       }
     BOOKTITLE: Proceedings of the 7th Creativity and Cognition Conference
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 25\%
+    CVSIDENOTE: 25%
     EDITOR:
       - name: "null"
     MONTH: October
@@ -3395,7 +3395,7 @@ bibs:
     BOOKTITLE: Proceedings of the 14th International Conference on Artificial Intelligence
       in Education (AIED)
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 30\%
+    CVSIDENOTE: 30%
     EDITOR:
       - name: "null"
     MONTH: July
@@ -3452,7 +3452,7 @@ bibs:
     BOOKTITLE: Proceedings of the 24th Conference of the Florida Artificial Intelligence
       Research Society, Special Track on Intelligent Tutoring Systems
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 50\%
+    CVSIDENOTE: 50%
     EDITOR:
       - name: "null"
     MONTH: May
@@ -3621,8 +3621,8 @@ bibs:
     BOOKTITLE: Proceedings of the 4th International Conference on Affective Computing
       and Intelligent Interaction
     CATEGORY: INPROCEEDINGS
-    CVNOTE: Nominated for Outstanding Paper Award (3\% of papers nominated).
-    CVSIDENOTE: 35\%
+    CVNOTE: Nominated for Outstanding Paper Award (3% of papers nominated).
+    CVSIDENOTE: 35%
     EDITOR:
       - name: "null"
     MONTH: October
@@ -3706,7 +3706,7 @@ bibs:
       }
     BOOKTITLE: Proceedings of the 2nd International Conference on Computational Creativity
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 67\%
+    CVSIDENOTE: 67%
     EDITOR:
       - name: "null"
     MONTH: April
@@ -3734,7 +3734,7 @@ bibs:
       }
     BOOKTITLE: Proceedings of the 28th AAAI Conference on Artificial Intelligence
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 28\%
+    CVSIDENOTE: 28%
     EDITOR:
       - name: "null"
     OWNER: riedl
@@ -4316,7 +4316,7 @@ bibs:
     ADDRESS: Palo Alto, California
     AUTHOR:
       - name: "Mark O. Riedl"
-      - name: "Carlos Leon"
+      - name: "Carlos Le'on"
     BIBTEXKEY: riedl:aiide2009
     BIBTEX: |
       @InProceedings{riedl:aiide2009,
@@ -4517,7 +4517,7 @@ bibs:
     BOOKTITLE: Applied Research in Artificial Intelligence for Computer Games
     CATEGORY: INCOLLECTION
     EDITOR:
-      - name: "Pedro Gonzalez-Calero"
+      - name: "Pedro Gonz'alez-Calero"
     OWNER: riedl
     PUBLISHER: Springer
     TIMESTAMP: 2010.03.07
@@ -4550,7 +4550,7 @@ bibs:
     CATEGORY: INPROCEEDINGS
     CVNOTE: Vision papers track. Invited to be presented at the AIIDE 2013 Workshop
       on Artificial Intelligence and Game Aesthetics, October 2013
-    CVSIDENOTE: 66\%
+    CVSIDENOTE: 66%
     EDITOR:
       - name: "null"
     MONTH: August
@@ -4583,7 +4583,7 @@ bibs:
     BOOKTITLE: Proceedings of the 1st Joint International Conference on Interactive
       Digital Storytelling
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 30\%
+    CVSIDENOTE: 30%
     EDITOR:
       - name: "null"
     MONTH: November
@@ -4727,7 +4727,7 @@ bibs:
     BOOKTITLE: Proceedings of the 4th AAAI Conference on AI and Interactive Digital
       Entertainment
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 53\%
+    CVSIDENOTE: 53%
     EDITOR:
       - name: "null"
     MONTH: October
@@ -4834,7 +4834,7 @@ bibs:
     BOOKTITLE: Proceedings of the Ninth International Conference on the Foundations
       of Digital Games
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 44\%
+    CVSIDENOTE: 44%
     EDITOR:
       - name: "null"
     OWNER: riedl
@@ -5004,7 +5004,7 @@ bibs:
     BOOKTITLE: Proceedings of the 11th Annual AAAI Conference on Artificial Intelligence
       and Interactive Digital Entertainment
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 28\%
+    CVSIDENOTE: 28%
     EDITOR:
       - name: "null"
     OWNER: riedl
@@ -5086,7 +5086,7 @@ bibs:
     BOOKTITLE: Proceedings of the Ninth AAAI Conference on Artificial Intelligence and
       Interactive Digital Entertainment
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 56\%
+    CVSIDENOTE: 56%
     EDITOR:
       - name: "null"
     MONTH: October
@@ -5148,8 +5148,8 @@ bibs:
     BOOKTITLE: Proceedings of the 11th International Conference on Autonomous Agents
       and Multi Agent Systems
     CATEGORY: INPROCEEDINGS
-    CVNOTE: The Virtual Human track acceptance rate is 11\%
-    CVSIDENOTE: 20\%
+    CVNOTE: The Virtual Human track acceptance rate is 11%
+    CVSIDENOTE: 20%
     EDITOR:
       - name: "null"
     MONTH: June
@@ -5205,8 +5205,8 @@ bibs:
     BOOKTITLE: Proceedings of the Ninth International Conference on the Foundations
       of Digital Games
     CATEGORY: INPROCEEDINGS
-    CVNOTE: Exemplary paper (16\% acceptance rate in exemplary paper track)
-    CVSIDENOTE: 44\%
+    CVNOTE: Exemplary paper (16% acceptance rate in exemplary paper track)
+    CVSIDENOTE: 44%
     EDITOR:
       - name: "null"
     OWNER: riedl
@@ -5234,8 +5234,8 @@ bibs:
       }
     BOOKTITLE: Proceedings of the 2015 Conference on the Foundations of Digital Games
     CATEGORY: INPROCEEDINGS
-    CVNOTE: Nominated for Best Paper, 17\% acceptance rate for nominated papers.
-    CVSIDENOTE: 53\%
+    CVNOTE: Nominated for Best Paper, 17% acceptance rate for nominated papers.
+    CVSIDENOTE: 53%
     EDITOR:
       - name: "null"
     OWNER: riedl
@@ -5318,7 +5318,7 @@ bibs:
       }
     BOOKTITLE: Proceedings of the 28th AAAI Conference on Artificial Intelligence
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 28\%
+    CVSIDENOTE: 28%
     EDITOR:
       - name: "null"
     OWNER: riedl
@@ -5427,7 +5427,7 @@ bibs:
     BOOKTITLE: Proceedings of the 8th AAAI Conference on Artificial Intelligence and
       Interactive Digital Entertainment
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 27\%
+    CVSIDENOTE: 27%
     EDITOR:
       - name: "null"
     MONTH: October
@@ -5463,7 +5463,7 @@ bibs:
     BOOKTITLE: Proceedings of the 7th International Conference on the Foundations of
       Digital Games
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 30\%
+    CVSIDENOTE: 30%
     EDITOR:
       - name: "null"
     MONTH: May
@@ -5499,7 +5499,7 @@ bibs:
     BOOKTITLE: Proceedings of the 8th ACM Conference on Creativity and Cognition
     CATEGORY: INPROCEEDINGS
     CVNOTE: Nominated for Best Paper
-    CVSIDENOTE: 23\%
+    CVSIDENOTE: 23%
     EDITOR:
       - name: "null"
     MONTH: November
@@ -5532,7 +5532,7 @@ bibs:
       }
     BOOKTITLE: Proceedings of the 2nd International Conference on Computational Creativity
     CATEGORY: INPROCEEDINGS
-    CVSIDENOTE: 67\%
+    CVSIDENOTE: 67%
     EDITOR:
       - name: "null"
     MONTH: April
@@ -6258,6 +6258,186 @@ bibs:
     URL: https://arxiv.org/abs/2104.04039
     YEAR: '2021'
   - bib: "229"
+    AUTHOR:
+      - name: "Prithviraj Ammanabrolu"
+      - name: "Matthew Hausknecht"
+    BIBTEXKEY: ammanabrolu2020Graph
+    BIBTEX: |
+      @InProceedings{ammanabrolu2020Graph,
+      author    = {Prithviraj Ammanabrolu and Matthew Hausknecht},
+      title     = {Graph Constrained Reinforcement Learning for Natural Language Action Spaces},
+      booktitle = {International Conference on Learning Representations},
+      year      = {2020},
+      url       = {https://openreview.net/forum?id=B1x6w0EtwH},
+      }
+    BOOKTITLE: International Conference on Learning Representations
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    TITLE: Graph Constrained Reinforcement Learning for Natural Language Action Spaces
+    URL: https://openreview.net/forum?id=B1x6w0EtwH
+    YEAR: '2020'
+  - bib: "230"
+    AUTHOR:
+      - name: "Matthew Hausknecht"
+      - name: "Prithviraj Ammanabrolu"
+      - name: "Marc-Alexandre Cot'e"
+      - name: "Xingdi Yuan"
+    BIBTEXKEY: hausknecht19
+    BIBTEX: |
+      @InProceedings{hausknecht19,
+      author    = {Matthew Hausknecht and Prithviraj Ammanabrolu and Marc-Alexandre C{\^{o}}t{\'{e}} and Xingdi Yuan},
+      title     = {Interactive Fiction Games: A Colossal Adventure},
+      booktitle = {Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI)},
+      year      = {2020},
+      url       = {https://arxiv.org/abs/1909.05398},
+      }
+    BOOKTITLE: Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI)
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    TITLE: 'Interactive Fiction Games: A Colossal Adventure'
+    URL: https://arxiv.org/abs/1909.05398
+    YEAR: '2020'
+  - bib: "231"
+    AUTHOR:
+      - name: "Prithviraj Ammanabrolu"
+      - name: "Ethan Tien"
+      - name: "Zhaochen Luo"
+      - name: "Mark O Riedl"
+    BIBTEXKEY: ammanabrolu2020exploration
+    BIBTEX: |
+      @InProceedings{ammanabrolu2020exploration,
+      author    = {Ammanabrolu, Prithviraj and Tien, Ethan and Luo, Zhaochen and Riedl, Mark O},
+      title     = {Exploration Strategies for Text-Adventure Agents},
+      booktitle = {Proceedings of the IJCAI Knowledge-based Reinforcement Learning Workshop},
+      year      = {2020},
+      }
+    BOOKTITLE: Proceedings of the IJCAI Knowledge-based Reinforcement Learning Workshop
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    TITLE: Exploration Strategies for Text-Adventure Agents
+    YEAR: '2020'
+  - bib: "232"
+    AUTHOR:
+      - name: "Louis Castricato"
+      - name: "Stella Biderman"
+      - name: "Rogelio E. Cardona-Rivera"
+      - name: "David Thue"
+    BIBTEXKEY: Castricato2021Formal
+    BIBTEX: |
+      @InProceedings{Castricato2021Formal,
+      author    = {Louis Castricato and Stella Biderman and Cardona-Rivera, Rogelio E. and David Thue},
+      title     = {Towards a Formal Model of Narratives},
+      booktitle = {Proceedings of the 3rd Workshop on Narrative Understanding},
+      year      = {2021},
+      owner     = {riedl},
+      timestamp = {2021.05.21},
+      url       = {https://arxiv.org/abs/2103.12872},
+      }
+    BOOKTITLE: Proceedings of the 3rd Workshop on Narrative Understanding
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    OWNER: riedl
+    TIMESTAMP: 2021.05.21
+    TITLE: Towards a Formal Model of Narratives
+    URL: https://arxiv.org/abs/2103.12872
+    YEAR: '2021'
+  - bib: "233"
+    AUTHOR:
+      - name: "Prithviraj Ammanabrolu"
+      - name: "Mark O. Riedl"
+    BIBTEXKEY: Ammanabrolu2021Dialogue
+    BIBTEX: |
+      @InProceedings{Ammanabrolu2021Dialogue,
+      author    = {Ammanabrolu, Prithviraj and Riedl, Mark O.},
+      title     = {Telling Stories through Multi-User Dialogue by Modeling Character Relations},
+      booktitle = {Proceedings of the 3rd Workshop on Narrative Understanding},
+      year      = {2021},
+      owner     = {riedl},
+      timestamp = {2021.05.21},
+      }
+    BOOKTITLE: Proceedings of the 3rd Workshop on Narrative Understanding
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    OWNER: riedl
+    TIMESTAMP: 2021.05.21
+    TITLE: Telling Stories through Multi-User Dialogue by Modeling Character Relations
+    YEAR: '2021'
+  - bib: "234"
+    AUTHOR:
+      - name: "Louis Castricato"
+      - name: "Spencer Frazier"
+      - name: "Jonathan Balloch"
+      - name: "Mark O. Riedl"
+    BIBTEXKEY: Castricato2021Five
+    BIBTEX: |
+      @InProceedings{Castricato2021Five,
+      author    = {Castricato, Louis and Frazier, Spencer and Balloch, Jonathan and Riedl, Mark O.},
+      title     = {Tell Me A Story Like Im Five: Story Generation via Question Answering},
+      booktitle = {Proceedings of the 3rd Workshop on Narrative Understanding},
+      year      = {2021},
+      owner     = {riedl},
+      timestamp = {2021.05.21},
+      }
+    BOOKTITLE: Proceedings of the 3rd Workshop on Narrative Understanding
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    OWNER: riedl
+    TIMESTAMP: 2021.05.21
+    TITLE: "Tell Me A Story Like IuFFFDm Five: Story Generation via Question Answering"
+    YEAR: '2021'
+  - bib: "235"
+    AUTHOR:
+      - name: "Amal Alabdulkarim"
+      - name: "Siyan Li"
+      - name: "Xiangyu Peng"
+    BIBTEXKEY: Alabdulkarim2021Challenges
+    BIBTEX: |
+      @InProceedings{Alabdulkarim2021Challenges,
+      author    = {Amal Alabdulkarim and Siyan Li and Xiangyu Peng},
+      title     = {Automatic Story Generation: Challenges and Attempts},
+      booktitle = {Proceedings of the 3rd Workshop on Narrative Understanding},
+      year      = {2021},
+      owner     = {riedl},
+      timestamp = {2021.05.21},
+      }
+    BOOKTITLE: Proceedings of the 3rd Workshop on Narrative Understanding
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    OWNER: riedl
+    TIMESTAMP: 2021.05.21
+    TITLE: 'Automatic Story Generation: Challenges and Attempts'
+    YEAR: '2021'
+  - bib: "236"
+    AUTHOR:
+      - name: "Wai Man Si"
+      - name: "Prithviraj Ammanabrolu"
+      - name: "Mark O. Riedl"
+    BIBTEXKEY: Si2021Dialogue
+    BIBTEX: |
+      @InProceedings{Si2021Dialogue,
+      author    = {Si, Wai Man and Ammanabrolu, Prithviraj and Riedl, Mark O.},
+      title     = {Telling Stories through Multi-User Dialogueby Modeling Character Relations},
+      booktitle = {Proceedings of the 2021 SIGDIAL Conference},
+      year      = {2021},
+      owner     = {riedl},
+      timestamp = {2021.05.26},
+      }
+    BOOKTITLE: Proceedings of the 2021 SIGDIAL Conference
+    CATEGORY: INPROCEEDINGS
+    EDITOR:
+      - name: "null"
+    OWNER: riedl
+    TIMESTAMP: 2021.05.26
+    TITLE: Telling Stories through Multi-User Dialogueby Modeling Character Relations
+    YEAR: '2021'
+  - bib: "237"
     AUTHOR:
       - name: "null"
     BIBTEXKEY: 'jabref-meta: databaseType:bibtex;'
