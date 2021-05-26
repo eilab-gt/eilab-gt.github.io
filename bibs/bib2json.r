@@ -9,7 +9,9 @@ args = commandArgs(trailingOnly=TRUE)
 #cat(z,file=args[2],sep="\n")
 
 #install.packages("bib2df", repos = "http://cran.us.r-project.org")
-install.packages("stringr")
+dir.create("temp", recursive = TRUE)  # create personal library
+.libPaths("temp")  # add to the path
+install.packages("stringr", repos = "http://cran.us.r-project.org")
 library(stringr)
 library(dplyr)
 library(jsonlite)
