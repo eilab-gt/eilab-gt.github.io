@@ -9,6 +9,7 @@ args = commandArgs(trailingOnly=TRUE)
 #cat(z,file=args[2],sep="\n")
 
 #install.packages("bib2df", repos = "http://cran.us.r-project.org")
+install.packages("stringr")
 library(stringr)
 library(dplyr)
 library(jsonlite)
