@@ -7,5 +7,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
       - run: cd bibs
-      - run: ./bib2yml.sh lab.bib pubs.yml
+      - run: ./bib2yaml.sh lab.bib pubs.yml
       - run: mv pubs.yml ../_data
