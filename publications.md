@@ -101,24 +101,24 @@ function toggleBibtex(obj) {
 {% for y in years %}
 <div class="year">{{ y }}</div>
 <p>
-{% for x in site.data.pubs.bibs %}
-  {% if x.YEAR == y %}
+{% for x in site.data.pubs.entries %}
+  {% if x.year == y %}
 	  <p>
-	  	{% for a in x.AUTHOR %}
-	  		{% if forloop.last == true and forloop.first == false %}and{% endif%} {{ a.name | replace:'~',' ' }}{% if forloop.last == false and forloop.length > 2 %},{% endif %}
+	  	{% for a in x.author %}
+	  		{% if forloop.last == true and forloop.first == false %}and{% endif%} {{ a.first }} {{ a.middle }} {{ a.last }}{% if forloop.last == false and forloop.length > 2 %},{% endif %}
 	  	{% endfor %}<br>
-	    <b>{{ x.TITLE }}</b><br>
-	    <em>{{ x.JOURNAL }}{{ x.BOOKTITLE }} 
-	    {{ x.VOLUME }} 
-	    ({{ x.YEAR }})</em>.<br>
-	    {% if x.URL %}
-	    	<a href="{{x.URL}}">{% if x.URL contains "arxiv" %}<span class="arxiv">arXiv</span>{% else %}<span class="pdf">PDF</span>{% endif %}</a>
+	    <b>{{ x.title }}</b><br>
+	    <em>{{ x.journal }}{{ x.booktitle }} 
+	    {{ x.volume }} 
+	    ({{ x.year }})</em>.<br>
+	    {% if x.url %}
+	    	<a href="{{x.url}}">{% if x.url contains "arxiv" %}<span class="arxiv">arXiv</span>{% else %}<span class="pdf">PDF</span>{% endif %}</a>
 	    {% endif %}
-	    {% if x.JOURNAL and x.VOLUME %}<span class="journal">Journal</span>{% endif %}
-	    {% if x.BOOKTITLE %}{% if x.BOOKTITLE contains "Workshop" %}<span class="workshop">Workshop</span>{% else%}<span class="conference">Conference</span>{% endif %}{% endif %}
-	    {% if x.BIBTEX %}
-	    <a onclick="toggleBibtex({{ x.BIBTEXKEY | replace: ':','' | replace: '-','' }});"><span class="bibbutton">bibtex</span></a><br>
-	    <div class="bibtex" id="{{ x.BIBTEXKEY | replace: ':','' | replace: '-','' }}" style="display: none;">{{ x.BIBTEX }}</div>
+	    {% if x.journal and x.volume %}<span class="journal">Journal</span>{% endif %}
+	    {% if x.booktitle %}{% if x.booktitle contains "Workshop" %}<span class="workshop">Workshop</span>{% else%}<span class="conference">Conference</span>{% endif %}{% endif %}
+	    {% if x.bibtex %}
+	    <a onclick="toggleBibtex({{ x.id }});"><span class="bibbutton">bibtex</span></a><br>
+	    <div class="bibtex" id="{{ x.id }}" style="display: none;">{{ x.bibtex }}</div>
 	    {% endif %}
 	  </p>
   {% endif %}
