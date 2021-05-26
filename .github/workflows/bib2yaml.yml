@@ -8,8 +8,4 @@ jobs:
       - uses: actions/setup-node@v1
       - run: pwd
       - run: ls
-      - run: cd bibs
-      - run: pwd
-      - run: ls
-      - run: bash bib2yaml.sh lab.bib pubs.yml
-      - run: mv pubs.yml ../_data
+      - run: bash workflow.sh 
