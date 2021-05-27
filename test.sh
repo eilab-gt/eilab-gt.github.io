@@ -1,7 +1,7 @@
 #!/bin/bash
 cd bibs
 echo "Bib 2 json"
-python bib2yml.py lab.bib temp1.json
+python bib2yml.py lab.bib temp1.yml
 echo "Fixing yml formatting"
 python fix.py temp1.yml temp2.yml
 echo "Adding bib back into yml"
