@@ -46,5 +46,5 @@ for line in open(sys.argv[2], 'r'):
       for b in bib.split('\n'):
          yaml = yaml + ' '*(len(spaces)+6) + b.strip() + '\n'
 
-with codecs.open(sys.argv[3], 'w', "utf-8") as f:
-   f.write(yaml.decode('utf-8', 'ignore'))
+with open(sys.argv[3], 'w') as f:
+   f.write(yaml)
