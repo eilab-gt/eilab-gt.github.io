@@ -6,6 +6,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
-      - run: pwd
-      - run: ls
       - run: bash test.sh 
+      - name: Update resources
+        uses: test-room-7/action-update-file@v1
+        with:
+          file-path: _data/pubs.yml
+          commit-msg: Rebuilt from bibtex
+          github-token: ${{ secrets.GITHUB_TOKEN }}
