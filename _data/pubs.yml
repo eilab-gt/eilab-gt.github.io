@@ -1,24 +1,4 @@
 entries:
-      - id: testy
-        bibtex: |
-            @InProceedings{testy,
-            author    = {Riedl, Mark O.},
-            title     = {This is a test},
-            booktitle = {Testy workshop},
-            year      = {2021},
-            editor    = {Mark Riedl},
-            }
-        type: InProceedings
-        title: This is a test
-        booktitle: Testy workshop
-        year: '2021'
-        author:
-        -   first: Mark
-            middle: O.
-            last: Riedl
-        editor:
-        -   first: Mark
-            last: Riedl
       - id: riedlaaaiss2009
         bibtex: |
             @InProceedings{riedl:aaai-ss2009,
