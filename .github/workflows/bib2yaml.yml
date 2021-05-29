@@ -1,5 +1,8 @@
 name: bib2yaml
-on: [push]
+on:
+  push:
+    paths:
+      - 'lab.bib'
 jobs:
   run-bib-2-yaml:
     runs-on: ubuntu-latest
