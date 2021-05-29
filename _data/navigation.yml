@@ -3,6 +3,8 @@ main:
     url: publications.html
   - title: "Members"
     url: members.html
+  - title: "Projects"
+    url: projects.html
   - title: "Theses"
     url: theses.html
   - title: "Mark Riedl"
