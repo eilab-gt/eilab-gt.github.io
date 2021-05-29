@@ -5558,7 +5558,7 @@ entries:
             title     = {Learning How Design Choices Impact Gameplay Behavior},
             journal   = {IEEE Transactions on Games},
             year      = {2018},
-            volume    = {forthcoming},
+            volume    = {11},
             owner     = {riedl},
             timestamp = {2018.03.12},
             url       = {https://ieeexplore.ieee.org/document/8307175},
@@ -5567,7 +5567,7 @@ entries:
         title: Learning How Design Choices Impact Gameplay Behavior
         journal: IEEE Transactions on Games
         year: '2018'
-        volume: forthcoming
+        volume: '11'
         owner: riedl
         timestamp: 2018.03.12
         url: https://ieeexplore.ieee.org/document/8307175
