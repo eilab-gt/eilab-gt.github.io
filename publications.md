@@ -94,7 +94,7 @@ a:link, a:visited, a:hover, a:active {text-decoration: none;}
 {% for y in site.data.years %}
 ## {{ y }}
 <p>
-{% for x in site.data.pubs.entries %}
+{% for x in site.data.pubs.entries reversed %}
   {% assign ystr = y | downcase %}
   {% if x.year == ystr %}
 	  <p>
