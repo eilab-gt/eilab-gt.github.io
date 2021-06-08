@@ -6809,3 +6809,31 @@ entries:
         -   first: Mark
             middle: O.
             last: Riedl
+      - id: Balloch2021Novelty
+        bibtex: |
+            @InProceedings{Balloch2021Novelty,
+            author    = {Xiangyu Peng and Balloch, Jonathan C. and Riedl, Mark O.},
+            title     = {Detecting and Adapting to Novelty in Games},
+            booktitle = {Proceedings of the AAAI21 Workshop on on Reinforcement Learning in Games},
+            year      = {2021},
+            owner     = {riedl},
+            timestamp = {2021.06.08},
+            url       = {https://arxiv.org/abs/2106.02204},
+            }
+        type: InProceedings
+        title: Detecting and Adapting to Novelty in Games
+        booktitle: Proceedings of the AAAI21 Workshop on on Reinforcement Learning
+            in Games
+        year: '2021'
+        owner: riedl
+        timestamp: 2021.06.08
+        url: https://arxiv.org/abs/2106.02204
+        author:
+        -   first: Xiangyu
+            last: Peng
+        -   first: Jonathan
+            middle: C.
+            last: Balloch
+        -   first: Mark
+            middle: O.
+            last: Riedl
