@@ -3125,12 +3125,14 @@ entries:
             author  = {{Lin}, Z. and {Harrison}, B. and {Keech}, A. and {Riedl}, M.~O.},
             title   = {{Explore, Exploit or Listen: Combining Human Feedback and Policy Model to Speed up Deep Reinforcement Learning in 3D Worlds}},
             journal = {ArXiv:1709.03969},
+            year    = {2017},
             url     = {https://arxiv.org/abs/1709.03969},
             }
         type: Article
         title: 'Explore, Exploit or Listen: Combining Human Feedback and Policy Model
             to Speed up Deep Reinforcement Learning in 3D Worlds'
         journal: ArXiv:1709.03969
+        year: '2017'
         url: https://arxiv.org/abs/1709.03969
         author:
         -   first: Z.
@@ -6240,13 +6242,13 @@ entries:
         bibtex: |
             @InProceedings{dambekodi20commonsense,
             author    = {Dambekodi, Sahith and Frazier, Spencer and Ammanabrolu, Prithviraj and Riedl, Mark O},
-            title     = {NeurIPS Workshop on Wordplay: When Language Meets Games},
+            title     = {Playing Text-Based Games with Common Sense},
             booktitle = {arXiv preprint arXiv:2012.02757},
             year      = {2020},
             url       = {https://arxiv.org/abs/2012.02757},
             }
         type: InProceedings
-        title: 'NeurIPS Workshop on Wordplay: When Language Meets Games'
+        title: Playing Text-Based Games with Common Sense
         booktitle: arXiv preprint arXiv:2012.02757
         year: '2020'
         url: https://arxiv.org/abs/2012.02757
