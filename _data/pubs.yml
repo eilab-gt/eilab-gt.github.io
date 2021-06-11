@@ -6770,6 +6770,7 @@ entries:
             year      = {2021},
             owner     = {riedl},
             timestamp = {2021.05.21},
+            url       = {https://arxiv.org/abs/2102.12634},
             }
         type: InProceedings
         title: 'Automatic Story Generation: Challenges and Attempts'
@@ -6777,6 +6778,7 @@ entries:
         year: '2021'
         owner: riedl
         timestamp: 2021.05.21
+        url: https://arxiv.org/abs/2102.12634
         author:
         -   first: Amal
             last: Alabdulkarim
@@ -6793,6 +6795,7 @@ entries:
             year      = {2021},
             owner     = {riedl},
             timestamp = {2021.05.26},
+            url       = {https://arxiv.org/abs/2105.15054},
             }
         type: InProceedings
         title: Telling Stories through Multi-User Dialogue by Modeling Character Relations
@@ -6800,6 +6803,7 @@ entries:
         year: '2021'
         owner: riedl
         timestamp: 2021.05.26
+        url: https://arxiv.org/abs/2105.15054
         author:
         -   first: Wai
             middle: Man
