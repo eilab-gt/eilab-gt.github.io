@@ -6243,13 +6243,13 @@ entries:
             @InProceedings{dambekodi20commonsense,
             author    = {Dambekodi, Sahith and Frazier, Spencer and Ammanabrolu, Prithviraj and Riedl, Mark O},
             title     = {Playing Text-Based Games with Common Sense},
-            booktitle = {arXiv preprint arXiv:2012.02757},
+            booktitle = {Proceedings of the NeurIPS Wordplay workshop},
             year      = {2020},
             url       = {https://arxiv.org/abs/2012.02757},
             }
         type: InProceedings
         title: Playing Text-Based Games with Common Sense
-        booktitle: arXiv preprint arXiv:2012.02757
+        booktitle: Proceedings of the NeurIPS Wordplay workshop
         year: '2020'
         url: https://arxiv.org/abs/2012.02757
         author:
