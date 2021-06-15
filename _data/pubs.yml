@@ -6841,3 +6841,25 @@ entries:
         -   first: Mark
             middle: O.
             last: Riedl
+      - id: Ammanabrolu2021Modeling
+        bibtex: |
+            @Unpublished{Ammanabrolu2021Modeling,
+            author    = {Ammanabrolu, Prithviraj and Riedl, Mark O.},
+            title     = {Modeling Worlds in Text},
+            year      = {2021},
+            owner     = {riedl},
+            timestamp = {2021.06.15},
+            url       = {https://openreview.net/pdf/157caa3b7153f294d96d972693643ce54b3806b0.pdf},
+            }
+        type: Unpublished
+        title: Modeling Worlds in Text
+        year: '2021'
+        owner: riedl
+        timestamp: 2021.06.15
+        url: https://openreview.net/pdf/157caa3b7153f294d96d972693643ce54b3806b0.pdf
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Mark
+            middle: O.
+            last: Riedl
