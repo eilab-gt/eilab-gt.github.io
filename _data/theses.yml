@@ -1,7 +1,7 @@
 - name: Mark O. Riedl
   title: "Narrative Generation: Balancing Plot and Character"
   institute: North Carolina State University
-  url: https://www.cc.gatech.edu/~riedl/pubs/thesis.pdf
+  url: https://www.cc.gatech.edu/~riedl/pubs/dissertation.pdf
   year: 2004
   abstract: |
     The ability to generate narrative is of importance to computer systems that wish to use story effectively for a wide range of contexts ranging from entertainment to training and education. The typical approach for incorporating narrative into a computer system is for system builders to script the narrative features at design time. A central limitation of this pre- scripting approach is its lack of flexibility -- such systems cannot adapt the story to the user’s interests, preferences, or abilities. The alternative approach is for the computer systems themselves to generate narrative that is fully adapted to the user at run time.
