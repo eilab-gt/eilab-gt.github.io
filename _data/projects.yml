@@ -94,4 +94,10 @@
     requiring sample-inefficient trial-and-error learning to update the 
     policy model. In this work, we seek to develop algorithms that learn the "rules
     of the game", detect when the rules change, and rapidly adapt to the novelty.
+  pubs: 
+    - id: Balloch2021Novelty
+      context: >
+        We propose a new agent architecture for reinforcement learning agents that
+        can detect novelty in the "rules of the game" and imagine how the new rules
+        work, retraining on its imagination.
 
