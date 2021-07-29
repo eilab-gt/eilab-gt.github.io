@@ -6599,7 +6599,7 @@ entries:
             @InProceedings{LinPlug2021,
             author    = {Zhiyu Lin and Riedl, Mark O.},
             title     = {Plug-and-Blend: A Framework for Controllable Story Generation with Blended Control Codes},
-            booktitle = {Proceedings of the 3rd Workshop on Narrative Understanding},
+            booktitle = {Proceedings of the 2021 AAAI Conference on AI and Interactive Digital Entertainment},
             year      = {2021},
             owner     = {riedl},
             timestamp = {2021.05.21},
@@ -6608,7 +6608,8 @@ entries:
         type: InProceedings
         title: 'Plug-and-Blend: A Framework for Controllable Story Generation with
             Blended Control Codes'
-        booktitle: Proceedings of the 3rd Workshop on Narrative Understanding
+        booktitle: Proceedings of the 2021 AAAI Conference on AI and Interactive Digital
+            Entertainment
         year: '2021'
         owner: riedl
         timestamp: 2021.05.21
@@ -6843,16 +6844,19 @@ entries:
             last: Riedl
       - id: Ammanabrolu2021Modeling
         bibtex: |
-            @Unpublished{Ammanabrolu2021Modeling,
+            @InProceedings{Ammanabrolu2021Modeling,
             author    = {Ammanabrolu, Prithviraj and Riedl, Mark O.},
             title     = {Modeling Worlds in Text},
+            booktitle = {Proceedings of the 2021 Conference on Neural Information Processing Systems},
             year      = {2021},
             owner     = {riedl},
             timestamp = {2021.06.15},
             url       = {https://openreview.net/pdf/157caa3b7153f294d96d972693643ce54b3806b0.pdf},
             }
-        type: Unpublished
+        type: InProceedings
         title: Modeling Worlds in Text
+        booktitle: Proceedings of the 2021 Conference on Neural Information Processing
+            Systems
         year: '2021'
         owner: riedl
         timestamp: 2021.06.15
