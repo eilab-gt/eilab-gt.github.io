@@ -6927,3 +6927,27 @@ entries:
         -   first: Mark
             middle: O.
             last: Riedl
+      - id: Wiegreffe2021TeachExplain
+        bibtex: |
+            @InProceedings{Wiegreffe2021TeachExplain,
+            author    = {Sarah Wiegreffe and Ana Marasovic},
+            title     = {Teach Me to Explain: A Review of Datasets for Explainable {NLP}},
+            booktitle = {Proceedings of the 2021 Conference on Neural Information Processing Systems},
+            year      = {2021},
+            owner     = {riedl},
+            timestamp = {2021.07.29},
+            url       = {https://arxiv.org/abs/2102.12060},
+            }
+        type: InProceedings
+        title: 'Teach Me to Explain: A Review of Datasets for Explainable NLP'
+        booktitle: Proceedings of the 2021 Conference on Neural Information Processing
+            Systems
+        year: '2021'
+        owner: riedl
+        timestamp: 2021.07.29
+        url: https://arxiv.org/abs/2102.12060
+        author:
+        -   first: Sarah
+            last: Wiegreffe
+        -   first: Ana
+            last: Marasovic
