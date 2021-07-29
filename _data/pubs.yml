@@ -6887,3 +6887,39 @@ entries:
         -   first: Mark
             middle: O.
             last: Riedl
+      - id: Ehsan2021Who
+        bibtex: |
+            @Article{Ehsan2021Who,
+            author    = {Upol Ehsan and Samir Passi and Liao, Q. Vera and Larry Chan and Lee, I-Hsiang and Michael Muller and Riedl, Mark O.},
+            title     = {The Who in Explainable {AI}: How AI Background Shapes Perceptions of {AI} Explanations},
+            journal   = {arXiv:2107.13509},
+            year      = {2021},
+            owner     = {riedl},
+            timestamp = {2021.07.29},
+            url       = {https://arxiv.org/abs/2107.13509},
+            }
+        type: Article
+        title: 'The Who in Explainable AI: How AI Background Shapes Perceptions
+            of AI Explanations'
+        journal: arXiv:2107.13509
+        year: '2021'
+        owner: riedl
+        timestamp: 2021.07.29
+        url: https://arxiv.org/abs/2107.13509
+        author:
+        -   first: Upol
+            last: Ehsan
+        -   first: Samir
+            last: Passi
+        -   first: Q.
+            middle: Vera
+            last: Liao
+        -   first: Larry
+            last: Chan
+        -   first: I-Hsiang
+            last: Lee
+        -   first: Michael
+            last: Muller
+        -   first: Mark
+            middle: O.
+            last: Riedl
