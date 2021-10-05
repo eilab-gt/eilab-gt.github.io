@@ -6977,3 +6977,32 @@ entries:
         -   first: Noah
             middle: A.
             last: Smith
+      - id: Baheti2021JustSayNo
+        bibtex: |
+            @InProceedings{Baheti2021JustSayNo,
+            author    = {Ashutosh Baheti and Maarten Sap and Alan Ritter and Riedl, Mark O.},
+            title     = {Just Say No: Analyzing the Stance of Neural Dialogue Generation in Offensive Contexts},
+            booktitle = {Proceedings of EMNLP 2021},
+            year      = {2021},
+            owner     = {riedl},
+            timestamp = {2021.09.01},
+            url       = {https://arxiv.org/abs/2108.11830},
+            }
+        type: InProceedings
+        title: 'Just Say No: Analyzing the Stance of Neural Dialogue Generation in
+            Offensive Contexts'
+        booktitle: Proceedings of EMNLP 2021
+        year: '2021'
+        owner: riedl
+        timestamp: 2021.09.01
+        url: https://arxiv.org/abs/2108.11830
+        author:
+        -   first: Ashutosh
+            last: Baheti
+        -   first: Maarten
+            last: Sap
+        -   first: Alan
+            last: Ritter
+        -   first: Mark
+            middle: O.
+            last: Riedl
