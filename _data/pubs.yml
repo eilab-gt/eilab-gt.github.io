@@ -6847,7 +6847,7 @@ entries:
             @InProceedings{Ammanabrolu2021Modeling,
             author    = {Ammanabrolu, Prithviraj and Riedl, Mark O.},
             title     = {Modeling Worlds in Text},
-            booktitle = {Proceedings of the 2021 Conference on Neural Information Processing Systems},
+            booktitle = {Proceedings of the 2021 Conference on Neural Information Processing Systems, Benchmarks Track},
             year      = {2021},
             owner     = {riedl},
             timestamp = {2021.06.15},
@@ -6856,7 +6856,7 @@ entries:
         type: InProceedings
         title: Modeling Worlds in Text
         booktitle: Proceedings of the 2021 Conference on Neural Information Processing
-            Systems
+            Systems, Benchmarks Track
         year: '2021'
         owner: riedl
         timestamp: 2021.06.15
@@ -7005,4 +7005,43 @@ entries:
             last: Ritter
         -   first: Mark
             middle: O.
+            last: Riedl
+      - id: peng2021explainable
+        bibtex: |
+            @InProceedings{peng2021explainable,
+            author    = {Xiangyu Peng and Prithviraj Ammanabrolu and Mark Riedl},
+            title     = {Explainable Reinforcement Learning Agents with Stacked Hierarchical Graph Attention},
+            booktitle = {Workshop on Explainable Graph-based Machine Learning at AKBC},
+            year      = {2021},
+            }
+        type: InProceedings
+        title: Explainable Reinforcement Learning Agents with Stacked Hierarchical
+            Graph Attention
+        booktitle: Workshop on Explainable Graph-based Machine Learning at AKBC
+        year: '2021'
+        author:
+        -   first: Xiangyu
+            last: Peng
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Mark
+            last: Riedl
+      - id: ammanabrolu2021learning
+        bibtex: |
+            @InProceedings{ammanabrolu2021learning,
+            author    = {Prithviraj Ammanabrolu and Mark Riedl},
+            title     = {Learning Knowledge Graph-based World Models of Textual Environments},
+            booktitle = {Thirty-fifth Conference on Neural Information Processing Systems},
+            year      = {2021},
+            url       = {https://arxiv.org/abs/2106.09608},
+            }
+        type: InProceedings
+        title: Learning Knowledge Graph-based World Models of Textual Environments
+        booktitle: Thirty-fifth Conference on Neural Information Processing Systems
+        year: '2021'
+        url: https://arxiv.org/abs/2106.09608
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Mark
             last: Riedl
