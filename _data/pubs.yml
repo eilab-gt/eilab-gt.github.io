@@ -4477,14 +4477,14 @@ entries:
             @InProceedings{riedl:arxiv:matrix2017,
             author    = {Riedl, Mark~O. and Harrison, Brent.},
             title     = {{Enter the Matrix: A Virtual World Approach to Safely Interruptable Autonomous Systems}},
-            booktitle = {Proceedings of the AAAI 2019 Workshop on SafeAI},
+            booktitle = {Proceedings of the AAAI 2017 Workshop on SafeAI},
             year      = {2017},
             url       = {https://arxiv.org/abs/1703.10284},
             }
         type: InProceedings
         title: 'Enter the Matrix: A Virtual World Approach to Safely Interruptable
             Autonomous Systems'
-        booktitle: Proceedings of the AAAI 2019 Workshop on SafeAI
+        booktitle: Proceedings of the AAAI 2017 Workshop on SafeAI
         year: '2017'
         url: https://arxiv.org/abs/1703.10284
         author:
