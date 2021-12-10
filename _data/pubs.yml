@@ -7023,18 +7023,18 @@ entries:
             last: Riedl
       - id: Ehsan2021Pitfalls
         bibtex: |
-            @Article{Ehsan2021Pitfalls,
+            @InProceedings{Ehsan2021Pitfalls,
             author    = {Ehsan, Upol and Riedl, Mark O.},
             title     = {Explainability Pitfalls: Beyond Dark Patterns in Explainable AI},
-            journal   = {Proceedings of the NeurIPS Workshop on Human Centered AI},
+            booktitle = {Proceedings of the NeurIPS Workshop on Human Centered AI},
             year      = {2021},
             owner     = {riedl},
             timestamp = {2021.12.10},
             url       = {https://arxiv.org/abs/2109.12480},
             }
-        type: Article
+        type: InProceedings
         title: 'Explainability Pitfalls: Beyond Dark Patterns in Explainable AI'
-        journal: Proceedings of the NeurIPS Workshop on Human Centered AI
+        booktitle: Proceedings of the NeurIPS Workshop on Human Centered AI
         year: '2021'
         owner: riedl
         timestamp: 2021.12.10
