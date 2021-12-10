@@ -6867,30 +6867,6 @@ entries:
         -   first: Mark
             middle: O.
             last: Riedl
-      - id: Ammanabrolu2021LearningGraphs
-        bibtex: |
-            @Article{Ammanabrolu2021LearningGraphs,
-            author    = {Prithviraj Ammanabrolu and Riedl, Mark O.},
-            title     = {Learning Knowledge Graph-based World Models of Textual Environments},
-            journal   = {arXiv},
-            year      = {2021},
-            owner     = {riedl},
-            timestamp = {2021.07.13},
-            url       = {https://arxiv.org/abs/2106.09608},
-            }
-        type: Article
-        title: Learning Knowledge Graph-based World Models of Textual Environments
-        journal: arXiv
-        year: '2021'
-        owner: riedl
-        timestamp: 2021.07.13
-        url: https://arxiv.org/abs/2106.09608
-        author:
-        -   first: Prithviraj
-            last: Ammanabrolu
-        -   first: Mark
-            middle: O.
-            last: Riedl
       - id: Ehsan2021Who
         bibtex: |
             @Article{Ehsan2021Who,
