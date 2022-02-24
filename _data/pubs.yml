@@ -7075,3 +7075,121 @@ entries:
         -   first: Mark
             middle: O.
             last: Riedl
+      - id: Ammanabrolu2022Situated
+        bibtex: |
+            @InProceedings{Ammanabrolu2022Situated,
+            author    = {Prithviraj Ammanabrolu and Renee Jia and Riedl, Mark O.},
+            title     = {Situated Dialogue Learning through Procedural Environment Generation},
+            booktitle = {Proceedings of ACL 2022},
+            year      = {2022},
+            owner     = {riedl},
+            timestamp = {2022.02.24},
+            url       = {https://arxiv.org/abs/2110.03262},
+            }
+        type: InProceedings
+        title: Situated Dialogue Learning through Procedural Environment Generation
+        booktitle: Proceedings of ACL 2022
+        year: '2022'
+        owner: riedl
+        timestamp: 2022.02.24
+        url: https://arxiv.org/abs/2110.03262
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Renee
+            last: Jia
+        -   first: Mark
+            middle: O.
+            last: Riedl
+      - id: Wiegreffe2021Reframing
+        bibtex: |
+            @Article{Wiegreffe2021Reframing,
+            author    = {Sarah Wiegreffe and Jack Hessel and Swabha Swayamdipta and Riedl, Mark O. and Yejin Choi},
+            title     = {Reframing Human-AI Collaboration for Generating Free-Text Explanations},
+            journal   = {arXiv:2112.08674},
+            year      = {2021},
+            owner     = {riedl},
+            timestamp = {2022.02.24},
+            url       = {https://arxiv.org/abs/2112.08674},
+            }
+        type: Article
+        title: Reframing Human-AI Collaboration for Generating Free-Text Explanations
+        journal: arXiv:2112.08674
+        year: '2021'
+        owner: riedl
+        timestamp: 2022.02.24
+        url: https://arxiv.org/abs/2112.08674
+        author:
+        -   first: Sarah
+            last: Wiegreffe
+        -   first: Jack
+            last: Hessel
+        -   first: Swabha
+            last: Swayamdipta
+        -   first: Mark
+            middle: O.
+            last: Riedl
+        -   first: Yejin
+            last: Choi
+      - id: Peng2021ReaderModels
+        bibtex: |
+            @Article{Peng2021ReaderModels,
+            author    = {Xiangyu Peng and Kaige Xie and Amal Alabdulkarim and Harshith Kayam and Samihan Dani and Riedl, Mark O.},
+            title     = {Guiding Neural Story Generation with Reader Models},
+            journal   = {arXiv:2112.08596},
+            year      = {2021},
+            owner     = {riedl},
+            timestamp = {2022.02.24},
+            url       = {https://arxiv.org/abs/2112.08596},
+            }
+        type: Article
+        title: Guiding Neural Story Generation with Reader Models
+        journal: arXiv:2112.08596
+        year: '2021'
+        owner: riedl
+        timestamp: 2022.02.24
+        url: https://arxiv.org/abs/2112.08596
+        author:
+        -   first: Xiangyu
+            last: Peng
+        -   first: Kaige
+            last: Xie
+        -   first: Amal
+            last: Alabdulkarim
+        -   first: Harshith
+            last: Kayam
+        -   first: Samihan
+            last: Dani
+        -   first: Mark
+            middle: O.
+            last: Riedl
+      - id: Alabdulkarim2021GoalDirected
+        bibtex: |
+            @Article{Alabdulkarim2021GoalDirected,
+            author    = {Amal Alabdulkarim and Winston Li and Martin, Lara J. and Riedl, Mark O.},
+            title     = {Goal-Directed Story Generation: Augmenting Generative Language Models with Reinforcement Learning},
+            journal   = {arXiv:2112.08593},
+            year      = {2021},
+            owner     = {riedl},
+            timestamp = {2022.02.24},
+            url       = {https://arxiv.org/abs/2112.08593},
+            }
+        type: Article
+        title: 'Goal-Directed Story Generation: Augmenting Generative Language Models
+            with Reinforcement Learning'
+        journal: arXiv:2112.08593
+        year: '2021'
+        owner: riedl
+        timestamp: 2022.02.24
+        url: https://arxiv.org/abs/2112.08593
+        author:
+        -   first: Amal
+            last: Alabdulkarim
+        -   first: Winston
+            last: Li
+        -   first: Lara
+            middle: J.
+            last: Martin
+        -   first: Mark
+            middle: O.
+            last: Riedl
