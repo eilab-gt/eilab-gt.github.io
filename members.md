@@ -55,3 +55,11 @@ title: Members
   </li>
 {% endfor %}
 </ul>
+
+**Affiliated**
+
+<ul>
+{% for x in site.data.affiliated.members %}
+  <li>
+    <a href="{{ x.website}}">{{ x.name }}</a>
+  </li>
