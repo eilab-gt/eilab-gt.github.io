@@ -61,5 +61,6 @@ title: Members
 <ul>
 {% for x in site.data.affiliated.members %}
   <li>
-    <a href="{{ x.website}}">{{ x.name }}</a>
+    <a href="{{ x.website }}">{{ x.name }}</a>
   </li>
+</ul>
