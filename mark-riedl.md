@@ -4,7 +4,7 @@ title: Mark Riedl
 classes: wide
 sidebar:
   - image: /assets/images/mark-potato.jpg
-  - text: "**Anne and Alan Taetle Term Professor**"
+  - text: "**Professor**"
   - text: "School of Interactive Computing, College of Computing, Georgia Institute of Technology"
   - text: "**Associate Director**"
   - text: Georgia Tech Machine Learning Center
