@@ -63,4 +63,5 @@ title: Members
   <li>
     <a href="{{ x.website }}">{{ x.name }}</a>
   </li>
+{% endfor %}
 </ul>
