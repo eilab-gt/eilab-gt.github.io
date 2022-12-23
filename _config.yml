@@ -42,6 +42,9 @@ twitter:
 og_image: /assets/images/ei-logo.gif
 footer:
   links:
+    - label: "Mastodon"
+      icon: "fab fa-mastodon"
+      url: "https://sigmoid.social/@Riedl"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mark_riedl"
