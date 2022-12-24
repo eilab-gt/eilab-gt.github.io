@@ -9,7 +9,7 @@ sidebar:
   - text: "**Associate Director**"
   - text: Georgia Tech Machine Learning Center
   - title: "Contact"
-  - text: <i class="fab fa-mastodon"></i> <a rel="me" href="https://sigmoid.social/@riedl">@riedl@sigmoid.social</a>
+  - text: <i class="fab fa-mastodon"></i> <a rel="me" href="https://sigmoid.social/@Riedl">@riedl@sigmoid.social</a>
   - text: '<i class="fab fa-fw fa-twitter-square"></i> <a href="https://twitter.com/mark_riedl">@mark_riedl</a>'
   - text: '<i class="fas fa-inbox"></i> <a href="mailto:riedl@cc.gatech.edu">riedl@cc.gatech.edu</a>'
   - text: '<i class="fas fa-building"></i> CODA building S1123'
