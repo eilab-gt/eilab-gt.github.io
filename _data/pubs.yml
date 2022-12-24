@@ -7306,7 +7306,7 @@ entries:
         bibtex: |
             @InProceedings{Ehsan2022SCOT,
             author    = {Upol Ehsan, and Riedl, Mark O.},
-            booktitle = {Proceedings of the NeurIPS 2022 Workshop on Human-Centered {AI}},
+            booktitle = {Proceedings of the NeurIPS 2022 Workshop on Human-Centered AI},
             title     = {Social Construction of XAI: Do We Need One Definition to Rule Them All?},
             year      = {2022},
             owner     = {riedl},
