@@ -7543,3 +7543,90 @@ entries:
             last: Riedl
         -   first: Prithviraj
             last: Ammanabrolu
+      - id: Alabdulkarim2023Experiential
+        bibtex: |
+            @inproceedings{Alabdulkarim2023Experiential,
+            title={Experiential Explanations for Reinforcement Learning},
+            author={Amal Alabdulkarim and Gennie Mansi and Kaely Hall and Riedl, Mark O.},
+            booktitle={Proceedings of the IJCAI 2023 Workshop on Explainable Artificial Intelligence},
+            year={2023},
+            url={https://arxiv.org/abs/2210.04723}
+            }
+        type: inproceedings
+        title: Experiential Explanations for Reinforcement Learning
+        booktitle: Proceedings of the IJCAI 2023 Workshop on Explainable Artificial
+            Intelligence
+        year: '2023'
+        url: https://arxiv.org/abs/2210.04723
+        author:
+        -   first: Amal
+            last: Alabdulkarim
+        -   first: Gennie
+            last: Mansi
+        -   first: Kaely
+            last: Hall
+        -   first: Mark
+            middle: O.
+            last: Riedl
+      - id: Balloch2022TheRole
+        bibtex: |
+            @inproceedings{Balloch2022TheRole,
+            title={The Role of Exploration for Task Transfer in Reinforcement Learning},
+            author={Jonathan C. Balloch and Julia Kim and Jessica B. Langebrake Inman and Mark O. Riedl},
+            booktitle={Proceedings of the IROS 2022 Workshop on Lifelong Learning of High-level Cognitive and Reasoning Skills},
+            year={2022},
+            url={https://arxiv.org/abs/2210.06168}
+            }
+        type: inproceedings
+        title: The Role of Exploration for Task Transfer in Reinforcement Learning
+        booktitle: Proceedings of the IROS 2022 Workshop on Lifelong Learning of High-level
+            Cognitive and Reasoning Skills
+        year: '2022'
+        url: https://arxiv.org/abs/2210.06168
+        author:
+        -   first: Jonathan
+            middle: C.
+            last: Balloch
+        -   first: Julia
+            last: Kim
+        -   first: Jessica
+            middle: B. Langebrake
+            last: Inman
+        -   first: Mark
+            middle: O.
+            last: Riedl
+      - id: Balloch2023WorldModels
+        bibtex: |
+            @inproceedings{Balloch2023WorldModels,
+            author = {Balloch, Jonathan C. and Lin, Zhiyu and Peng, Xiangyu and Hussain, Mustafa and Srinivas, Aarun and Wright, Robert and Kim, Julia M. and Riedl, Mark O.},
+            title = {Neuro-Symbolic World Models for Adapting to Open World Novelty},
+            year = {2023},
+            booktitle = {Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems},
+            url={https://arxiv.org/abs/2301.06294}
+            }
+        type: inproceedings
+        title: Neuro-Symbolic World Models for Adapting to Open World Novelty
+        year: '2023'
+        booktitle: Proceedings of the 2023 International Conference on Autonomous
+            Agents and Multiagent Systems
+        url: https://arxiv.org/abs/2301.06294
+        author:
+        -   first: Jonathan
+            middle: C.
+            last: Balloch
+        -   first: Zhiyu
+            last: Lin
+        -   first: Xiangyu
+            last: Peng
+        -   first: Mustafa
+            last: Hussain
+        -   first: Aarun
+            last: Srinivas
+        -   first: Robert
+            last: Wright
+        -   first: Julia
+            middle: M.
+            last: Kim
+        -   first: Mark
+            middle: O.
+            last: Riedl
