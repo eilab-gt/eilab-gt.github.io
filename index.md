@@ -12,15 +12,24 @@ author:
   avatar: "/assets/images/mark-potato.jpg"
   bio: "**Professor** School of Interactive Computing, College of Computing, Georgia Institute of Technology **Associate Director** GT Machine Learning Center"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mark_riedl"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=Yg_QjxcAAAAJ&hl=en"
     - label: "Semantic Scholar"
       icon: "fas fa-book-open"
       url: "https://www.semanticscholar.org/author/Mark-O.-Riedl/2757194"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mark_riedl"
+    - label: "Mastodon"
+      icon: ""fa-brands fa-mastodon"
+      url: "https://sigmoid.social/@Riedl"
+    - label: "BlueSky"
+      icon: "fa-solid fa-square-full"
+      url: "https://bsky.app/profile/markriedl.bsky.social"
+    - label: "Threads"
+      icon: "fa-brands fa-threads"
+      url: "https://www.threads.net/@mark.riedl"
 
 ---
 
