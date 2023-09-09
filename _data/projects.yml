@@ -110,7 +110,7 @@
     for teaching AI systems sociocultural norms and biasing agent behavior (whether
     a generative language model or a reinforcement learning agent) toward 
     agreed upon norms for a particular society.
-  pubs: 
+  pubs:    
     - id: Frazier2020LearningNF
       context: >
         We introduce a neural model that can classify textual descriptions of
