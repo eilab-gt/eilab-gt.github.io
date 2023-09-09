@@ -6,10 +6,10 @@ members:
     where: Allen Institute for Artificial Intelligence
     website: http://prithvirajva.com/
   - name: Kristin Siu
-    where: Microsoft
+    where: Riot Games
     website: https://www.algorithmicallyanimated.com/
   - name: Lara Martin
-    where: CI Fellow, University of Pennsylvania 
+    where: Faculty, University of Maryland, Baltimore County 
     website: https://laramartin.net/
   - name: Matthew Guzdial
     where: Faculty, University of Alberta
@@ -24,5 +24,5 @@ members:
     where: Apple
     website: None
   - name: Brian O'Neill
-    where: Faculty, Western New England University
-    website: http://mars.wne.edu/~bo338376/
+    where: Faculty, Quinnipiac University
+    website: https://www.qu.edu/faculty-and-staff/brian-oneill/
