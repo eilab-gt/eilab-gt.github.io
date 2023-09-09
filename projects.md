@@ -95,8 +95,9 @@ a:link, a:visited, a:hover, a:active {text-decoration: none;}
 	color: gray;
 }
 </style>
+<small>
 | Projects: | {% for proj in site.data.projects %}| <a href="#{{ proj.name | downcase | replace: ' ', '-' }}">{{ proj.name }}</a> |{% endfor %} |
-
+</small>
 
 {% for proj in site.data.projects %}
 
