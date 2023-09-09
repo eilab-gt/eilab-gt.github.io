@@ -62,7 +62,7 @@
     We also seek to build co-creative agents, which are capable of interacting with 
     human creators as peers.
   pubs:
-    - id: guzdial:aiide2018
+    - id: Guzdial2018AutomatedGD
       context: A computational theory of creativity put to use to create fully playable games.
     - id: Lin2023Beyond
       context: A study of how humans and co-creative agents can communicate their creative intentions to each other.
@@ -72,9 +72,9 @@
     We explore AI techniques for procedural content generation and game generation 
     in the context of 2D platformer games, text worlds, rhythm action games, and more.
   pubs:
-    - id: guzdial:aiide2016
+    - id: Guzdial2016GameplayVideos
       context: Learning to generate Super Mario Bros. levels from online gameplay videos. 
-    - id: lin:aiide2019
+    - id: Lin2019GenerationMania
       context: Generating rhythm action games using neural networks.
     - id: ammanabrolu2020bringing
       context: Generating playable text game worlds from story inputs.
