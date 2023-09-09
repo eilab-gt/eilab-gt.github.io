@@ -27,10 +27,11 @@ author:
 The Entertainment Intelligence and Human-Centered AI Labs seek to make fundamental contributions to the fields of artificial intelligence and machine learning by researching intelligent systems that can understand and enhance the human condition.
 
 Research projects include:
-- Automated story generation and understanding
-- Game playing agents
-- Computational creativity
-- Procedural content generation
-- Explainable AI
-- Safe AI systems
-- Dialogue agents
+- <a href="http://eilab.gatech.edu/projects.html#automated-story-generation">Automated story generation</a>
+- <a href="http://eilab.gatech.edu/projects.html#text-games-and-open-ended-role-playing">Text game and open-ended role-playing agents</a>
+- <a href="http://eilab.gatech.edu/projects.html#dialogue-agents">Dialogue agents</a>
+- <a href="http://eilab.gatech.edu/projects.html#computational-creativity">Computational creativity</a>
+- <a href="http://eilab.gatech.edu/projects.html#procedural-content-generation">Procedural content generation</a>
+- <a href="http://eilab.gatech.edu/projects.html#explainable-ai">Explainable AI</a>
+- <a href="http://eilab.gatech.edu/projects.html#value-alignment">Value alignment</a>
+- <a href="http://eilab.gatech.edu/projects.html#novelty-adaptation">Novelty adaptation</a>
