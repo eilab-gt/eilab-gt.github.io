@@ -1972,21 +1972,21 @@ entries:
         -   first: Mark
             middle: O.
             last: Riedl
-      - id: guzdialaiide2018
+      - id: Guzdial2018AutomatedGD
         bibtex: |
-            @InProceedings{guzdial:aiide2018,
+            @InProceedings{Guzdial2018AutomatedGD,
             author    = {Guzdial, Matthew and Riedl, Mark O.},
-            title     = {Automated Game Design via Conceptual Expansion},
             booktitle = {Proceedings of the 2018 AAAI Conference on AI and Interactive Digital Entertainment},
+            title     = {Automated Game Design via Conceptual Expansion},
             year      = {2018},
             owner     = {riedl},
             timestamp = {2018.07.19},
             url       = {https://arxiv.org/abs/1809.02232},
             }
         type: InProceedings
-        title: Automated Game Design via Conceptual Expansion
         booktitle: Proceedings of the 2018 AAAI Conference on AI and Interactive Digital
             Entertainment
+        title: Automated Game Design via Conceptual Expansion
         year: '2018'
         owner: riedl
         timestamp: 2018.07.19
@@ -2047,21 +2047,21 @@ entries:
         -   first: Mark
             middle: O.
             last: Riedl
-      - id: guzdialaiide2016
+      - id: Guzdial2016GameplayVideos
         bibtex: |
-            @InProceedings{guzdial:aiide2016,
+            @InProceedings{Guzdial2016GameplayVideos,
             author    = {Guzdial, Matthew and Riedl, Mark O.},
-            title     = {Game Level Generation from Gameplay Videos},
             booktitle = {Proceedings of the 2016 AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+            title     = {Game Level Generation from Gameplay Videos},
             year      = {2016},
             owner     = {riedl},
             timestamp = {2016.06.08},
             url       = {http://www.cc.gatech.edu/~riedl/pubs/guzdial-aiide16.pdf},
             }
         type: InProceedings
-        title: Game Level Generation from Gameplay Videos
         booktitle: Proceedings of the 2016 AAAI Conference on Artificial Intelligence
             and Interactive Digital Entertainment
+        title: Game Level Generation from Gameplay Videos
         year: '2016'
         owner: riedl
         timestamp: 2016.06.08
