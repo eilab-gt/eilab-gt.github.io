@@ -7889,6 +7889,7 @@ entries:
             title     = {Story Shaping: Teaching Agents Human-like Behavior with Stories},
             year      = {2023},
             owner     = {riedl},
+            url       = {https://arxiv.org/abs/2301.10107},
             }
         type: InProceedings
         booktitle: 'Proceedings of the 2023 AAAI Conference on Artificial Intelligence
@@ -7896,6 +7897,7 @@ entries:
         title: 'Story Shaping: Teaching Agents Human-like Behavior with Stories'
         year: '2023'
         owner: riedl
+        url: https://arxiv.org/abs/2301.10107
         author:
         -   first: Xiangyu
             last: Peng
