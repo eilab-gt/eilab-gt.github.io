@@ -15,8 +15,12 @@
     - id: martinaaai2018
       context: Foundational work on neural story generation.
     - id: tambwekarijcai2019
-      context: Goal-directed controllability of neural story generation systems.
-- name: Text Adventure Games
+      context: Reinforcement learning fine-tuning of language models for goal-directedness.
+    - id: Peng2022Inferring
+      context: Checking the generation of a language model against reader commonsense expectations.
+    - id: Peng2022ReaderModels
+      context: A story generation that builds a model of the reader to make better story decisions, including working toward a story goal.
+- name: Text Games and Open-Ended Role-Playing
   description: >
     Natural language communication can be used to affect change in the real world.   
     Text adventure games, in which players must make sense of the world through text 
@@ -26,7 +30,8 @@
     Text adventure games are also, by some metrics, harder than video games such
     as StarCraft. For example the classic game <strong>Zork</strong> has never been beaten.
     We seek up develop new reinforcement learning agents that can reason about 
-    and solve language-based tasks involving long-term causal dependencies.
+    and solve language-based tasks involving long-term causal dependencies. 
+    We also seek open-ended agents capable of role-playing in text environments with humans. 
   pubs: 
     - id: Ammanabrolu2019
       context: >
@@ -41,6 +46,38 @@
         knowledge graphs, improving sample efficiency. We further show
         that an agent that learns the structure of the game can set a new
         state of the art in Zork (specifically passing the Grue).
+    - id: Peng2023Shaping
+      context: Train an open-ended role-playing agent using exemplar stories.
+- name: Dialogue Agents
+  description: >
+    Agents that communicate while acting.
+  pubs:
+    - id: Si2021Dialogue
+      context: Communicating in character, using Critical Role data.
+    - id: Ammanabrolu2022Situated
+      context: Teaching an agent to speak and act with an automated curriculum of procedurally generated game worlds. 
+- name: Computational Creativity
+  description: >
+    We investigate computational theories of creativity. 
+    We also seek to build co-creative agents, which are capable of interacting with 
+    human creators as peers.
+  pubs:
+    - id: guzdial:aiide2018
+      context: A computational theory of creativity put to use to create fully playable games.
+    - id: Lin2023Beyond
+      context: A study of how humans and co-creative agents can communicate their creative intentions to each other.
+- name: Procedural Content Generation
+  description: >
+    Procedural Content Generation is the use of algorithms to create game content.
+    We explore AI techniques for procedural content generation and game generation 
+    in the context of 2D platformer games, text worlds, rhythm action games, and more.
+  pubs:
+    - id: guzdial:aiide2016
+      context: Learning to generate Super Mario Bros. levels from online gameplay videos. 
+    - id: lin:aiide2019
+      context: Generating rhythm action games using neural networks.
+    - id: ammanabrolu2020bringing
+      context: Generating playable text game worlds from story inputs.
 - name: Explainable AI
   description: >
     AI systems are increasingly deployed in high-stakes setting that affect 
@@ -60,6 +97,10 @@
       context: >
         Explanation generation systems are parts of socio-technical systems.
         We explore the effects of explanations on teams.
+    - id: Ehsan2020HumancenteredEA
+      context: Articulates a human-centered perspective on XAI grounded.
+    - id: Ehsan2021Pitfalls
+      context: What can go wrong if one doesn't study the human factors of explanations.
 - name: Value Alignment
   description: >
     Value alignmentis a property of an intelligent agent indicating that it can  
@@ -96,3 +137,5 @@
     - id: Balloch2023WorldModels
       context: >
         A reinforcement learning architecture with neuro-symbolic world model that detects and adapts to novelty rapidly and efficiently.
+    - id: Balloch2022TheRole
+      context: The relationship between exploration in reinforcement learning and domain transfer.
