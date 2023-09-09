@@ -22,7 +22,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mark_riedl"
     - label: "Mastodon"
-      icon: ""fa-brands fa-mastodon"
+      icon: "fa-brands fa-mastodon"
       url: "https://sigmoid.social/@Riedl"
     - label: "BlueSky"
       icon: "fa-solid fa-square-full"
