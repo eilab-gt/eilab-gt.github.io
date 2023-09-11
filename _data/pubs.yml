@@ -7910,3 +7910,62 @@ entries:
         -   first: Mark
             middle: O.
             last: Riedl
+      - id: Belghith2023Examining
+        bibtex: |
+            @InProceedings{Belghith2023Examining,
+            author    = {Yasmine Belghith and Roxanne Moore and Meltem Alemdar and Jeffrey Rosen and Mark Riedl and Jessica Roberts},
+            booktitle = {Proceedings of the 2023 Annual Meeting of the Amercan Educational Research Association},
+            title     = {Examining Hard and Soft Skill Prioritization in HighSchool Engineering Education},
+            year      = {2023},
+            owner     = {riedl},
+            }
+        type: InProceedings
+        booktitle: Proceedings of the 2023 Annual Meeting of the Amercan Educational
+            Research Association
+        title: Examining Hard and Soft Skill Prioritization in HighSchool Engineering
+            Education
+        year: '2023'
+        owner: riedl
+        author:
+        -   first: Yasmine
+            last: Belghith
+        -   first: Roxanne
+            last: Moore
+        -   first: Meltem
+            last: Alemdar
+        -   first: Jeffrey
+            last: Rosen
+        -   first: Mark
+            last: Riedl
+        -   first: Jessica
+            last: Roberts
+      - id: Belghith2023Disruptive
+        bibtex: |
+            @InProceedings{Belghith2023Disruptive,
+            author    = {Yasmine Belghith and Julia Kim and Meltem Alemdar and Roxanne Moore and Jeffrey Rosen and Mark Riedl and Jessica Roberts},
+            booktitle = {Proceedings of the 2023 International Conference on Learning Sciences},
+            title     = {Problem-solving or Solved Problems: Constricting design challenges in high-school engineering education to avoid (disruptive) failures},
+            year      = {2023},
+            owner     = {riedl},
+            }
+        type: InProceedings
+        booktitle: Proceedings of the 2023 International Conference on Learning Sciences
+        title: 'Problem-solving or Solved Problems: Constricting design challenges
+            in high-school engineering education to avoid (disruptive) failures'
+        year: '2023'
+        owner: riedl
+        author:
+        -   first: Yasmine
+            last: Belghith
+        -   first: Julia
+            last: Kim
+        -   first: Meltem
+            last: Alemdar
+        -   first: Roxanne
+            last: Moore
+        -   first: Jeffrey
+            last: Rosen
+        -   first: Mark
+            last: Riedl
+        -   first: Jessica
+            last: Roberts
