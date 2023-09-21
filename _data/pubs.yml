@@ -7273,21 +7273,20 @@ entries:
             last: Harrison
         -   first: Mark
             last: Riedl
-      - id: Ehsan2022SeamfulXO
+      - id: Ehsan2024Seamful
         bibtex: |
-            @Article{Ehsan2022SeamfulXO,
-            author  = {Upol Ehsan and Qingzi Vera Liao and Samir Passi and Mark O. Riedl and Hal Daum{\'e}},
-            journal = {arXiv preprint arXiv:2211.06753},
-            title   = {Seamful XAI: Operationalizing Seamful Design in Explainable AI},
-            year    = {2022},
-            volume  = {abs/2211.06753},
-            url     = {https://arxiv.org/abs/2211.06753},
+            @InProceedings{Ehsan2024Seamful,
+            author    = {Upol Ehsan and Qingzi Vera Liao and Samir Passi and Mark O. Riedl and Hal Daum{\'e}},
+            booktitle = {Proceedings of the ACM Conference on Computer Supported Collaborative Work},
+            title     = {Seamful XAI: Operationalizing Seamful Design in Explainable AI},
+            year      = {2024},
+            url       = {https://arxiv.org/abs/2211.06753},
             }
-        type: Article
-        journal: arXiv preprint arXiv:2211.06753
+        type: InProceedings
+        booktitle: Proceedings of the ACM Conference on Computer Supported Collaborative
+            Work
         title: 'Seamful XAI: Operationalizing Seamful Design in Explainable AI'
-        year: '2022'
-        volume: abs/2211.06753
+        year: '2024'
         url: https://arxiv.org/abs/2211.06753
         author:
         -   first: Upol
