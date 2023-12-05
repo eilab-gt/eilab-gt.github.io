@@ -7973,3 +7973,33 @@ entries:
             last: Riedl
         -   first: Jessica
             last: Roberts
+      - id: Zollicoffer2023Novelty
+        bibtex: |
+            @Article{Zollicoffer2023Novelty,
+            author  = {Geigh Zollicoffer and Kenneth Eaton and Jonathan Balloch and Julia Kim and Riedl Mark O. and Robert Wright},
+            journal = {ArXiv preprint arxiv:2310.08731},
+            title   = {A Simple Way to Incorporate Novelty Detection in World Models},
+            year    = {2023},
+            owner   = {riedl},
+            url     = {https://arxiv.org/abs/2310.08731},
+            }
+        type: Article
+        journal: ArXiv preprint arxiv:2310.08731
+        title: A Simple Way to Incorporate Novelty Detection in World Models
+        year: '2023'
+        owner: riedl
+        url: https://arxiv.org/abs/2310.08731
+        author:
+        -   first: Geigh
+            last: Zollicoffer
+        -   first: Kenneth
+            last: Eaton
+        -   first: Jonathan
+            last: Balloch
+        -   first: Julia
+            last: Kim
+        -   first: Riedl
+            middle: Mark
+            last: O.
+        -   first: Robert
+            last: Wright
