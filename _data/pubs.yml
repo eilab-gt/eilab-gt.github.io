@@ -8003,3 +8003,62 @@ entries:
             last: O.
         -   first: Robert
             last: Wright
+      - id: Xie2024FewShot
+        bibtex: |
+            @InProceedings{Xie2024FewShot,
+            author    = {Kaige Xie and Tong Yu and Haoliang Wang and Junda Wu and Handong Zhao and Ruiyi Zhang and Kanak Mahadik and Ani Nenkova, and Riedl, Mark O.},
+            booktitle = {Proceedings of the 18th Annual Meeting of the European chapter of the Association for Computational Linguistics (EACL)},
+            title     = {Few-Shot Dialogue Summarization via Skeleton-Assisted Prompt Transfer},
+            year      = {2024},
+            owner     = {riedl},
+            url       = {https://arxiv.org/abs/2305.12077},
+            }
+        type: InProceedings
+        booktitle: Proceedings of the 18th Annual Meeting of the European chapter
+            of the Association for Computational Linguistics (EACL)
+        title: Few-Shot Dialogue Summarization via Skeleton-Assisted Prompt Transfer
+        year: '2024'
+        owner: riedl
+        url: https://arxiv.org/abs/2305.12077
+        author:
+        -   first: Kaige
+            last: Xie
+        -   first: Tong
+            last: Yu
+        -   first: Haoliang
+            last: Wang
+        -   first: Junda
+            last: Wu
+        -   first: Handong
+            last: Zhao
+        -   first: Ruiyi
+            last: Zhang
+        -   first: Kanak
+            last: Mahadik
+        -   last: Ani Nenkova
+        -   first: Mark
+            middle: O.
+            last: Riedl
+      - id: Xie2024Suspense
+        bibtex: |
+            @InProceedings{Xie2024Suspense,
+            author    = {Kaige Xie and Riedl, Mark O.},
+            booktitle = {Proceedings of the 18th Annual Meeting of the European chapter of the Association for Computational Linguistics (EACL)},
+            title     = {Creating Suspenseful Stories with Large Language Models},
+            year      = {2024},
+            owner     = {riedl},
+            url       = {https://openreview.net/pdf?id=KBN0QJbH0r},
+            }
+        type: InProceedings
+        booktitle: Proceedings of the 18th Annual Meeting of the European chapter
+            of the Association for Computational Linguistics (EACL)
+        title: Creating Suspenseful Stories with Large Language Models
+        year: '2024'
+        owner: riedl
+        url: https://openreview.net/pdf?id=KBN0QJbH0r
+        author:
+        -   first: Kaige
+            last: Xie
+        -   first: Mark
+            middle: O.
+            last: Riedl
