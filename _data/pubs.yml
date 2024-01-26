@@ -7765,42 +7765,6 @@ entries:
         -   first: Mark
             middle: O.
             last: Riedl
-      - id: Xie2023FewShot
-        bibtex: |
-            @Article{Xie2023FewShot,
-            author  = {Kaige Xie and Tong Yu and Haoliang Wang and Junda Wu and Handong Zhao and Ruiyi Zhang and Kanak Mahadik and Ani Nenkova and Riedl, Mark O.},
-            journal = {ArXiv preprint arXiv:2305.12077},
-            title   = {Few-Shot Dialogue Summarization via Skeleton-Assisted Prompt Transfer},
-            year    = {2023},
-            owner   = {riedl},
-            url     = {https://arxiv.org/abs/2305.12077},
-            }
-        type: Article
-        journal: ArXiv preprint arXiv:2305.12077
-        title: Few-Shot Dialogue Summarization via Skeleton-Assisted Prompt Transfer
-        year: '2023'
-        owner: riedl
-        url: https://arxiv.org/abs/2305.12077
-        author:
-        -   first: Kaige
-            last: Xie
-        -   first: Tong
-            last: Yu
-        -   first: Haoliang
-            last: Wang
-        -   first: Junda
-            last: Wu
-        -   first: Handong
-            last: Zhao
-        -   first: Ruiyi
-            last: Zhang
-        -   first: Kanak
-            last: Mahadik
-        -   first: Ani
-            last: Nenkova
-        -   first: Mark
-            middle: O.
-            last: Riedl
       - id: Lin2023Beyond
         bibtex: |
             @InProceedings{Lin2023Beyond,
@@ -8062,3 +8026,27 @@ entries:
         -   first: Mark
             middle: O.
             last: Riedl
+      - id: Lin2023Ontology
+        bibtex: |
+            @InProceedings{Lin2023Ontology,
+            author    = {Lin, Zhiyu and Jeremy Paul, Riedl, M. O.},
+            booktitle = {Proceedings of the 2024 NeurIPS Workshop on Machine Learning for Creativity and Design},
+            title     = {An Ontology of Co-Creative AI Systems},
+            year      = {2023},
+            owner     = {riedl},
+            url       = {https://arxiv.org/abs/2310.07472},
+            }
+        type: InProceedings
+        booktitle: Proceedings of the 2024 NeurIPS Workshop on Machine Learning for
+            Creativity and Design
+        title: An Ontology of Co-Creative AI Systems
+        year: '2023'
+        owner: riedl
+        url: https://arxiv.org/abs/2310.07472
+        author:
+        -   first: Zhiyu
+            last: Lin
+        -   first: M.
+            middle: O.
+            last: Jeremy Paul
+            lineage: Riedl
