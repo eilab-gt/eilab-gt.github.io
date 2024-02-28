@@ -8011,7 +8011,7 @@ entries:
             title     = {Creating Suspenseful Stories with Large Language Models},
             year      = {2024},
             owner     = {riedl},
-            url       = {https://openreview.net/pdf?id=KBN0QJbH0r},
+            url       = {https://arxiv.org/abs/2402.17119},
             }
         type: InProceedings
         booktitle: Proceedings of the 18th Annual Meeting of the European chapter
@@ -8019,7 +8019,7 @@ entries:
         title: Creating Suspenseful Stories with Large Language Models
         year: '2024'
         owner: riedl
-        url: https://openreview.net/pdf?id=KBN0QJbH0r
+        url: https://arxiv.org/abs/2402.17119
         author:
         -   first: Kaige
             last: Xie
@@ -8050,3 +8050,26 @@ entries:
             middle: O.
             last: Jeremy Paul
             lineage: Riedl
+      - id: desaicopyright2024
+        bibtex: |
+            @Article{desai:copyright2024,
+            author  = {Deven Desai and Riedl, M. O.},
+            journal = {SSRN},
+            title   = {Between Copyright and Computer Science: The Law and Ethics of Generative AI},
+            year    = {2024},
+            owner   = {riedl},
+            url     = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4735776},
+            }
+        type: Article
+        journal: SSRN
+        title: 'Between Copyright and Computer Science: The Law and Ethics of Generative
+            AI'
+        year: '2024'
+        owner: riedl
+        url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4735776
+        author:
+        -   first: Deven
+            last: Desai
+        -   first: M.
+            middle: O.
+            last: Riedl
