@@ -7390,28 +7390,6 @@ entries:
         -   first: Mark
             middle: O.
             last: Riedl
-      - id: Alabdulkarim2022Experiential
-        bibtex: |
-            @Article{Alabdulkarim2022Experiential,
-            author  = {Amal Alabdulkarim and Riedl, Mark O.},
-            journal = {arXiv preprint arXiv:2210.04723},
-            title   = {Experiential Explanations for Reinforcement Learning},
-            year    = {2022},
-            owner   = {riedl},
-            url     = {https://arxiv.org/abs/2210.04723},
-            }
-        type: Article
-        journal: arXiv preprint arXiv:2210.04723
-        title: Experiential Explanations for Reinforcement Learning
-        year: '2022'
-        owner: riedl
-        url: https://arxiv.org/abs/2210.04723
-        author:
-        -   first: Amal
-            last: Alabdulkarim
-        -   first: Mark
-            middle: O.
-            last: Riedl
       - id: Lin2022CreativeWand
         bibtex: |
             @InProceedings{Lin2022CreativeWand,
@@ -7549,22 +7527,24 @@ entries:
             last: Ammanabrolu
       - id: Alabdulkarim2023Experiential
         bibtex: |
-            @inproceedings{Alabdulkarim2023Experiential,
-            title={Experiential Explanations for Reinforcement Learning},
-            author={Amal Alabdulkarim and Gennie Mansi and Kaely Hall and Riedl, Mark O.},
-            booktitle={Proceedings of the IJCAI 2023 Workshop on Explainable Artificial Intelligence},
-            year={2023},
-            url={https://arxiv.org/abs/2210.04723}
+            @InProceedings{Alabdulkarim2023Experiential,
+            author    = {Amal Alabdulkarim and Madhuri Singh and Gennie Mansi and Kaely Hall and Riedl, Mark O.},
+            booktitle = {Proceedings of the IJCAI 2023 Workshop on Explainable Artificial Intelligence},
+            title     = {Experiential Explanations for Reinforcement Learning},
+            year      = {2023},
+            url       = {https://arxiv.org/abs/2210.04723},
             }
-        type: inproceedings
-        title: Experiential Explanations for Reinforcement Learning
+        type: InProceedings
         booktitle: Proceedings of the IJCAI 2023 Workshop on Explainable Artificial
             Intelligence
+        title: Experiential Explanations for Reinforcement Learning
         year: '2023'
         url: https://arxiv.org/abs/2210.04723
         author:
         -   first: Amal
             last: Alabdulkarim
+        -   first: Madhuri
+            last: Singh
         -   first: Gennie
             last: Mansi
         -   first: Kaely
