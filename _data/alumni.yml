@@ -1,4 +1,10 @@
 members: 
+  - name: Zhiyu Lin
+    website: https://www.zhiyulin.info/
+    where: Postdoc, University of California, Santa Cruz
+  - name: Ashutosh Baheti (co-advised with Alan Ritter)
+    website: https://abaheti95.github.io/
+    where: Research Scientist, MosaicML
   - name: Xiangu (Becky) Peng
     where: Salesforce Research
     website: https://xiangyu-peng.github.io/
