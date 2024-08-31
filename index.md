@@ -35,12 +35,37 @@ author:
 
 The Entertainment Intelligence and Human-Centered AI Labs seek to make fundamental contributions to the fields of artificial intelligence and machine learning by researching intelligent systems that can understand and enhance the human condition.
 
-Research projects include:
-- [Automated story generation](http://eilab.gatech.edu/projects.html#automated-story-generation)
-- [Text game and open-ended role-playing agents](http://eilab.gatech.edu/projects.html#text-games-and-open-ended-role-playing)
-- [Dialogue agents](http://eilab.gatech.edu/projects.html#dialogue-agents)
-- [Computational creativity](http://eilab.gatech.edu/projects.html#computational-creativity)
-- [Procedural content generation](http://eilab.gatech.edu/projects.html#procedural-content-generation)
-- [Explainable AI](http://eilab.gatech.edu/projects.html#explainable-ai)
-- [Value alignment](http://eilab.gatech.edu/projects.html#value-alignment)
-- [Novelty adaptation](http://eilab.gatech.edu/projects.html#novelty-adaptation)
+<table width="100%" cols="2">
+  <tr>
+    <th><h1>Computational Narrative</h1></th>
+    <th><h1>Responsible AI</h1></th>
+  </tr>
+  <tr>
+    <td><a href="http://eilab.gatech.edu/projects.html#automated-story-generation">Automated story generation</a></td>
+    <td><a href="http://eilab.gatech.edu/projects.html#explainable-ai">Explainable AI</a></td>
+  </tr>
+  <tr>
+    <td>Narrative Understanding</td>
+    <td>Mitigating Algorithmic Harms</td>
+  </tr>
+  <tr>
+    <td><a href="http://eilab.gatech.edu/projects.html#dialogue-agents">Dialogue Agents</a></td>
+    <td><a href="http://eilab.gatech.edu/projects.html#value-alignment">Value Alignment</a></td>
+  </tr>
+  <tr>
+    <th><h1>Agents</h1></th>
+    <th><h1>Computational Creativity</h1></th>
+  </tr>
+  <tr>
+    <td><a href="http://eilab.gatech.edu/projects.html#text-games-and-open-ended-role-playing">Text-Adventure Game Playing</a></td>
+    <td><a href="http://eilab.gatech.edu/projects.html#procedural-content-generation">Procedural Content Generation</a></td>
+  </tr>
+  <tr>
+    <td><a href="http://eilab.gatech.edu/projects.html#text-games-and-open-ended-role-playing">Open-Ended Role-Playing Games</a></td>
+    <td><a href="http://eilab.gatech.edu/projects.html#computational-creativity">Creativity Support</a></td>
+  </tr>
+  <tr>
+    <td><a href="http://eilab.gatech.edu/projects.html#novelty-adaptation">Novelty Adaptation</a></td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
