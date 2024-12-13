@@ -18,19 +18,18 @@ author:
     - label: "Semantic Scholar"
       icon: "fas fa-book-open"
       url: "https://www.semanticscholar.org/author/Mark-O.-Riedl/2757194"
+    - label: "BlueSky"
+      icon: "fa-solid fa-square-full"
+      url: "https://bsky.app/profile/markriedl.bsky.social"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mark_riedl"
     - label: "Mastodon"
       icon: "fa-brands fa-mastodon"
       url: "https://sigmoid.social/@Riedl"
-    - label: "BlueSky"
-      icon: "fa-solid fa-square-full"
-      url: "https://bsky.app/profile/markriedl.bsky.social"
-    - label: "Threads"
-      icon: "fa-brands fa-threads"
-      url: "https://www.threads.net/@mark.riedl"
-
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/markriedl/"
 ---
 
 The Entertainment Intelligence and Human-Centered AI Labs seek to make fundamental contributions to the fields of artificial intelligence and machine learning by researching intelligent systems that can understand and enhance the human condition.
