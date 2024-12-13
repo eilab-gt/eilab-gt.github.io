@@ -9,7 +9,7 @@ sidebar:
   - text: "**Associate Director**"
   - text: Georgia Tech Machine Learning Center
   - title: "Contact"
-  - text: '<i class="fa-brands fa-square-bluesky"></i> <a href="https://bsky.app/profile/markriedl.bsky.social">@markriedl.bsky.social</a>'
+  - text: '<i class="fab fa-square-bluesky"></i> <a href="https://bsky.app/profile/markriedl.bsky.social">@markriedl.bsky.social</a>'
   - text: <i class="fab fa-mastodon"></i> <a rel="me" href="https://sigmoid.social/@Riedl">@riedl@sigmoid.social</a>
   - text: '<i class="fab fa-fw fa-twitter-square"></i> <a href="https://twitter.com/mark_riedl">@mark_riedl</a>'
   - text: '<i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/markriedl/">Markriedl</a>'
