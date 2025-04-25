@@ -8402,3 +8402,27 @@ entries:
         -   first: Mark
             middle: O
             last: Riedl
+      - id: Mansi2025Legal
+        bibtex: |
+            @Article{Mansi2025Legal,
+            author  = {Mansi, Gennie and Karusala, Naveena and Riedl Mark O.},
+            journal = {arXiv:2504.10708},
+            title   = {Legally-Informed Explainable AI},
+            year    = {2025},
+            owner   = {riedl},
+            url     = {https://arxiv.org/abs/2504.10708},
+            }
+        type: Article
+        journal: arXiv:2504.10708
+        title: Legally-Informed Explainable AI
+        year: '2025'
+        owner: riedl
+        url: https://arxiv.org/abs/2504.10708
+        author:
+        -   first: Gennie
+            last: Mansi
+        -   first: Naveena
+            last: Karusala
+        -   first: Riedl
+            middle: Mark
+            last: O.
