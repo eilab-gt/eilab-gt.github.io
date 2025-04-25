@@ -8409,7 +8409,6 @@ entries:
             booktitle = {Proceedings of the 2025 CHI Workshop on Human-Centered Explainable AI},
             title     = {Legally-Informed Explainable AI},
             year      = {2025},
-            journal   = {arXiv:2504.10708},
             owner     = {riedl},
             url       = {https://arxiv.org/abs/2504.10708},
             }
@@ -8418,7 +8417,6 @@ entries:
             AI
         title: Legally-Informed Explainable AI
         year: '2025'
-        journal: arXiv:2504.10708
         owner: riedl
         url: https://arxiv.org/abs/2504.10708
         author:
