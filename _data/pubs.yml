@@ -7919,18 +7919,18 @@ entries:
             last: Roberts
       - id: Zollicoffer2023Novelty
         bibtex: |
-            @Article{Zollicoffer2023Novelty,
-            author  = {Geigh Zollicoffer and Kenneth Eaton and Jonathan Balloch and Julia Kim and Riedl Mark O. and Robert Wright},
-            journal = {ArXiv preprint arxiv:2310.08731},
-            title   = {A Simple Way to Incorporate Novelty Detection in World Models},
-            year    = {2023},
-            owner   = {riedl},
-            url     = {https://arxiv.org/abs/2310.08731},
+            @InProceedings{Zollicoffer2023Novelty,
+            author    = {Geigh Zollicoffer and Kenneth Eaton and Jonathan Balloch and Julia Kim and Riedl Mark O. and Robert Wright},
+            booktitle = {International Conference on Machine Learning},
+            title     = {A Simple Way to Incorporate Novelty Detection in World Models},
+            year      = {2025},
+            owner     = {riedl},
+            url       = {https://arxiv.org/abs/2310.08731},
             }
-        type: Article
-        journal: ArXiv preprint arxiv:2310.08731
+        type: InProceedings
+        booktitle: International Conference on Machine Learning
         title: A Simple Way to Incorporate Novelty Detection in World Models
-        year: '2023'
+        year: '2025'
         owner: riedl
         url: https://arxiv.org/abs/2310.08731
         author:
@@ -8159,16 +8159,16 @@ entries:
         bibtex: |
             @Article{Baheti2024MultiAttribute,
             author  = {Ashutosh Baheti and Debanjana Chakraborty and Faeze Brahman and Le Bras, Ronan and Ximing Lu and Nouha Dziri and Yejin Choi and Mark Riedl and Maarten Sap},
-            journal = {arXiv:2412.19198},
+            journal = {Transactions on Machine Learning Research},
             title   = {Multi-Attribute Constraint Satisfaction via Language Model Rewriting},
-            year    = {2024},
+            year    = {2025},
             owner   = {riedl},
             url     = {https://arxiv.org/abs/2412.19198},
             }
         type: Article
-        journal: arXiv:2412.19198
+        journal: Transactions on Machine Learning Research
         title: Multi-Attribute Constraint Satisfaction via Language Model Rewriting
-        year: '2024'
+        year: '2025'
         owner: riedl
         url: https://arxiv.org/abs/2412.19198
         author:
