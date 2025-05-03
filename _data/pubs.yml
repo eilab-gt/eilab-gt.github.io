@@ -2424,45 +2424,6 @@ entries:
         -   first: Mark
             middle: O
             last: Riedl
-      - id: hartsookcig2011
-        bibtex: |
-            @InProceedings{hartsook:cig2011,
-            Title                    = {Toward Supporting Storytellers with Procedurally Generated Game Worlds},
-            Author                   = {Hartsook, Ken and Zook, Alexander and Das, Sauvik and Riedl, Mark},
-            Booktitle                = {Proceedings of the 2011 IEEE Conference on Computational Intelligence in Games},
-            Year                     = {2011},
-            
-            Address                  = {Seoul, South Korea},
-            Month                    = {August},
-            Pages                    = {297-304},
-            
-            Cvnote                   = {Invited to be included as a chapter in a textbook on Procedural Content Generation, edited by Togelius et al., 2013.},
-            Cvsidenote               = {60\%},
-            Owner                    = {riedl},
-            Timestamp                = {2011.06.10}
-            }
-        type: InProceedings
-        Title: Toward Supporting Storytellers with Procedurally Generated Game Worlds
-        Booktitle: Proceedings of the 2011 IEEE Conference on Computational Intelligence
-            in Games
-        Year: '2011'
-        Address: Seoul, South Korea
-        Month: August
-        Pages: 297-304
-        Cvnote: Invited to be included as a chapter in a textbook on Procedural Content
-            Generation, edited by Togelius et al., 2013.
-        Cvsidenote: 60%
-        Owner: riedl
-        Timestamp: 2011.06.10
-        Author:
-        -   first: Ken
-            last: Hartsook
-        -   first: Alexander
-            last: Zook
-        -   first: Sauvik
-            last: Das
-        -   first: Mark
-            last: Riedl
       - id: hodhodaiideexag2014
         bibtex: |
             @InProceedings{hodhod:aiide-exag2014,
@@ -7922,14 +7883,14 @@ entries:
             @InProceedings{Zollicoffer2023Novelty,
             author    = {Geigh Zollicoffer and Kenneth Eaton and Jonathan Balloch and Julia Kim and Riedl Mark O. and Robert Wright},
             booktitle = {International Conference on Machine Learning},
-            title     = {A Simple Way to Incorporate Novelty Detection in World Models},
+            title     = {Novelty Detection in Reinforcement Learning with World Models},
             year      = {2025},
             owner     = {riedl},
             url       = {https://arxiv.org/abs/2310.08731},
             }
         type: InProceedings
         booktitle: International Conference on Machine Learning
-        title: A Simple Way to Incorporate Novelty Detection in World Models
+        title: Novelty Detection in Reinforcement Learning with World Models
         year: '2025'
         owner: riedl
         url: https://arxiv.org/abs/2310.08731
