@@ -8388,3 +8388,33 @@ entries:
         -   first: Riedl
             middle: Mark
             last: O.
+      - id: Belghith2025ExploringAIIntervention
+        bibtex: |
+            @Article{Belghith2025ExploringAIIntervention,
+            author  = {Yasmine Belghith and Mark Riedl and Roxanne Moore and Meltem Alemdar and Jessica Roberts},
+            journal = {Information and Learning Sciences},
+            title   = {Exploring AI intervention points in high-school engineering education: a research through co-design approach},
+            year    = {2025},
+            volume  = {to appear},
+            owner   = {riedl},
+            url     = {https://www.emerald.com/insight/content/doi/10.1108/ils-04-2024-0042/full/html},
+            }
+        type: Article
+        journal: Information and Learning Sciences
+        title: 'Exploring AI intervention points in high-school engineering education:
+            a research through co-design approach'
+        year: '2025'
+        volume: to appear
+        owner: riedl
+        url: https://www.emerald.com/insight/content/doi/10.1108/ils-04-2024-0042/full/html
+        author:
+        -   first: Yasmine
+            last: Belghith
+        -   first: Mark
+            last: Riedl
+        -   first: Roxanne
+            last: Moore
+        -   first: Meltem
+            last: Alemdar
+        -   first: Jessica
+            last: Roberts
