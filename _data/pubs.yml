@@ -8418,3 +8418,32 @@ entries:
             last: Alemdar
         -   first: Jessica
             last: Roberts
+      - id: Zhou2025GeneratingAlmostEverything
+        bibtex: |
+            @Article{Zhou2025GeneratingAlmostEverything,
+            author  = {Eric Zhou and Shreyas Basavatia and Moontashir Siam and Zexin Chen and Riedl, Mark O.},
+            journal = {arXiv:2505.03547},
+            title   = {STORY2GAME: Generating (Almost) Everything in an Interactive Fiction Game},
+            year    = {2025},
+            owner   = {riedl},
+            url     = {https://arxiv.org/abs/2505.03547},
+            }
+        type: Article
+        journal: arXiv:2505.03547
+        title: 'STORY2GAME: Generating (Almost) Everything in an Interactive Fiction
+            Game'
+        year: '2025'
+        owner: riedl
+        url: https://arxiv.org/abs/2505.03547
+        author:
+        -   first: Eric
+            last: Zhou
+        -   first: Shreyas
+            last: Basavatia
+        -   first: Moontashir
+            last: Siam
+        -   first: Zexin
+            last: Chen
+        -   first: Mark
+            middle: O.
+            last: Riedl
