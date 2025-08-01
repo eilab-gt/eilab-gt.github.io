@@ -8450,7 +8450,7 @@ entries:
       - id: Singh2025ReverseWorldModels
         bibtex: |
             @InProceedings{Singh2025ReverseWorldModels,
-            author    = {Singh, Maduri and Alabdulkarim, Amal and Mansi, Gennie, and Riedl Mark O.},
+            author    = {Singh, Maduri and Alabdulkarim, Amal and Mansi, Gennie, and Riedl, Mark O.},
             booktitle = {Proceedings of the 2025 IJCAI Workshop on Explainable AI},
             title     = {Explainable Reinforcement Learning Agents Using World Models},
             year      = {2025},
@@ -8470,9 +8470,9 @@ entries:
             last: Alabdulkarim
         -   last: Mansi
             lineage: Gennie
-        -   first: Riedl
-            middle: Mark
-            last: O.
+        -   first: Mark
+            middle: O.
+            last: Riedl
       - id: Mansi2025ImplicationsLitigation
         bibtex: |
             @Article{Mansi2025ImplicationsLitigation,
