@@ -8447,3 +8447,75 @@ entries:
         -   first: Mark
             middle: O.
             last: Riedl
+      - id: Singh2025ReverseWorldModels
+        bibtex: |
+            @InProceedings{Singh2025ReverseWorldModels,
+            author    = {Singh, Maduri and Alabdulkarim, Amal and Mansi, Gennie, and Riedl Mark O.},
+            booktitle = {Proceedings of the 2025 IJCAI Workshop on Explainable AI},
+            title     = {Explainable Reinforcement Learning Agents Using World Models},
+            year      = {2025},
+            owner     = {riedl},
+            url       = {https://arxiv.org/abs/2505.08073},
+            }
+        type: InProceedings
+        booktitle: Proceedings of the 2025 IJCAI Workshop on Explainable AI
+        title: Explainable Reinforcement Learning Agents Using World Models
+        year: '2025'
+        owner: riedl
+        url: https://arxiv.org/abs/2505.08073
+        author:
+        -   first: Maduri
+            last: Singh
+        -   first: Amal
+            last: Alabdulkarim
+        -   last: Mansi
+            lineage: Gennie
+        -   first: Riedl
+            middle: Mark
+            last: O.
+      - id: Mansi2025ImplicationsLitigation
+        bibtex: |
+            @Article{Mansi2025ImplicationsLitigation,
+            author  = {Mansi, Gennie and Riedl, Mark O.},
+            journal = {arXiv:2507.15981},
+            title   = {Implications of Current Litigation on the Design of AI Systems for Healthcare Delivery},
+            year    = {2025},
+            owner   = {riedl},
+            url     = {https://arxiv.org/abs/2507.15981},
+            }
+        type: Article
+        journal: arXiv:2507.15981
+        title: Implications of Current Litigation on the Design of AI Systems for
+            Healthcare Delivery
+        year: '2025'
+        owner: riedl
+        url: https://arxiv.org/abs/2507.15981
+        author:
+        -   first: Gennie
+            last: Mansi
+        -   first: Mark
+            middle: O.
+            last: Riedl
+      - id: Mansi2025PhysiciansLegalConsiderations
+        bibtex: |
+            @Article{Mansi2025PhysiciansLegalConsiderations,
+            author  = {Mansi, Gennie and Riedl, Mark O.},
+            journal = {arXiv:2507.15996},
+            title   = {Understanding the Impact of Physicians' Legal Considerations on XAI Systems},
+            year    = {2025},
+            owner   = {riedl},
+            url     = {https://arxiv.org/abs/2507.15996},
+            }
+        type: Article
+        journal: arXiv:2507.15996
+        title: Understanding the Impact of Physicians' Legal Considerations on XAI
+            Systems
+        year: '2025'
+        owner: riedl
+        url: https://arxiv.org/abs/2507.15996
+        author:
+        -   first: Gennie
+            last: Mansi
+        -   first: Mark
+            middle: O.
+            last: Riedl
