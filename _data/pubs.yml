@@ -7270,7 +7270,7 @@ entries:
       - id: Ehsan2022SCOT
         bibtex: |
             @InProceedings{Ehsan2022SCOT,
-            author    = {Upol Ehsan, and Riedl, Mark O.},
+            author    = {Upol Ehsan and Riedl, Mark O.},
             booktitle = {Proceedings of the NeurIPS 2022 Workshop on Human-Centered AI},
             title     = {Social Construction of XAI: Do We Need One Definition to Rule Them All?},
             year      = {2022},
@@ -7285,7 +7285,8 @@ entries:
         owner: riedl
         url: https://arxiv.org/abs/2211.06499
         author:
-        -   last: Upol Ehsan
+        -   first: Upol
+            last: Ehsan
         -   first: Mark
             middle: O.
             last: Riedl
@@ -7326,7 +7327,7 @@ entries:
       - id: Balloch2022Exploration
         bibtex: |
             @InProceedings{Balloch2022Exploration,
-            author    = {Jonathan C Balloch and Julia Kim and and Jessica L Inman and Riedl, Mark O.},
+            author    = {Jonathan C Balloch and Julia Kim and Jessica L Inman and Riedl, Mark O.},
             booktitle = {Proceedings of the IROS 2022 Workshop on Lifelong Learning of High-level Cognitive and Reasoning Skills},
             title     = {The Role of Exploration for Task Transfer in Reinforcement Learning},
             year      = {2022},
@@ -7346,8 +7347,9 @@ entries:
             last: Balloch
         -   first: Julia
             last: Kim
-        -   prelast: and
-            last: Jessica L Inman
+        -   first: Jessica
+            middle: L
+            last: Inman
         -   first: Mark
             middle: O.
             last: Riedl
@@ -7510,33 +7512,6 @@ entries:
             last: Mansi
         -   first: Kaely
             last: Hall
-        -   first: Mark
-            middle: O.
-            last: Riedl
-      - id: Balloch2022TheRole
-        bibtex: |
-            @inproceedings{Balloch2022TheRole,
-            title={The Role of Exploration for Task Transfer in Reinforcement Learning},
-            author={Jonathan C. Balloch and Julia Kim and Jessica B. Langebrake Inman and Mark O. Riedl},
-            booktitle={Proceedings of the IROS 2022 Workshop on Lifelong Learning of High-level Cognitive and Reasoning Skills},
-            year={2022},
-            url={https://arxiv.org/abs/2210.06168}
-            }
-        type: inproceedings
-        title: The Role of Exploration for Task Transfer in Reinforcement Learning
-        booktitle: Proceedings of the IROS 2022 Workshop on Lifelong Learning of High-level
-            Cognitive and Reasoning Skills
-        year: '2022'
-        url: https://arxiv.org/abs/2210.06168
-        author:
-        -   first: Jonathan
-            middle: C.
-            last: Balloch
-        -   first: Julia
-            last: Kim
-        -   first: Jessica
-            middle: B. Langebrake
-            last: Inman
         -   first: Mark
             middle: O.
             last: Riedl
@@ -7911,7 +7886,7 @@ entries:
       - id: Xie2024FewShot
         bibtex: |
             @InProceedings{Xie2024FewShot,
-            author    = {Kaige Xie and Tong Yu and Haoliang Wang and Junda Wu and Handong Zhao and Ruiyi Zhang and Kanak Mahadik and Ani Nenkova, and Riedl, Mark O.},
+            author    = {Kaige Xie and Tong Yu and Haoliang Wang and Junda Wu and Handong Zhao and Ruiyi Zhang and Kanak Mahadik and Ani Nenkova and Riedl, Mark O.},
             booktitle = {Proceedings of the 18th Annual Meeting of the European chapter of the Association for Computational Linguistics (EACL)},
             title     = {Few-Shot Dialogue Summarization via Skeleton-Assisted Prompt Transfer},
             year      = {2024},
@@ -7940,7 +7915,8 @@ entries:
             last: Zhang
         -   first: Kanak
             last: Mahadik
-        -   last: Ani Nenkova
+        -   first: Ani
+            last: Nenkova
         -   first: Mark
             middle: O.
             last: Riedl
@@ -8251,7 +8227,7 @@ entries:
       - id: Bhagat2024ExternalModelMotivatedAgents
         bibtex: |
             @InProceedings{Bhagat2024ExternalModelMotivatedAgents,
-            author    = {Rishav Bhagat, and Jonathan Balloch and Zhiyu Lin and Julia Kim and Mark Riedl},
+            author    = {Rishav Bhagat and Jonathan Balloch and Zhiyu Lin and Julia Kim and Mark Riedl},
             booktitle = {Proceedings of the 2024 Reinforcement Learning Conference Workshop on Reinforcement Learning Beyond Rewards},
             title     = {External Model Motivated Agents: Reinforcement Learning for Enhanced Environment Sampling},
             year      = {2024},
@@ -8267,7 +8243,8 @@ entries:
         owner: riedl
         url: https://arxiv.org/abs/2407.00264
         author:
-        -   last: Rishav Bhagat
+        -   first: Rishav
+            last: Bhagat
         -   first: Jonathan
             last: Balloch
         -   first: Zhiyu
