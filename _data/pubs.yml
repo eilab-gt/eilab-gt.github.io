@@ -8496,3 +8496,26 @@ entries:
         -   first: Mark
             middle: O.
             last: Riedl
+      - id: Riedl2025AgentsAndLaw
+        bibtex: |
+            @InProceedings{Riedl2025AgentsAndLaw,
+            author    = {Riedl, Mark O. and Desai, Deven R.},
+            booktitle = {Proceedings of the 2025 AAAI Conference on AI, Ethics, and Society},
+            title     = {AI Agents and the Law},
+            year      = {2025},
+            owner     = {riedl},
+            url       = {https://arxiv.org/abs/2508.08544},
+            }
+        type: InProceedings
+        booktitle: Proceedings of the 2025 AAAI Conference on AI, Ethics, and Society
+        title: AI Agents and the Law
+        year: '2025'
+        owner: riedl
+        url: https://arxiv.org/abs/2508.08544
+        author:
+        -   first: Mark
+            middle: O.
+            last: Riedl
+        -   first: Deven
+            middle: R.
+            last: Desai
