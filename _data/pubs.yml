@@ -7488,20 +7488,21 @@ entries:
             last: Riedl
         -   first: Prithviraj
             last: Ammanabrolu
-      - id: Alabdulkarim2023Experiential
+      - id: Alabdulkarim2025Experiential
         bibtex: |
-            @InProceedings{Alabdulkarim2023Experiential,
-            author    = {Amal Alabdulkarim and Madhuri Singh and Gennie Mansi and Kaely Hall and Riedl, Mark O.},
-            booktitle = {Proceedings of the IJCAI 2023 Workshop on Explainable Artificial Intelligence},
-            title     = {Experiential Explanations for Reinforcement Learning},
-            year      = {2023},
-            url       = {https://arxiv.org/abs/2210.04723},
+            @Article{Alabdulkarim2025Experiential,
+            author  = {Amal Alabdulkarim and Madhuri Singh and Gennie Mansi and Kaely Hall and Riedl, Mark O.},
+            journal = {Neural Computing and Applications},
+            title   = {Experiential Explanations for Reinforcement Learning},
+            year    = {2025},
+            volume  = {37},
+            url     = {https://arxiv.org/abs/2210.04723},
             }
-        type: InProceedings
-        booktitle: Proceedings of the IJCAI 2023 Workshop on Explainable Artificial
-            Intelligence
+        type: Article
+        journal: Neural Computing and Applications
         title: Experiential Explanations for Reinforcement Learning
-        year: '2023'
+        year: '2025'
+        volume: '37'
         url: https://arxiv.org/abs/2210.04723
         author:
         -   first: Amal
@@ -8099,6 +8100,7 @@ entries:
             journal = {Transactions on Machine Learning Research},
             title   = {Multi-Attribute Constraint Satisfaction via Language Model Rewriting},
             year    = {2025},
+            volume  = {May 2025},
             owner   = {riedl},
             url     = {https://arxiv.org/abs/2412.19198},
             }
@@ -8106,6 +8108,7 @@ entries:
         journal: Transactions on Machine Learning Research
         title: Multi-Attribute Constraint Satisfaction via Language Model Rewriting
         year: '2025'
+        volume: May 2025
         owner: riedl
         url: https://arxiv.org/abs/2412.19198
         author:
