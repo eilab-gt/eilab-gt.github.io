@@ -8522,3 +8522,27 @@ entries:
         -   first: Deven
             middle: R.
             last: Desai
+      - id: Riedl2025Linear
+        bibtex: |
+            @InProceedings{Riedl2025Linear,
+            author    = {Riedl, Mark O. and Young, R. Michael},
+            booktitle = {Proceedings of the 2025 AAAI Conference on AI and Interactive Digital Entertainment},
+            title     = {From Linear Story Generation to Branching Story Graphs},
+            year      = {2005},
+            owner     = {riedl},
+            url       = {https://ojs.aaai.org/index.php/AIIDE/article/view/18725},
+            }
+        type: InProceedings
+        booktitle: Proceedings of the 2025 AAAI Conference on AI and Interactive Digital
+            Entertainment
+        title: From Linear Story Generation to Branching Story Graphs
+        year: '2005'
+        owner: riedl
+        url: https://ojs.aaai.org/index.php/AIIDE/article/view/18725
+        author:
+        -   first: Mark
+            middle: O.
+            last: Riedl
+        -   first: R.
+            middle: Michael
+            last: Young
