@@ -8526,14 +8526,14 @@ entries:
         bibtex: |
             @InProceedings{Riedl2025Linear,
             author    = {Riedl, Mark O. and Young, R. Michael},
-            booktitle = {Proceedings of the 2025 AAAI Conference on AI and Interactive Digital Entertainment},
+            booktitle = {Proceedings of the 1st AAAI Conference on AI and Interactive Digital Entertainment},
             title     = {From Linear Story Generation to Branching Story Graphs},
             year      = {2005},
             owner     = {riedl},
             url       = {https://ojs.aaai.org/index.php/AIIDE/article/view/18725},
             }
         type: InProceedings
-        booktitle: Proceedings of the 2025 AAAI Conference on AI and Interactive Digital
+        booktitle: Proceedings of the 1st AAAI Conference on AI and Interactive Digital
             Entertainment
         title: From Linear Story Generation to Branching Story Graphs
         year: '2005'
@@ -8546,3 +8546,128 @@ entries:
         -   first: R.
             middle: Michael
             last: Young
+      - id: Matlin2025Suspense
+        bibtex: |
+            @InProceedings{Matlin2025Suspense,
+            author    = {Glenn Matlin and Devin Zhang and Loza, Rodrigo Barroso and Popescu, Diana M. and Joni Isbell and Chandreyi Chakraborty and Mark Riedl},
+            booktitle = {Proceedings of the 2025 Conference on Language Models},
+            title     = {Do Language Models Agree with Human Perceptions of Suspense in Stories?},
+            year      = {2025},
+            owner     = {riedl},
+            url       = {https://arxiv.org/abs/2508.15794},
+            }
+        type: InProceedings
+        booktitle: Proceedings of the 2025 Conference on Language Models
+        title: Do Language Models Agree with Human Perceptions of Suspense in Stories?
+        year: '2025'
+        owner: riedl
+        url: https://arxiv.org/abs/2508.15794
+        author:
+        -   first: Glenn
+            last: Matlin
+        -   first: Devin
+            last: Zhang
+        -   first: Rodrigo
+            middle: Barroso
+            last: Loza
+        -   first: Diana
+            middle: M.
+            last: Popescu
+        -   first: Joni
+            last: Isbell
+        -   first: Chandreyi
+            last: Chakraborty
+        -   first: Mark
+            last: Riedl
+      - id: Matlin2025Wargames
+        bibtex: |
+            @InProceedings{Matlin2025Wargames,
+            author    = {Glenn Matlin and Parv Mahajan and Isaac Song and Yixiong Hao and Ryan Bard and Stu Topp and Evan Montoya and Parwani, M. Rehan and Soham Shetty and Mark Riedl},
+            booktitle = {Proceedings of the 2025 EMNLP Word Play Workshop},
+            title     = {Shall We Play a Game? Language Models for Open-ended Wargames},
+            year      = {2025},
+            owner     = {riedl},
+            url       = {https://arxiv.org/abs/2509.17192},
+            }
+        type: InProceedings
+        booktitle: Proceedings of the 2025 EMNLP Word Play Workshop
+        title: Shall We Play a Game? Language Models for Open-ended Wargames
+        year: '2025'
+        owner: riedl
+        url: https://arxiv.org/abs/2509.17192
+        author:
+        -   first: Glenn
+            last: Matlin
+        -   first: Parv
+            last: Mahajan
+        -   first: Isaac
+            last: Song
+        -   first: Yixiong
+            last: Hao
+        -   first: Ryan
+            last: Bard
+        -   first: Stu
+            last: Topp
+        -   first: Evan
+            last: Montoya
+        -   first: M.
+            middle: Rehan
+            last: Parwani
+        -   first: Soham
+            last: Shetty
+        -   first: Mark
+            last: Riedl
+      - id: Zollicoffer2025Robustness
+        bibtex: |
+            @Article{Zollicoffer2025Robustness,
+            author  = {Geigh Zollicoffer and Tanush Chopra and Mingkuan Yan and Xiaoxu Ma and Kenneth Eaton and Mark Riedl},
+            journal = {arXiv:2512.01119},
+            title   = {World Model Robustness via Surprise Recognition},
+            year    = {2025},
+            owner   = {riedl},
+            url     = {https://arxiv.org/abs/2512.01119},
+            }
+        type: Article
+        journal: arXiv:2512.01119
+        title: World Model Robustness via Surprise Recognition
+        year: '2025'
+        owner: riedl
+        url: https://arxiv.org/abs/2512.01119
+        author:
+        -   first: Geigh
+            last: Zollicoffer
+        -   first: Tanush
+            last: Chopra
+        -   first: Mingkuan
+            last: Yan
+        -   first: Xiaoxu
+            last: Ma
+        -   first: Kenneth
+            last: Eaton
+        -   first: Mark
+            last: Riedl
+      - id: Desai2026UsingAgency
+        bibtex: |
+            @Article{Desai2026UsingAgency,
+            author  = {Desai, Deven R. and Riedl, Mark O.},
+            journal = {Berkeley Technology Law Review},
+            title   = {Using Agency Law to Tame {AI} Agents},
+            year    = {2026},
+            volume  = {forthcoming},
+            owner   = {riedl},
+            url     = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5147666},
+            }
+        type: Article
+        journal: Berkeley Technology Law Review
+        title: Using Agency Law to Tame AI Agents
+        year: '2026'
+        volume: forthcoming
+        owner: riedl
+        url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5147666
+        author:
+        -   first: Deven
+            middle: R.
+            last: Desai
+        -   first: Mark
+            middle: O.
+            last: Riedl
