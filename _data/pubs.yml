@@ -8671,3 +8671,24 @@ entries:
         -   first: Mark
             middle: O.
             last: Riedl
+      - id: Mansi2026Evaluating
+        bibtex: |
+            @InProceedings{Mansi2026Evaluating,
+            author    = {Mansi, Gennie and Riedl, Mark O.},
+            booktitle = {Proceedings of the 2026 International Conference on Human Computer Interaction},
+            title     = {Evaluating Actionability in Explainable AI},
+            year      = {2026},
+            owner     = {riedl},
+            }
+        type: InProceedings
+        booktitle: Proceedings of the 2026 International Conference on Human Computer
+            Interaction
+        title: Evaluating Actionability in Explainable AI
+        year: '2026'
+        owner: riedl
+        author:
+        -   first: Gennie
+            last: Mansi
+        -   first: Mark
+            middle: O.
+            last: Riedl
