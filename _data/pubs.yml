@@ -8692,3 +8692,25 @@ entries:
         -   first: Mark
             middle: O.
             last: Riedl
+      - id: Mansi2024Recognizing
+        bibtex: |
+            @InProceedings{Mansi2024Recognizing,
+            author    = {Gennie Mansi and Mark Riedl},
+            booktitle = {Proceedings of the CSCW 2024 Workshop: From Stem to Stern: Contestability Along AI Value Chains},
+            title     = {Recognizing Lawyers as AI Creators and Intermediaries in Contestability},
+            year      = {2024},
+            owner     = {riedl},
+            url       = {https://arxiv.org/abs/2409.17626},
+            }
+        type: InProceedings
+        booktitle: 'Proceedings of the CSCW 2024 Workshop: From Stem to Stern: Contestability
+            Along AI Value Chains'
+        title: Recognizing Lawyers as AI Creators and Intermediaries in Contestability
+        year: '2024'
+        owner: riedl
+        url: https://arxiv.org/abs/2409.17626
+        author:
+        -   first: Gennie
+            last: Mansi
+        -   first: Mark
+            last: Riedl
