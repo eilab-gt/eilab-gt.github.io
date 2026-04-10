@@ -8791,3 +8791,35 @@ entries:
             last: Erol
         -   first: Mark
             last: Riedl
+      - id: Singh2026Agentic
+        bibtex: |
+            @InProceedings{Singh2026Agentic,
+            author    = {Singh, Madhuri and Kim, Grace C. and Okomoto, Mika and Ammavajjala, Aarushi and Alabdulkarim, Amal and Mansi, Genni and Riedl, Mark O.},
+            booktitle = {Proceedings of the 2026 CHI Workshop on Human-Centered Explainable {AI}},
+            title     = {Counterfactual Explanations for Agentic Workflows},
+            year      = {2026},
+            owner     = {riedl},
+            }
+        type: InProceedings
+        booktitle: Proceedings of the 2026 CHI Workshop on Human-Centered Explainable
+            AI
+        title: Counterfactual Explanations for Agentic Workflows
+        year: '2026'
+        owner: riedl
+        author:
+        -   first: Madhuri
+            last: Singh
+        -   first: Grace
+            middle: C.
+            last: Kim
+        -   first: Mika
+            last: Okomoto
+        -   first: Aarushi
+            last: Ammavajjala
+        -   first: Amal
+            last: Alabdulkarim
+        -   first: Genni
+            last: Mansi
+        -   first: Mark
+            middle: O.
+            last: Riedl
