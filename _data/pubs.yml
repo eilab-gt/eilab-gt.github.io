@@ -8766,3 +8766,28 @@ entries:
             last: 'Riedl'
         -   first: Sara
             last: 'Alcorn'
+      - id: Okamoto2026Routing
+        bibtex: |
+            @InProceedings{Okamoto2026Routing,
+            author    = {Mika Okamoto and Erol, Ansel Kaplan and Mark Riedl},
+            booktitle = {Proceedings of the 2026 CHI Workshop on Human-Centered Explainable {AI}},
+            title     = {Explainable Model Routing for Agentic Workflows},
+            year      = {2026},
+            owner     = {riedl},
+            url       = {https://arxiv.org/abs/2604.03527},
+            }
+        type: InProceedings
+        booktitle: Proceedings of the 2026 CHI Workshop on Human-Centered Explainable
+            AI
+        title: Explainable Model Routing for Agentic Workflows
+        year: '2026'
+        owner: riedl
+        url: https://arxiv.org/abs/2604.03527
+        author:
+        -   first: Mika
+            last: Okamoto
+        -   first: Ansel
+            middle: Kaplan
+            last: Erol
+        -   first: Mark
+            last: Riedl
