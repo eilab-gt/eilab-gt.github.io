@@ -10,7 +10,7 @@ classes: wide
 author:
   name: "Mark Riedl"
   avatar: "/assets/images/mark-potato.jpg"
-  bio: "**Professor** School of Interactive Computing, College of Computing, Georgia Institute of Technology **Associate Director** GT Machine Learning Center"
+  bio: "**Gitesh Ramamurthy Endowed Professor in AI** School of Interactive Computing, College of Computing, Georgia Institute of Technology **Director** GT Machine Learning Center"
   links:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
@@ -21,12 +21,6 @@ author:
     - label: "BlueSky"
       icon: "fa-solid fa-square-full"
       url: "https://bsky.app/profile/markriedl.bsky.social"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mark_riedl"
-    - label: "Mastodon"
-      icon: "fa-brands fa-mastodon"
-      url: "https://sigmoid.social/@Riedl"
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/markriedl/"
