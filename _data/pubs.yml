@@ -8679,6 +8679,7 @@ entries:
             title     = {Evaluating Actionability in Explainable AI},
             year      = {2026},
             owner     = {riedl},
+            url       = {https://arxiv.org/abs/2601.20086},
             }
         type: InProceedings
         booktitle: Proceedings of the 2026 International Conference on Human Computer
@@ -8686,6 +8687,7 @@ entries:
         title: Evaluating Actionability in Explainable AI
         year: '2026'
         owner: riedl
+        url: https://arxiv.org/abs/2601.20086
         author:
         -   first: Gennie
             last: Mansi
