@@ -8823,3 +8823,32 @@ entries:
         -   first: Mark
             middle: O.
             last: Riedl
+      - id: Zollicoffer2026WorldModel
+        bibtex: |
+            @InProceedings{Zollicoffer2026WorldModel,
+            author    = {Zollicoffer, Geigh and Tanush Chopra and Mingkuan Yan and Xiaoxu Ma and Kenneth Eaton and Mark Riedl},
+            booktitle = {Proceedings of the 2026 CVPR Findings},
+            title     = {World Model Robustness via Surprise Recognition},
+            year      = {2026},
+            owner     = {riedl},
+            url       = {https://arxiv.org/abs/2512.01119},
+            }
+        type: InProceedings
+        booktitle: Proceedings of the 2026 CVPR Findings
+        title: World Model Robustness via Surprise Recognition
+        year: '2026'
+        owner: riedl
+        url: https://arxiv.org/abs/2512.01119
+        author:
+        -   first: Geigh
+            last: Zollicoffer
+        -   first: Tanush
+            last: Chopra
+        -   first: Mingkuan
+            last: Yan
+        -   first: Xiaoxu
+            last: Ma
+        -   first: Kenneth
+            last: Eaton
+        -   first: Mark
+            last: Riedl
