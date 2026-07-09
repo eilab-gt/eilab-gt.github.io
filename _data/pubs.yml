@@ -8829,3 +8829,43 @@ entries:
             last: Eaton
         -   first: Mark
             last: Riedl
+      - id: Matlin2026Where
+        bibtex: |
+            @InProceedings{Matlin2026Where,
+            author    = {Matlin, Glenn and Chandreyi Chakraborty and Saehee Eom and Mika Okamoto and Rayan Castilla and Louis Jaburi and Alvin Deng and Taywon Min and Lucia Quirke and Stella Biderman and Mark Riedl},
+            booktitle = {Proceedings of the 2026 Conference on Language Models},
+            title     = {Where Does Social Reasoning Come From? Capability Provenance in Language Models},
+            year      = {2026},
+            owner     = {riedl},
+            url       = {https://arxiv.org/abs/2606.19625},
+            }
+        type: InProceedings
+        booktitle: Proceedings of the 2026 Conference on Language Models
+        title: Where Does Social Reasoning Come From? Capability Provenance in Language
+            Models
+        year: '2026'
+        owner: riedl
+        url: https://arxiv.org/abs/2606.19625
+        author:
+        -   first: Glenn
+            last: Matlin
+        -   first: Chandreyi
+            last: Chakraborty
+        -   first: Saehee
+            last: Eom
+        -   first: Mika
+            last: Okamoto
+        -   first: Rayan
+            last: Castilla
+        -   first: Louis
+            last: Jaburi
+        -   first: Alvin
+            last: Deng
+        -   first: Taywon
+            last: Min
+        -   first: Lucia
+            last: Quirke
+        -   first: Stella
+            last: Biderman
+        -   first: Mark
+            last: Riedl
