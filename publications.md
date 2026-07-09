@@ -9,7 +9,7 @@ classes: wide
 a:link, a:visited, a:hover, a:active {text-decoration: none;}
 .arxiv {
 	font-size: small;
-	background-color: red;
+	background-color: #AFD5FA;
 	color: white;
 	border: 1px solid red;
 	text-decoration: none;
@@ -18,7 +18,7 @@ a:link, a:visited, a:hover, a:active {text-decoration: none;}
 }
 .ssrn {
 	font-size: small;
-	background-color: blue;
+	background-color: #18386F;
 	color: white;
 	border: 1px solid blue;
 	text-decoration: none;
