@@ -11,7 +11,7 @@ a:link, a:visited, a:hover, a:active {text-decoration: none;}
 	font-size: small;
 	background-color: #AFD5FA;
 	color: white;
-	border: 1px solid red;
+	border: 1px solid #AFD5FA;
 	text-decoration: none;
 	text-decoration-color: white;
 	border-radius: 2px;
@@ -20,7 +20,7 @@ a:link, a:visited, a:hover, a:active {text-decoration: none;}
 	font-size: small;
 	background-color: #18386F;
 	color: white;
-	border: 1px solid blue;
+	border: 1px solid #18386F;
 	text-decoration: none;
 	text-decoration-color: white;
 	border-radius: 2px;
